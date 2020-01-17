@@ -16,7 +16,7 @@ A collection of notes and guidelines for common application features and functio
 - Password Reset
 - Payment Processing
 - Privacy Policy
-- Registration
+- [Registration](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Registration.md)
 - Report a Problem
 - Search Engine Optimisation
 - Security
