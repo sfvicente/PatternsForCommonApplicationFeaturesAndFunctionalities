@@ -14,6 +14,7 @@ A collection of notes and guidelines for common application features and functio
 - Navigation
 - Notifications
 - Password Reset
+- [Password Reset](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/PasswordReset.md)
 - Payment Processing
 - Privacy Policy
 - [Registration](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Registration.md)
