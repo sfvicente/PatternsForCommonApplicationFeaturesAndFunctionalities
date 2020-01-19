@@ -6,6 +6,7 @@ A collection of notes and guidelines for common application features and functio
 
 - About Us
 - Contact Us
+- [Contact Us](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/ContactUs.md)
 - Cookie Consent
 - Frequently Asked Questions
 - Getting Started
