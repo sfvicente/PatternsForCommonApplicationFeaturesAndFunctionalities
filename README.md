@@ -10,7 +10,13 @@ A collection of notes and guidelines for common application features and functio
 - Cookie Consent
 - Frequently Asked Questions
 - Getting Started
-- Login
+- 
+
+ **Login**
+
+ - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Login-General.md)
+ <br>
+
 - Messages
 - Navigation
 - Notifications
