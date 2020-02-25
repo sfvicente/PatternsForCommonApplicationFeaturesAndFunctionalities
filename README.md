@@ -6,7 +6,7 @@ A collection of notes and guidelines for common application features and functio
 
 - About Us
 - Contact Us
-- [Contact Us](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/ContactUs.md)
+- [Contact Us](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ContactUs/ContactUs.md)
 - Cookie Consent
 - Frequently Asked Questions
 - Getting Started
@@ -14,17 +14,17 @@ A collection of notes and guidelines for common application features and functio
 
  **Login**
 
- - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Login-General.md)
+ - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-General.md)
  <br>
 
 - Messages
 - Navigation
 - Notifications
 - Password Reset
-- [Password Reset](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/PasswordReset.md)
+- [Password Reset](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset.md)
 - Payment Processing
 - Privacy Policy
-- [Registration](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Registration.md)
+- [Registration](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Registration/Registration.md)
 - Report a Problem
 - Search Engine Optimisation
 - Security
