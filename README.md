@@ -4,7 +4,9 @@ A collection of notes and guidelines for common application features and functio
 
 ### Table of Contents
 
-- About Us
+**About Us**
+    - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
+
 - Contact Us
 - [Contact Us](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ContactUs/ContactUs.md)
 - Cookie Consent
