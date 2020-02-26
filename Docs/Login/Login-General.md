@@ -24,3 +24,9 @@ TODO: description
 
 TODO: description
 <br>
+
+
+### Remember user details when they return to the web site
+TODO: description
+<br>
+
