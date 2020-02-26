@@ -7,8 +7,9 @@ A collection of notes and guidelines for common application features and functio
 **About Us**
     - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
 
-- Contact Us
-- [Contact Us](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ContactUs/ContactUs.md)
+**Contact Us**
+    - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ContactUs/ContactUs-General.md)
+
 - Cookie Consent
 - Frequently Asked Questions
 - Getting Started
