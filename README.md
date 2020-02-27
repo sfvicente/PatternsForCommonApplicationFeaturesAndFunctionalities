@@ -38,3 +38,8 @@ A collection of notes and guidelines for common application features and functio
 - Terms and Conditions
 - User Groups
 - User Profiles
+
+**Offboarding**
+    - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Offboarding/Offboarding-General.md)
+
+
