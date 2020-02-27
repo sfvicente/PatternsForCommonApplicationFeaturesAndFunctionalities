@@ -22,7 +22,10 @@ A collection of notes and guidelines for common application features and functio
 
 - Messages
 - Navigation
-- Notifications
+
+**Notifications**
+    - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Notifications/Notifications-General.md)
+
 - Password Reset
 - [Password Reset](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset.md)
 - Payment Processing
