@@ -18,3 +18,9 @@ TODO: Add description
 <br>
 
 
+### Do not store passwords using a custom-developed hashing mechanism under any circumstances.
+
+TODO: Add description
+<br>
+
+
