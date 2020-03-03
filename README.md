@@ -26,6 +26,9 @@ A collection of notes and guidelines for common application features and functio
 **Notifications**
     - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Notifications/Notifications-General.md)
 
+**Password Management**
+    - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordManagement/PasswordManagement-General.md)
+
 - Password Reset
 - [Password Reset](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset.md)
 - Payment Processing
