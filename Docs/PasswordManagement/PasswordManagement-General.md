@@ -11,3 +11,10 @@ TODO: Add description
 TODO: Add description
 <br>
 
+
+### Do not store passwords using a reversible encryption mechanism under any circumstances.
+
+TODO: Add description
+<br>
+
+
