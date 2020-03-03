@@ -6,3 +6,8 @@
 TODO: Add description
 <br>
 
+### Do not use deprecated hashing technologies such as MD5 and SHA1.
+
+TODO: Add description
+<br>
+
