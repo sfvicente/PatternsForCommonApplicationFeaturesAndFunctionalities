@@ -1,3 +1,3 @@
-# Password Reset | General
+# Password Reset | Email
 <br>
 
