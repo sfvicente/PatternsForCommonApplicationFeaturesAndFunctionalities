@@ -19,6 +19,9 @@ A collection of notes and guidelines for common application features and functio
  **Login**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-General.md)
 
+**Login**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/LandingPage/LandingPage-General.md)
+
 **Messages**
 
 **Navigation**
