@@ -16,7 +16,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Getting Started**
 
- **Login**
+**Login**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-General.md)
 
 **Login**
