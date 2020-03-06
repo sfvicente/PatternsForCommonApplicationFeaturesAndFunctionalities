@@ -21,6 +21,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Landing Page**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/LandingPage/LandingPage-General.md)
+- [Call To Action](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/LandingPage/LandingPage-CallToAction.md)
 
 **Messages**
 
