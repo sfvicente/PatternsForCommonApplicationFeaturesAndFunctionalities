@@ -35,6 +35,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Password Reset**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset-General.md)
+- [Email](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset-Email.md)
 - [Logging](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset-Logging.md)
 
 **Payment Processing**
