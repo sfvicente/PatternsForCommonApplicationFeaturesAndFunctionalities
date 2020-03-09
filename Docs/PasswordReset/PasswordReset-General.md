@@ -20,6 +20,12 @@ If a password is generated and sent via email, a malicious user can lock the acc
 <br>
 
 
+### Make the password reset URLs a one-time process.
+
+All URLs and associated tokens should be invalidated once the password reset process is completed. There is no more need for the the URL or token if the process has been complete successfully. It also limits both the opportunity window and the risk of possible attacks.
+<br>
+
+
 ### Provide information on how to contact support
 
 TODO: Add description
