@@ -29,4 +29,11 @@ All URLs and associated tokens should be invalidated once the password reset pro
 ### Provide information on how to contact support
 
 TODO: Add description
-<br><br>
+<br>
+
+
+### Limit the duration of the password reset URL or token.
+
+A password reset URL should expire after the process is completed or after a pre-defined period. It ensures that the process is completed within a certain duration. Keeping the expiration window to a minimum reduces the possibility of attackers re-using links, for example, if the user's email is later compromised.
+Limit the duration of the URL to the minimum possible without causing issues to your users.  Consider email delivery and reliability. Recommended duration should be 20 minutes with a maximum of one hour.
+<br>
