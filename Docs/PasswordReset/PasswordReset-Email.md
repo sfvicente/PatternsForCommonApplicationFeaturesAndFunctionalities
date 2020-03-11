@@ -19,4 +19,11 @@ TODO: Example
 <br>
 
 
+### Include information in the email to let the recipient know that the reset URL will expire as well as when the link expires.
+
+The recommend practice is to have the expiration window as small as possible. A password reset link might expire before the recipient has an opportunity to access their email and complete the process. It’s important to clearly communicate both the fact that the link expires as well as when the link will expire.
+
+Include a sentence in the email to let the recipient know the password reset URL that it expires and how long until the link expires. For convenience, you can include a direct link to where users can initiate another password reset request if the link has expired.
+<br>
+
 
