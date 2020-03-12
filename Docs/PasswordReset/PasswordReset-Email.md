@@ -9,6 +9,13 @@ In additional to the lack of confidentiality of the in-transit information, cont
 <br>
 
 
+### Use a relevant and readable _Subject_ and _From_ name in the email.
+
+It's important for the user to be able to identify and locate the password reset email as soon as arrives in the inbox.
+
+Although the _Subject_ and _From_ are not critical to the process, facilitating the location will will reduce friction and ensure a smoother process.
+
+
 ### Identify who initiated the reset process in the reset email.
 
 A password request mechanism is prone to abuse. You can help the recipient by supplying more information regarding the request.
