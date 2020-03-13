@@ -23,3 +23,10 @@ TODO: Add description
 <br>
 
 
+### Implementing the `X-XSS-Protection` security header to help prevent cross-site scripting attacks.
+
+TODO: Add description
+
+<br>
+
+
