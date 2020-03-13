@@ -16,3 +16,10 @@ TODO: Add description
 <br>
 
 
+### Always use an updated version of TLS.
+
+TODO: Add description
+
+<br>
+
+
