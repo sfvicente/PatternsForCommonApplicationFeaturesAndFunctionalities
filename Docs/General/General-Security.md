@@ -44,5 +44,12 @@ TODO: Add description
 <br>
 
 
+### Apply subresource integrity to your resource’s <script> or <link> elements.
+
+TODO: Add description
+
+<br>
+
+
 
 
