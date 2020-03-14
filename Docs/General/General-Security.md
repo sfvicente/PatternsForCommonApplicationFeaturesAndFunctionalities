@@ -30,3 +30,10 @@ TODO: Add description
 <br>
 
 
+### Implement a content security policy.
+
+TODO: Add description
+
+<br>
+
+
