@@ -37,3 +37,12 @@ TODO: Add description
 <br>
 
 
+### Enabling public key pins to help prevent man in the middle attacks.
+
+TODO: Add description
+
+<br>
+
+
+
+
