@@ -13,7 +13,8 @@ A collection of notes and guidelines for common application features and functio
 **Contact Us**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ContactUs/ContactUs-General.md)
 
-**Cookie Consent**
+**Cookies**
+- [Consent](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Cookies/Cookies-Consent.md)
 
 **Frequently Asked Questions**
 
