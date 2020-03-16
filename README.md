@@ -15,6 +15,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Cookies**
 - [Consent](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Cookies/Cookies-Consent.md)
+- [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Cookies/Cookies-Security.md)
 
 **Frequently Asked Questions**
 
