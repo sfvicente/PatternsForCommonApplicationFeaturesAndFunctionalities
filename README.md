@@ -6,6 +6,7 @@ A collection of notes and guidelines for common application features and functio
 
 **General**
 - [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Security.md)
+- [Performance](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Performance.md)
 
 **About Us**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
