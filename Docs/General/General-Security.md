@@ -51,5 +51,12 @@ TODO: Add description
 <br>
 
 
+### Implement permanent server-side 301 redirects from domain variants to HTTPS
+
+TODO: Add description
+
+<br>
+
+
 
 
