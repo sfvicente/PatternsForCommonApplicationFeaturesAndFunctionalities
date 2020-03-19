@@ -33,3 +33,10 @@ TODO: Add description
 <br>
 
 
+### Use a content delivery network (CDN) to reduce latency.
+
+TODO: Add description
+
+<br>
+
+
