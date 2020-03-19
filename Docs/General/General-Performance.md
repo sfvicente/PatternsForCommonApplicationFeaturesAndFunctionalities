@@ -40,3 +40,11 @@ TODO: Add description
 <br>
 
 
+### Avoid permanent URL redirections
+
+TODO: Add description
+
+<br>
+
+
+
