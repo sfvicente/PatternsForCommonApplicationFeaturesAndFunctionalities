@@ -25,3 +25,11 @@ TODO: Add description
 <br>
 
 
+### Minify JavaScript files
+
+
+TODO: Add description
+
+<br>
+
+
