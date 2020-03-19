@@ -17,3 +17,11 @@ TODO: Add description
 <br>
 
 
+### Minify CSS files
+
+
+TODO: Add description
+
+<br>
+
+
