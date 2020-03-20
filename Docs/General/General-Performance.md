@@ -61,3 +61,13 @@ TODO: Add description
 <br>
 
 
+### Use preconnect to allow the browser to set up early connections before an HTTP request is sent to the server.
+
+TODO: Add description
+
+<br>
+
+
+
+
+
