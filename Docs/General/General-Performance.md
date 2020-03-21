@@ -68,6 +68,16 @@ TODO: Add description
 <br>
 
 
+### Adopt HTTP/2.
+
+TODO: Add description
+
+<br>
+
+
+
+
+
 
 
 
