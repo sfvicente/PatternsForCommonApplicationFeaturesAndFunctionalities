@@ -75,6 +75,13 @@ TODO: Add description
 <br>
 
 
+### Consider using custom fonts to reduce network requests.
+
+TODO: Add description
+
+<br>
+
+
 
 
 
