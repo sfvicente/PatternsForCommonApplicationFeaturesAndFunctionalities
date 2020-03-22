@@ -82,7 +82,11 @@ TODO: Add description
 <br>
 
 
+### Prioritize fonts based on browser support.
 
+TODO: Add description
+
+<br>
 
 
 
