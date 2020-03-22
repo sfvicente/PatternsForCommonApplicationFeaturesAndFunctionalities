@@ -89,6 +89,14 @@ TODO: Add description
 <br>
 
 
+### Choose only the font styles that are required by the application.
+
+TODO: Add description
+
+<br>
+
+
+
 
 
 
