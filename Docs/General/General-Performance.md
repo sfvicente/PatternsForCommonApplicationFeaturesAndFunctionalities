@@ -96,6 +96,14 @@ TODO: Add description
 <br>
 
 
+### Keep the font character sets as small as possible
+
+TODO: Add description
+
+<br>
+
+
+
 
 
 
