@@ -110,6 +110,13 @@ TODO: Add description
 <br>
 
 
+### Consider storing fonts in `LocalStorage` with _Base64 Encoding_
+
+TODO: Add description
+
+<br>
+
+
 
 
 
