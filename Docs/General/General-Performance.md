@@ -127,6 +127,14 @@ Perform a comparison between your available CDN options to determine the most pe
 <br>
 
 
+### Use hotlink protection to save bandwith.
+
+TODO: Add description
+
+<br>
+
+
+
 
 
 
