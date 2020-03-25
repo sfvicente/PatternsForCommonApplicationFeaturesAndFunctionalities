@@ -134,6 +134,15 @@ TODO: Add description
 <br>
 
 
+### Enable GZIP compression.
+
+TODO: Add description
+
+<br>
+
+
+
+
 
 
 
