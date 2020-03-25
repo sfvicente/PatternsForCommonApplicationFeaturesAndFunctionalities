@@ -117,6 +117,17 @@ TODO: Add description
 <br>
 
 
+### Consider moving to an improved CDN provider.
+
+Perform a comparison between your available CDN options to determine the most performant. Take into account the following items:
+- Number of HTTP requests
+- DNS lookups
+- Availability of HTTP/2 connections
+- Control over caching
+<br>
+
+
+
 
 
 
