@@ -9,7 +9,7 @@ TODO: Description
 <br>
 
 
-### Do not skip heading levels.
+### Do not skip header levels.
 
 TODO: Description
 
