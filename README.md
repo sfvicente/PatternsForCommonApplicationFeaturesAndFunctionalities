@@ -9,6 +9,9 @@ A collection of notes and guidelines for common application features and functio
 - [Performance](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Performance.md)
 - [Accessibility](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Accessibility.md)
 
+**Account Management**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AccountManagement/AccountManagement-General.md)
+
 **About Us**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
 
