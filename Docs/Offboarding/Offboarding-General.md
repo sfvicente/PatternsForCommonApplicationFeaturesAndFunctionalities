@@ -28,3 +28,12 @@ TODO: description
 TODO: description
 
 <br>
+
+
+### Do not hide or make it difficult to the user to find option to delete the account.
+
+TODO: description
+
+<br>
+
+
