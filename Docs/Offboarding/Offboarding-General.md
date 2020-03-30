@@ -37,3 +37,12 @@ TODO: description
 <br>
 
 
+### Always provide an option to cancel the membership.
+
+TODO: description
+
+<br>
+
+
+
+
