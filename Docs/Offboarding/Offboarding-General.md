@@ -21,3 +21,10 @@ TODO: description
 TODO: description
 
 <br>
+
+
+### When asking for confirmation, show the user the benefits of maintaining their membership.
+
+TODO: description
+
+<br>
