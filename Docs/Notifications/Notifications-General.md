@@ -12,3 +12,12 @@ TODO: description
 TODO: description
 
 <br>
+
+
+### Consider stop sending the notifications if users are not taking action on them.
+
+TODO: description
+
+<br>
+
+
