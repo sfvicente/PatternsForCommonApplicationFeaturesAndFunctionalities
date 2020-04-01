@@ -28,3 +28,11 @@ TODO: description
 <br>
 
 
+### Prefer non-interfering notifications.
+
+TODO: description
+
+<br>
+
+
+
