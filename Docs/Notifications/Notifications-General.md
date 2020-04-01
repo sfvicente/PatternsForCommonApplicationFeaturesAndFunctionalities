@@ -42,4 +42,11 @@ TODO: description
 <br>
 
 
+### Avoid sending notifications if a user has never opened the application.
+
+TODO: description
+
+<br>
+
+
 
