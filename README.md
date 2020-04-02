@@ -57,6 +57,10 @@ A collection of notes and guidelines for common application features and functio
 
 **Report a Problem**
 
+**Search**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Search/Search-General.md)
+
+
 **Search Engine Optimisation**
 
 **Security**
