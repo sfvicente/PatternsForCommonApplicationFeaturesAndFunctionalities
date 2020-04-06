@@ -8,6 +8,7 @@ A collection of notes and guidelines for common application features and functio
 - [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Security.md)
 - [Performance](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Performance.md)
 - [Accessibility](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Accessibility.md)
+- [Content](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Content.md)
 - [Design](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Design.md)
 - [Help](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Help.md)
 
