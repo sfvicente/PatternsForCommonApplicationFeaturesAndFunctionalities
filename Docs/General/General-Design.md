@@ -24,3 +24,8 @@ TODO: Description
 <br>
 
 
+### Use labels to clarify the meaning of abstract or unfamiliar icons.
+
+TODO: Description
+
+<br>
