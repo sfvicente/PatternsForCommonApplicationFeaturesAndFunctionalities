@@ -49,4 +49,12 @@ TODO: description
 <br>
 
 
+### Avoid sending notifications for operations that don’t require user involvement.
+
+Applications can perform actions that do not require user involvement such as backing or syncing information.
+
+TODO: description
+
+<br>
+
 
