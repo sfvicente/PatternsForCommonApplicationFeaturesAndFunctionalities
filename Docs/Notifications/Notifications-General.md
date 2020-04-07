@@ -58,3 +58,10 @@ TODO: description
 <br>
 
 
+### Avoid sending notifications as requests to review or rate an application.
+
+TODO: description
+
+<br>
+
+
