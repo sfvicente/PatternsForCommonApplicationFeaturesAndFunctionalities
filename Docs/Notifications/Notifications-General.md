@@ -65,3 +65,9 @@ TODO: description
 <br>
 
 
+### Avoid sending notifications regarding application error states that can be recovered without user interaction.
+
+TODO: description
+
+<br>
+
