@@ -71,3 +71,13 @@ TODO: description
 
 <br>
 
+
+### Avoid sending notifications that bring no value to a user.
+
+TODO: description
+
+Examples of notification that don't have value for a user include "Haven’t seen you in a while" notifications.
+
+<br>
+
+
