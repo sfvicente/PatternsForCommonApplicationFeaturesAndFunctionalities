@@ -44,6 +44,13 @@ TODO: description
 <br>
 
 
+### Retain the user preferences, history and application usage records through membership cancelation.
+
+TODO: description
+
+<br>
+
+
 ### Always allow users to restart their membership at anytime.
 
 TODO: description
