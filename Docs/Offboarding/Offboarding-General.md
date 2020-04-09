@@ -44,13 +44,6 @@ TODO: description
 <br>
 
 
-### Always provide an option to cancel the membership.
-
-TODO: description
-
-<br>
-
-
 ### When confirming the cancellation of a membership, let the user know the date cancellation will be effective.
 
 TODO: description
@@ -79,6 +72,14 @@ TODO: description
 <br>
 
 
+### Always provide an option to delete the account.
 
+Users choose to delete their account because as they won’t return to the site in the future, won't use the product anymore or want all their data deleted.
+
+Deleting an account, unlike cancelling a membership or deactivating an account, is a permanent action. It should remove all user data, account details and security information
+from the system.
+
+
+<br>
 
 
