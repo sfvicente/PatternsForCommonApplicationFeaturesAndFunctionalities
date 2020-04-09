@@ -58,6 +58,13 @@ TODO: description
 <br>
 
 
+### Consider informing the user that their membership can be restarted at any time.
+
+TODO: description
+
+<br>
+
+
 ### Retain the user preferences, history and application usage records through membership cancelation.
 
 TODO: description
