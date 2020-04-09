@@ -44,6 +44,20 @@ TODO: description
 <br>
 
 
+### Always provide an option to cancel the membership.
+
+TODO: description
+
+<br>
+
+
+### When confirming the cancellation of a membership, let the user know the date cancellation will be effective.
+
+TODO: description
+
+<br>
+
+
 ### Retain the user preferences, history and application usage records through membership cancelation.
 
 TODO: description
