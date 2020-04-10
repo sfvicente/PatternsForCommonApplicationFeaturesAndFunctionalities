@@ -9,3 +9,10 @@ TODO: Description
 <br>
 
 
+### Do not make it difficult for the user to unsubscribe.
+
+TODO: Description
+
+<br>
+
+
