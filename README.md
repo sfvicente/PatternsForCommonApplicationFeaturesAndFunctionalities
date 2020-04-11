@@ -58,6 +58,9 @@ A collection of notes and guidelines for common application features and functio
 
 **Privacy Policy**
 
+**Product Page**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductPage/ProductPage-General.md)
+
 **Registration**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Registration/Registration-General.md)
 
