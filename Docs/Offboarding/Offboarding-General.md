@@ -83,3 +83,10 @@ from the system.
 <br>
 
 
+### Always end the relationship on a positive note
+
+After a user chooses to cancel or delete an account, thank them for the membership and show that you are always ready to resume the collaboration.
+
+TODO: Example
+
+<br>
