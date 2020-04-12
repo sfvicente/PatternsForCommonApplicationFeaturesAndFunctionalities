@@ -2,3 +2,9 @@
 <br>
 
 
+### Always display a 'Continue Shopping' option.
+
+TODO: Description
+
+<br>
+
