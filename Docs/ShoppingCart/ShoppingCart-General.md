@@ -8,3 +8,10 @@ TODO: Description
 
 <br>
 
+
+### Consider performing cross-selling in the shopping cart detail section.
+
+TODO: Description
+
+<br>
+
