@@ -38,3 +38,12 @@ TODO: Description
 
 <br>
 
+
+### If there’s a minimum amount required for the order to qualify for free shipping, show an indication of how much more is required.
+
+TODO: Description
+
+<br>
+
+
+
