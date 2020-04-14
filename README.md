@@ -71,6 +71,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Shopping Cart**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ShoppingCart/ShoppingCart-General.md)
+- [Shipping](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ShoppingCart/ShoppingCart-Shipping.md)
 
 **Search Engine Optimisation**
 
