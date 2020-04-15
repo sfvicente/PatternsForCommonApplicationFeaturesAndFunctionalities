@@ -30,5 +30,14 @@ TODO: Description
 <br>
 
 
+### Consider offering a live chat or phone assistance service.
 
+Offering a live chat or phone assistance service on the cart page provides the following advantages:
+- Increases conversions
+- Increases the customer trust
+- Leverages your brand identity
+
+TODO: Description
+
+<br>
 
