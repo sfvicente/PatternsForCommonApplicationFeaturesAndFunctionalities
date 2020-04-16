@@ -2,6 +2,13 @@
 <br>
 
 
+### Consider offering free shipping.
+
+TODO: Description
+
+<br>
+
+
 ### If there is an offer of free shipping, make it clear and obvious to the user.
 
 Offering free shipping is a motivator for users to complete the purchase.
