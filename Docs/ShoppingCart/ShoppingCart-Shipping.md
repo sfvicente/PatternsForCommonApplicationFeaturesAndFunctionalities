@@ -25,6 +25,13 @@ TODO: Description
 <br>
 
 
+### Make shipping costs obvious at checkout
+
+TODO: Description
+
+<br>
+
+
 ### Display the exact date of expected delivery of each cart item.
 
 TODO: Description
