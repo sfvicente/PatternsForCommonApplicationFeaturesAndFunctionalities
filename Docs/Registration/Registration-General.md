@@ -2,7 +2,7 @@
 <br>
 
 
-### Number of fields required for registration: this should be kept to a minimum
+### Keep the number of fields required for registration to a minimum.
 
 TODO: Add description.
 <br>
