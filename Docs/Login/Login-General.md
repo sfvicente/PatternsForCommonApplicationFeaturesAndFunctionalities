@@ -52,4 +52,16 @@ TODO: description
 <br>
 
 
+### Allow users to login with a social login from an external account (e.g. Facebook)
+
+Social login allows a user to sign into an application or website without creating an account in that application. It uses existing account information from social networking services such as Facebook, Google, LinkedIn and Twitter.
+
+It is a form of single sign-on designed to simplify and make the login process more convinient for end users.
+
+
+TODO: description
+
+<br>
+
+
 
