@@ -30,3 +30,12 @@ TODO: description
 TODO: description
 <br>
 
+
+### Allow users the option to remain logged in
+
+TODO: description
+
+<br>
+
+
+
