@@ -21,3 +21,10 @@ TODO: Example
 <br>
 
 
+### Display the password policy to allow users to create the right password the first time.
+
+TODO: Add description.
+
+<br>
+
+
