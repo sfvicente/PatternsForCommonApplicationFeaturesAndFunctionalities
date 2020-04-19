@@ -2,6 +2,13 @@
 <br>
 
 
+### Communicate the value proposition on registration.
+
+TODO: Add description.
+
+<br>
+
+
 ### Keep the number of fields required for registration to a minimum.
 
 TODO: Add description.
