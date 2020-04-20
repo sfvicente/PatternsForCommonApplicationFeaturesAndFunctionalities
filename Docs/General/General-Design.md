@@ -29,3 +29,12 @@ TODO: Description
 TODO: Description
 
 <br>
+
+
+### Avoid horizontal layouts that require scrolling left or right.
+
+TODO: Description
+
+<br>
+
+
