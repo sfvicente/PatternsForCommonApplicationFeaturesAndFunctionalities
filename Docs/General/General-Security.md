@@ -58,5 +58,13 @@ TODO: Add description
 <br>
 
 
+### Disallow upload of executable files.
+
+TODO: Add description
+
+<br>
+
+
+
 
 
