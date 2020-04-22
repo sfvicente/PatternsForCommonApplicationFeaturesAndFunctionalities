@@ -79,5 +79,11 @@ TODO: Add description
 <br>
 
 
+### Restrict the maximum allowed size for uploaded files.
+
+TODO: Add description
+
+<br>
+
 
 
