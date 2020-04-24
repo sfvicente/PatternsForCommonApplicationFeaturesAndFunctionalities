@@ -34,4 +34,16 @@ TODO: Add description
 <br>
 
 
+### Consider using the `Referrer-Policy` header to prevent leaking the referrer value.
+
+TODO: Add referrer explanation
+
+To prevent leaking the referrer value, set `Referrer-Policy` header to `no-referrer`:
+
+```
+"Referrer-Policy": "no-referrer"
+```
+
+<br>
+
 
