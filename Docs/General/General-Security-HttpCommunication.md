@@ -54,3 +54,14 @@ The `X-AspNet-Version` specifies the version of ASP.NET used.
 TODO: Add description
 
 <br>
+
+
+### Remove the `X-Powered-By` from the response header to prevent disclosing server information and the .NET framework information.  
+
+The `X-Powered-By` specifies that the website is powered by ASP.NET.
+
+TODO: Add description
+
+<br>
+
+
