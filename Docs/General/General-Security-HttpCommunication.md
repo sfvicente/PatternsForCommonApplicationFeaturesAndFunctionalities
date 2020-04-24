@@ -47,3 +47,10 @@ To prevent leaking the referrer value, set `Referrer-Policy` header to `no-refer
 <br>
 
 
+### Remove the `X-AspNet-Version` from the response header to prevent disclosing server information and the .NET framework information.  
+
+The `X-AspNet-Version` specifies the version of ASP.NET used.
+
+TODO: Add description
+
+<br>
