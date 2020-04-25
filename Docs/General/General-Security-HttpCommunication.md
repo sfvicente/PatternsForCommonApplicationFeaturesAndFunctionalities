@@ -74,3 +74,12 @@ TODO: Add description
 <br>
 
 
+### Use the `Feature-Policy` header to limit access to browser features & APIs.
+
+The HTTP `Feature-Policy` header provides a mechanism to allow and deny the use of browser features in its own frame, and in content within any `<iframe>` elements in the document.
+
+TODO: Add description
+
+<br>
+
+
