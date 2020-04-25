@@ -65,3 +65,12 @@ TODO: Add description
 <br>
 
 
+### Remove the `Server` from the response header to prevent disclosing server information and hosting technology.  
+
+The `Server` specifies web server version (IIS version).
+
+TODO: Add description
+
+<br>
+
+
