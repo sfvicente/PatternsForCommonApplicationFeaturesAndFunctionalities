@@ -101,3 +101,18 @@ Content-Security-Policy: default-src 'none'; script-src 'self'; img-src 'self'; 
 
 <br>
 
+
+### Use the `X-Frame-Options` header to disable iframe embedding to prevent clickjacking attacks.
+
+The `X-Frame-Options` HTTP response header can be used to indicate whether a browser should be allowed to render a page in a <frame>, <iframe>, <embed> or <object>. It can be used to ensure that a web site's content is not embedded into other sites, therefore avoiding clickjacking attacks.
+
+There are two directives that can be used:
+
+`
+X-Frame-Options: DENY
+X-Frame-Options: SAMEORIGIN
+`
+
+<br>
+
+
