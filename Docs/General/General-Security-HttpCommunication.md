@@ -83,3 +83,21 @@ TODO: Add description
 <br>
 
 
+### Use the `Content-Security-Policy` to implement a strong content security policy to detect and mitigate certain types of code injection attacks.
+
+Content security policy is a layer of security that helps detect and mitigate certain types of attacks, including Cross Site Scripting (XSS) and data injection attacks.
+
+Syntax:
+
+`
+Content-Security-Policy: <policy-directive>; <policy-directive>; ...
+`
+
+Example:
+
+`
+Content-Security-Policy: default-src 'none'; script-src 'self'; img-src 'self'; style-src 'self'; connect-src 'self';
+`
+
+<br>
+
