@@ -2,6 +2,13 @@
 <br>
 
 
+### Consider displaying a narrow notification notice in the header or at the bottom of the viewport.
+
+TODO: Add description
+
+<br>
+
+
 ### Describe in detail each cookie, its provider, purpose, expiry date, and type in a privacy policy.
 
 This is required by EU regulation.
