@@ -18,6 +18,13 @@ TODO: Add description
 <br>
 
 
+### If user has no option to accept or reject cookies, provide an option to adjust settings, following an overview of cookie categories.
+
+TODO: Add description
+
+<br>
+
+
 ### Describe in detail each cookie, its provider, purpose, expiry date, and type in a privacy policy.
 
 This is required by EU regulation.
