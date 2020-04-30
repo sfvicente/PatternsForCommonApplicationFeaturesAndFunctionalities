@@ -9,6 +9,15 @@ TODO: Add description
 <br>
 
 
+### Consider allowing users to accept or reject cookies with two clear and self-evident buttons.
+
+For the button labels, "Okay" and "No, thanks." can be used.
+
+TODO: Add description
+
+<br>
+
+
 ### Describe in detail each cookie, its provider, purpose, expiry date, and type in a privacy policy.
 
 This is required by EU regulation.
@@ -30,4 +39,6 @@ TODO: Add description
 TODO: Add description
 
 <br>
+
+
 
