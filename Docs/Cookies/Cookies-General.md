@@ -25,6 +25,13 @@ TODO: Add description
 <br>
 
 
+### When allowing cookie settings to be adjusted, make obvious the consequences each choice has on the website functionality.
+
+TODO: Add description
+
+<br>
+
+
 ### Describe in detail each cookie, its provider, purpose, expiry date, and type in a privacy policy.
 
 This is required by EU regulation.
