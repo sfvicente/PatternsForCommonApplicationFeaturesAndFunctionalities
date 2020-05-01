@@ -32,6 +32,13 @@ TODO: Add description
 <br>
 
 
+### When allowing cookie settings to be adjusted, enable users to "Approve all" or "Reject all" cookies at once — for the entire site, and for each category.
+
+TODO: Add description
+
+<br>
+
+
 ### Describe in detail each cookie, its provider, purpose, expiry date, and type in a privacy policy.
 
 This is required by EU regulation.
