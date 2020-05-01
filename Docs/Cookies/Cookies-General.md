@@ -9,6 +9,13 @@ TODO: Add description
 <br>
 
 
+### Avoid overlays that occupy large areas of space for displaying cookie notifications.
+
+TODO: Add description
+
+<br>
+
+
 ### Consider allowing users to accept or reject cookies with two clear and self-evident buttons.
 
 For the button labels, "Okay" and "No, thanks." can be used.
