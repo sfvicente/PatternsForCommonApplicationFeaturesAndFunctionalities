@@ -16,6 +16,7 @@ A collection of notes and guidelines for common application features and functio
 	- [File Uploads](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Security-FileUploads.md)
 	- [HTTP Communication](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Security-HttpCommunication.md)
 - [Structure](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Structure.md)
+- [Usability](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Usability.md)
 
 **Account Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AccountManagement/AccountManagement-General.md)
