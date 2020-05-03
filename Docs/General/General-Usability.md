@@ -16,4 +16,12 @@ TODO: Description
 <br>
 
 
+### Avoid using pagination for content pages.
+
+TODO: Description
+
+<br>
+
+
+
 
