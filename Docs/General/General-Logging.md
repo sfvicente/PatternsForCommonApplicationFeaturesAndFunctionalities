@@ -18,3 +18,10 @@ TODO: Add description.
 <br>
 
 
+### Encrypt logging data in transit.
+
+Use transport level security such as HTTPS to ensure the integrity and confidentiality of transport data. 
+
+TODO: Add description.
+
+<br>
