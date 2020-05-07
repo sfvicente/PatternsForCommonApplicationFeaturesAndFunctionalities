@@ -36,3 +36,15 @@ TODO: Add description.
 <br>
 
 
+### Do not log sensitive data.
+
+The following can be considered sensitive data:
+- Personally identifiable data
+- Health Data
+- Financial Data
+- Passwords
+
+TODO: Add description.
+
+<br>
+
