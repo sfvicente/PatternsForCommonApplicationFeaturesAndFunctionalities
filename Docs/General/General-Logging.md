@@ -25,3 +25,14 @@ Use transport level security such as HTTPS to ensure the integrity and confident
 TODO: Add description.
 
 <br>
+
+
+### Use fault-tolerant protocols for transmission to ensure reliability.
+
+Use TCP or RELP to transmit logs and avoid losing packets.
+
+TODO: Add description.
+
+<br>
+
+
