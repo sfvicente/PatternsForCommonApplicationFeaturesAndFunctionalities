@@ -48,3 +48,12 @@ TODO: Add description.
 
 <br>
 
+
+### Do not store logs inside the same availability zone or regions of your applications.
+
+In case of outages, natural disasters or abnormal data center issues, having the logs in a different availability zone or region, will still allow for analysis and troubleshooting.
+
+TODO: Add description.
+
+<br>
+
