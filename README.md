@@ -22,6 +22,9 @@ A collection of notes and guidelines for common application features and functio
 **Account Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AccountManagement/AccountManagement-General.md)
 
+**Change Password**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ChangePassword/ChangePassword-General.md)
+
 **About Us**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
 
