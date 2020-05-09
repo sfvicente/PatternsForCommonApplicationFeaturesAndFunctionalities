@@ -25,3 +25,16 @@ TODO: add description.
 <br>
 
 
+### Consider allowing only strong passwords.
+
+A password should satisfy the following requirements:
+- Have a lenght greater than 7 characters
+- Contain both upper and lowercase alphabetic character (e.g. A-Z, a-z)
+- Have at least one digit (e.g. 0-9)
+- Have at least one symbol character
+
+TODO: add description.
+
+<br>
+
+
