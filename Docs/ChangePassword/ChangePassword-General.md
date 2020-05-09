@@ -38,3 +38,11 @@ TODO: add description.
 <br>
 
 
+### Consider not allowing passwords containing a word or series of words that can be found in a standard dictionary.
+
+TODO: add description.
+
+<br>
+
+
+
