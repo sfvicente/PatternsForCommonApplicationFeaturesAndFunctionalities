@@ -52,3 +52,11 @@ TODO: add description.
 <br>
 
 
+### Do not allow passwords composed of any personal information such as user id, email, family name, birthday, etc.
+
+TODO: add description.
+
+<br>
+
+
+
