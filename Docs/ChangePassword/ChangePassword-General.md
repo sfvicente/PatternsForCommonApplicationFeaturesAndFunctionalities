@@ -45,4 +45,10 @@ TODO: add description.
 <br>
 
 
+### Consider not allowing passwords composed of a word with one or more numbers appended or prepended to it.
+
+TODO: add description.
+
+<br>
+
 
