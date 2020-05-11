@@ -66,3 +66,10 @@ TODO: add description.
 <br>
 
 
+### Consider sending an email to the user to notify them of the password change.
+
+TODO: add description.
+
+<br>
+
+
