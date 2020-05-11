@@ -9,6 +9,13 @@ TODO: Add description.
 <br>
 
 
+### Consider using a structured logging mechanism.
+
+TODO: Add description.
+
+<br>
+
+
 ### Avoid synchronous logging to prevent blocking application execution.
 
 Write logs asynchronously with a buffer or queue, so that application execution isn't affected.
