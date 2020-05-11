@@ -57,3 +57,11 @@ TODO: Add description.
 
 <br>
 
+
+### Always optimise logging storage data for query performance.
+
+TODO: Add description.
+
+<br>
+
+
