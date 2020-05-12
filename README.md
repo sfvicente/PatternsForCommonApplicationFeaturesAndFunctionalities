@@ -37,6 +37,7 @@ A collection of notes and guidelines for common application features and functio
 - [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Cookies/Cookies-Security.md)
 
 **Frequently Asked Questions**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Faqs/Faqs-General.md)
 
 **Getting Started**
 
