@@ -2,6 +2,13 @@
 <br>
 
 
+### Use categories to speed up and facilitate it's use.
+
+TODO: description
+
+<br>
+
+
 ### Create sections that reflects your audience needs and provide access to the most commonly asked help topics.
 
 TODO: description
