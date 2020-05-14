@@ -44,3 +44,10 @@ TODO: description
 <br>
 
 
+### Consider displaying the number of articles available within each topic.
+
+TODO: description
+
+<br>
+
+
