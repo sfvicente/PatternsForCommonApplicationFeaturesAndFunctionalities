@@ -30,3 +30,17 @@ TODO: description
 <br>
 
 
+### Consider making complex topics straightforward and accessible using information-rich segments and tools.
+
+TODO: description
+
+<br>
+
+
+### Position the design and content according to your audience.
+
+TODO: description
+
+<br>
+
+
