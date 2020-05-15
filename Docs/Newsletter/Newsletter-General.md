@@ -2,6 +2,13 @@
 <br>
 
 
+### Optimize emails for mobile devices.
+
+TODO: Description
+
+<br>
+
+
 ### Perform usability testing of emails across platforms and devices.
 
 TODO: Description
