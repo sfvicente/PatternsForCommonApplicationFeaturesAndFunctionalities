@@ -23,3 +23,10 @@ TODO: Description
 <br>
 
 
+### Consider segmenting your list and sending different content to each segment to better target your customers.
+
+TODO: Description
+
+<br>
+
+
