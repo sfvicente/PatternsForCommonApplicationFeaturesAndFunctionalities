@@ -23,3 +23,10 @@ TODO: description
 <br>
 
 
+### Always allow sorting of reviews.
+
+TODO: description
+
+<br>
+
+
