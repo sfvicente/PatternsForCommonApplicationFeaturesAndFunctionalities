@@ -76,6 +76,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Product Page**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductPage/ProductPage-General.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductPage/ProductPage-CrossSelling.md)
 
 **Product Reviews**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductReviews/ProductReviews-General.md)
