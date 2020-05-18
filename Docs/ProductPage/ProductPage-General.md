@@ -16,6 +16,13 @@ TODO: Description
 <br>
 
 
+### Consider separating the price from the rest of the design.
+
+TODO: Description
+
+<br>
+
+
 ### Always provide explicit and detailed information about shipping and returns.
 
 TODO: Description
