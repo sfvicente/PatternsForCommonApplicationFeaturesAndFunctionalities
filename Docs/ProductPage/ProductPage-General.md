@@ -9,6 +9,13 @@ TODO: Description
 <br>
 
 
+### Clearly indicate the product purchase price.
+
+TODO: Description
+
+<br>
+
+
 ### Always provide explicit and detailed information about shipping and returns.
 
 TODO: Description
