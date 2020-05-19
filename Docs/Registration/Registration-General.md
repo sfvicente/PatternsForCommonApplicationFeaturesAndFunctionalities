@@ -9,6 +9,13 @@ TODO: Add description.
 <br>
 
 
+### Consider not forcing people to register but having a guest checkout option.
+
+TODO: Add description.
+
+<br>
+
+
 ### Keep the number of fields required for registration to a minimum.
 
 TODO: Add description.
