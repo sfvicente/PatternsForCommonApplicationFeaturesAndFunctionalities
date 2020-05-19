@@ -2,6 +2,13 @@
 <br>
 
 
+### Use high quality product images.
+
+TODO: Description
+
+<br>
+
+
 ### Make the purchase or add-to-cart button stand out from the rest of the page elements.
 
 TODO: Description
