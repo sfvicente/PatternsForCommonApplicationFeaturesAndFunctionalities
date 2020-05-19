@@ -16,6 +16,13 @@ TODO: description
 <br>
 
 
+### Allow users to mark a review as useful.
+
+TODO: description
+
+<br>
+
+
 ### Always provide a mechanism to search through topics and reviews.
 
 TODO: description
