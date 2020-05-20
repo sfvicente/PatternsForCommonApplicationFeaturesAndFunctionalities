@@ -30,7 +30,7 @@ TODO: description
 <br>
 
 
-### Always allow sorting of reviews.
+### Allow sorting of reviews for top rated and most recent.
 
 TODO: description
 
@@ -51,4 +51,5 @@ TODO: description
 TODO: description
 
 <br>
+
 
