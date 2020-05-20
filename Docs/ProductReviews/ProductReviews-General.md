@@ -16,6 +16,13 @@ TODO: description
 <br>
 
 
+### Distinguish reviews with verified purchases.
+
+TODO: description
+
+<br>
+
+
 ### Allow users to mark a review as useful.
 
 TODO: description
