@@ -2,6 +2,20 @@
 <br>
 
 
+### Consider having a 1-click unsubscribe process.
+
+From a user's point of view, unscribing from a mailing list should be quick, easy and frictionless.
+
+The optimal experience starts with the user receiving an email sent with a clearly identified 'Unsubscribe' link. After clicking on the link, the user is removed from the list
+and redirected to a confirmation page. In this page, the user is notified of the removal in a friendly, positive and professional tone.
+
+By not including mutiple steps, requests for feedback or different options, it makes the process straightforward and keeps the users happy.
+
+TODO: description
+
+<br>
+
+
 ### Make the unsubscribe link easy to locate.
 
 TODO: description
