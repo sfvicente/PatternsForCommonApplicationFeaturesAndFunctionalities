@@ -9,6 +9,15 @@ TODO: description
 <br>
 
 
+### Use the 'Unsubscribe' word to clearly identify the link to cancel the subscription.
+
+Users are already used to as it is common practice.
+
+TODO: description
+
+<br>
+
+
 ### After unsubscribing the user, ask for the reason or feedback.
 
 Possible options are:
