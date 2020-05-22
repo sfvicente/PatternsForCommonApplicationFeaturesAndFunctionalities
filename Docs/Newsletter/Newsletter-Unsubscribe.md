@@ -16,6 +16,13 @@ TODO: description
 <br>
 
 
+### Always include an unsubscribe link in each newsletter/promotion email sent to the mailing list users.
+
+TODO: description
+
+<br>
+
+
 ### Make the unsubscribe link easy to locate.
 
 TODO: description
