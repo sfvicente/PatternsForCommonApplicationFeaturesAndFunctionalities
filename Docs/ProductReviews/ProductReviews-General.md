@@ -30,6 +30,13 @@ TODO: description
 <br>
 
 
+### If a review has been marked as useful, display the number of users that found the review useful. 
+
+TODO: description
+
+<br>
+
+
 ### Always provide a mechanism to search through topics and reviews.
 
 TODO: description
