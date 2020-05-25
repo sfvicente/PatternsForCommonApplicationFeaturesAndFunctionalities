@@ -51,6 +51,13 @@ TODO: description
 <br>
 
 
+### Consider having a shortcut link to view all positive reviews or all critical reviews.
+
+TODO: description
+
+<br>
+
+
 ### Do to refer to unfavorable reviews as negative or use the term in the application.
 
 Instead of 'Top Negative Review', you can use 'Top Critical Review'.
