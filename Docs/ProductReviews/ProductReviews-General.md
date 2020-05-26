@@ -58,6 +58,13 @@ TODO: description
 <br>
 
 
+### Allow filtering of reviews by a specific rating.
+
+TODO: description
+
+<br>
+
+
 ### Consider having a shortcut link to view all positive reviews or all critical reviews.
 
 TODO: description
