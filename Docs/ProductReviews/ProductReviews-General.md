@@ -88,3 +88,15 @@ TODO: description
 <br>
 
 
+### Consider displaying the location of the reviewer.
+
+Customer requirements for a product may vary depending on their location. Also, cultural differences can impact review content.
+
+TODO: description
+
+<br>
+
+
+
+
+
