@@ -72,12 +72,10 @@ A collection of notes and guidelines for common application features and functio
 - [Logging](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset-Logging.md)
 
 **Payment Processing**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PaymentProcessing/PaymentProcessing-General.md)
 
 **Pricing Plans**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductPage/PricingPlans-General.md)
-
-**Privacy Policy**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PrivacyPolicy/PrivacyPolicy-General.md)
 
 **Product Page**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductPage/ProductPage-General.md)
