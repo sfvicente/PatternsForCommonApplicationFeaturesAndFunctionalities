@@ -9,6 +9,15 @@ TODO: description
 <br>
 
 
+### Consider allowing users to archive messages. 
+
+Archiving allows users to move relevant messages to a folder and not clutter the inbox.
+
+TODO: description
+
+<br>
+
+
 ### Allow users to mark messages as read and unread.
 
 TODO: description
