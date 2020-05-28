@@ -2,6 +2,13 @@
 <br>
 
 
+### Always display and highlight the number of unread messages in the user inbox.
+
+TODO: description
+
+<br>
+
+
 ### Allow users to mark messages as read and unread.
 
 TODO: description
