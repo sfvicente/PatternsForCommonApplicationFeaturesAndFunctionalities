@@ -16,6 +16,13 @@ TODO: Description
 <br>
 
 
+### Always allow users to remove an existing connection.
+
+TODO: Description
+
+<br>
+
+
 ### Consider allowing users to disable connection requests.
 
 TODO: Description
