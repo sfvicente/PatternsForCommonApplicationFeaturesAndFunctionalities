@@ -9,6 +9,13 @@ TODO: Description
 <br>
 
 
+### Always allow user to search their list of connections by name/username.
+
+TODO: Description
+
+<br>
+
+
 ### Consider allowing users to disable connection requests.
 
 TODO: Description
