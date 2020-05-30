@@ -95,6 +95,7 @@ A collection of notes and guidelines for common application features and functio
 - [Design](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Registration/Registration-Design.md)
 
 **Report a Problem**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ReportProblem/ReportProblem-General.md)
 
 **Search**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Search/Search-General.md)
