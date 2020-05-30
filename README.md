@@ -54,6 +54,7 @@ A collection of notes and guidelines for common application features and functio
 **Messages**
 
 **Navigation**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Navigation/Navigation-General.md)
 
 **Messaging**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Messaging/Messaging-General.md)
