@@ -2,6 +2,13 @@
 <br>
 
 
+### Prefer the usage of common design patterns.
+
+TODO: Description
+
+<br>
+
+
 ### Use labels to clarify the meaning of abstract or unfamiliar icons.
 
 TODO: Description
