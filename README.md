@@ -2,7 +2,7 @@
 
 A collection of notes and guidelines for common application features and functionalities.
 
-### Table of Contents
+## General Application Development
 
 **General**
 - [Accessibility](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Accessibility.md)
@@ -19,14 +19,16 @@ A collection of notes and guidelines for common application features and functio
 - [Structure](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Structure.md)
 - [Usability](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/General/General-Usability.md)
 
+## Specific Functionality
+
+**About Us**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
+
 **Account Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AccountManagement/AccountManagement-General.md)
 
 **Change Password**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ChangePassword/ChangePassword-General.md)
-
-**About Us**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
 
 **Contact Us**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ContactUs/ContactUs-General.md)
@@ -41,19 +43,19 @@ A collection of notes and guidelines for common application features and functio
 
 **Getting Started**
 
-**Login**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-General.md)
-- [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-Security.md)
-
 **Landing Page**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/LandingPage/LandingPage-General.md)
 - [Call To Action](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/LandingPage/LandingPage-CallToAction.md)
+
+**Login**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-General.md)
+- [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-Security.md)
 
 **Messages**
 
 **Navigation**
 
-**Newsletter**
+**Messaging**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Messaging/Messaging-General.md)
 
 **Newsletter**
@@ -62,6 +64,9 @@ A collection of notes and guidelines for common application features and functio
 
 **Notifications**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Notifications/Notifications-General.md)
+
+**Offboarding**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Offboarding/Offboarding-General.md)
 
 **Password Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordManagement/PasswordManagement-General.md)
@@ -113,6 +118,4 @@ A collection of notes and guidelines for common application features and functio
 
 **User Profiles**
 
-**Offboarding**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Offboarding/Offboarding-General.md)
 
