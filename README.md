@@ -31,6 +31,9 @@ A collection of notes and guidelines for common application features and functio
 **Change Password**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ChangePassword/ChangePassword-General.md)
 
+**Checkout**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Checkout/Checkout-General.md)
+
 **Contact Us**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ContactUs/ContactUs-General.md)
 
