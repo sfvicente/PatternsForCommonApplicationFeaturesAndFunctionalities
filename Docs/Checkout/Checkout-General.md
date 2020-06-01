@@ -22,3 +22,12 @@ TODO: description.
 
 <br>
 
+
+### Don’t make registration mandatory for checkout.
+
+TODO: description.
+
+<br>
+
+
+
