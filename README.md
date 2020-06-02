@@ -86,7 +86,7 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PaymentProcessing/PaymentProcessing-General.md)
 
 **Pricing Plans**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductPage/PricingPlans-General.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PricingPlans/PricingPlans-General.md)
 
 **Privacy Policy**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PrivacyPolicy/PrivacyPolicy-General.md)
