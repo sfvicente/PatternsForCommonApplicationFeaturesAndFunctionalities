@@ -4,6 +4,13 @@
 This section describes guidelines for managing and communicating updates to a privacy policy.
 
 
+### Explain what has changed and the reasons why it has been changed.
+
+TODO: description.
+
+<br>
+
+
 ### Include links to a Privacy Policy and to Terms and Conditions in the email.
 
 TODO: description.
