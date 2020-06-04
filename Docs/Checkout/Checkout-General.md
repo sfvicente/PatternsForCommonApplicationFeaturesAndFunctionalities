@@ -23,6 +23,13 @@ TODO: description.
 <br>
 
 
+### Display trust seals throughout the checkout process.
+
+TODO: description.
+
+<br>
+
+
 ### Don’t make registration mandatory for checkout.
 
 TODO: description.
