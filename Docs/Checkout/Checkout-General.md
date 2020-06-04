@@ -30,4 +30,12 @@ TODO: description.
 <br>
 
 
+### Consider creating a one-page checkout to make it easy and simple to complete.
+
+TODO: description.
+
+<br>
+
+
+
 
