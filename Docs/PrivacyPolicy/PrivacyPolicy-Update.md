@@ -11,6 +11,13 @@ TODO: description.
 <br>
 
 
+### Specify the date when the changes will come into effect.
+
+TODO: description.
+
+<br>
+
+
 ### Include links to a Privacy Policy and to Terms and Conditions in the email.
 
 TODO: description.
