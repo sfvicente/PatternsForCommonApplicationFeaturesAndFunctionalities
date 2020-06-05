@@ -44,5 +44,9 @@ TODO: description.
 <br>
 
 
+### Consider saving the checkout process state in case of error or crash.
 
+TODO: description
+
+<br>
 
