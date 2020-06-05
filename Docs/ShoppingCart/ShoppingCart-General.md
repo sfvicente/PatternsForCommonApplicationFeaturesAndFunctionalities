@@ -41,3 +41,10 @@ TODO: Description
 
 <br>
 
+
+### Consider auto-saving the cart contents for 60 minutes.
+
+TODO: Description
+
+<br>
+
