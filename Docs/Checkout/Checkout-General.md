@@ -16,6 +16,23 @@ TODO: description.
 <br>
 
 
+### Include all relevant information in the order summary screen.
+
+Pertinent information includes:
+- Item details
+- Item count
+- Totals
+- Additional fees
+- Cost
+- Shipping fees
+- Taxes
+- Total cost
+
+TODO: description.
+
+<br>
+
+
 ### State and demonstrate that the payment is secure.
 
 TODO: description.
