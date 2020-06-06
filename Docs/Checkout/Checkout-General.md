@@ -9,6 +9,15 @@ TODO: description.
 <br>
 
 
+### Make the checkout process self-contained with as few distractions as possible.
+
+Any distraction can divert the customer away from completing the order. 
+
+TODO: description.
+
+<br>
+
+
 ### Clearly indicate the current stage of the process.
 
 TODO: description.
