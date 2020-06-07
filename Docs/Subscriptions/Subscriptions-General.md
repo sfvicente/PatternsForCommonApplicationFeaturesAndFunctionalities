@@ -11,3 +11,13 @@ it easier to predict revenue levels and fulfillment needs.
 TODO: description
 
 <br>
+
+
+### Do not lock in customers from the beggining.
+
+TODO: description
+
+<br>
+
+
+
