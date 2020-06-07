@@ -5,3 +5,9 @@ it easier to predict revenue levels and fulfillment needs.
 
 <br>
 
+
+### Communicate the subscription value to retain subscribers.
+
+TODO: description
+
+<br>
