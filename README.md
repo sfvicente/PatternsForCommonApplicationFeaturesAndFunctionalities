@@ -116,6 +116,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Subscriptions**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Subscriptions/Subscriptions-General.md)
+- [Pricing](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Subscriptions/Subscriptions-Pricing.md)
 
 **User Connections**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/UserConnections/UserConnections-General.md)
