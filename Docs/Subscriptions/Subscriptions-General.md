@@ -20,6 +20,13 @@ TODO: description
 <br>
 
 
+### Add new features to increase or maintain the level of satisfaction users get from your service.
+
+TODO: description
+
+<br>
+
+
 ### Do not use a one size fits all price model.
 
 TODO: description
