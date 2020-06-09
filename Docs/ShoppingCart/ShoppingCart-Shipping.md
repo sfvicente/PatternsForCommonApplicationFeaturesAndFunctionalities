@@ -4,6 +4,13 @@
 
 ### Consider offering free shipping.
 
+Free shipping is a marketing technique in which the cost of shipping charges is removed for orders. It can require qualification criteria such total order cost above a certain
+price.
+
+As more and more online shops start offering free shipping, customers become accustomed to it. Companies such as Amazon and Apple offer free shipping of their products. 
+
+If required, increase your product prices to cover shipping cost.
+
 TODO: Description
 
 <br>
