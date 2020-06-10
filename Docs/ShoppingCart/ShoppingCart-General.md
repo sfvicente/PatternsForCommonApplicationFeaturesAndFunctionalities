@@ -48,3 +48,13 @@ TODO: Description
 
 <br>
 
+
+### Consider limiting the number of purchases per customer.
+
+You can create a feeling of scarcity when the number of items a customer can order is restricted. A normal response to scarcity is the tendency to purchase more items.
+
+TODO: Description
+
+<br>
+
+
