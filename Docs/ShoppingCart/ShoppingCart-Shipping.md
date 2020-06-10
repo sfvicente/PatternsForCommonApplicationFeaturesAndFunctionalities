@@ -25,6 +25,15 @@ TODO: Description
 <br>
 
 
+### Consider setting a minimum order value to qualify for free shipping.
+
+One of the most strategic innovations in the free shipping technique is setting a minimum order. In order to qualify for free shipping, the purchaser must buy $50-100 worth of merchandise. In this model, you can guarantee that your profit margin on each order will remain high, while still providing free shipping.
+
+TODO: Description
+
+<br>
+
+
 ### If there’s a minimum amount required for the order to qualify for free shipping, show an indication of how much more is required.
 
 TODO: Description
