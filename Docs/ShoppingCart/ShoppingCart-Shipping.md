@@ -45,3 +45,15 @@ TODO: Description
 
 <br>
 
+
+### Consider adding membership, loyalty programs or email subscription requirements to qualify for free shipping.
+
+You can leverage free shipping to convince users to join a membership, loyalty program or email subscription. These can be free memberships, tiered programs with additional benefits
+or email lists.
+ 
+One example of this technique is Amazon Prime, which allows members to qualify for free shipping on specific products. It also adds access to the video streaming service.
+
+TODO: Description
+
+<br>
+
