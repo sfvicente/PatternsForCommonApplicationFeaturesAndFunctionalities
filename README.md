@@ -57,8 +57,6 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-General.md)
 - [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Login/Login-Security.md)
 
-**Messages**
-
 **Navigation**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Navigation/Navigation-General.md)
 
