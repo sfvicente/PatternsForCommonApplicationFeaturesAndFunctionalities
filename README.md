@@ -123,10 +123,6 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/UserConnections/UserConnections-General.md)
 - [Friend Recommendations](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/UserConnections/UserConnections-FriendRecommendations.md)
 
-
-
-**Security**
-
 **Social Media Integration**
 
 **Terms and Conditions**
