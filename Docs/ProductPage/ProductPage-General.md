@@ -23,6 +23,14 @@ TODO: Description
 <br>
 
 
+### Consider adding a product video or demonstration to the product page to complement the information.
+
+TODO: Description
+
+<br>
+
+
+
 ### Consider separating the price from the rest of the design.
 
 TODO: Description
