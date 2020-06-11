@@ -23,7 +23,7 @@ A collection of notes and guidelines for common application features and functio
 **Search Engine Optimisation**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Seo/Seo-General.md)
 
-## Specific Functionality
+## Specific Application Functionality
 
 **About Us**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
@@ -115,6 +115,9 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ShoppingCart/ShoppingCart-General.md)
 - [Shipping](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ShoppingCart/ShoppingCart-Shipping.md)
 
+**Social Media Integration**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SocialMediaIntegration/SocialMediaIntegration-General.md)
+
 **Subscriptions**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Subscriptions/Subscriptions-General.md)
 - [Pricing](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Subscriptions/Subscriptions-Pricing.md)
@@ -122,8 +125,6 @@ A collection of notes and guidelines for common application features and functio
 **User Connections**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/UserConnections/UserConnections-General.md)
 - [Friend Recommendations](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/UserConnections/UserConnections-FriendRecommendations.md)
-
-**Social Media Integration**
 
 **Terms and Conditions**
 
