@@ -122,11 +122,12 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Subscriptions/Subscriptions-General.md)
 - [Pricing](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Subscriptions/Subscriptions-Pricing.md)
 
+**Terms and Conditions**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/TermsAndConditions/TermsAndConditions-General.md)
+
 **User Connections**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/UserConnections/UserConnections-General.md)
 - [Friend Recommendations](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/UserConnections/UserConnections-FriendRecommendations.md)
-
-**Terms and Conditions**
 
 **User Groups**
 
