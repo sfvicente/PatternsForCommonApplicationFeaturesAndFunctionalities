@@ -16,3 +16,9 @@ TODO: Description
 <br>
 
 
+### Allow customers to terminate the contract or subscription if the any changes to the terms and conditions don’t suit them.
+
+TODO: Description
+
+<br>
+
