@@ -7,3 +7,12 @@ of the application or service, such as being used as a disclaimer.
 Service and application providers can use the terms and conditions for making any disclosures required by law.
 
 <br>
+
+
+### Inform your customers on any changes to the terms and conditions.
+
+TODO: Description
+
+<br>
+
+
