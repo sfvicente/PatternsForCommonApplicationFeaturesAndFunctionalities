@@ -16,6 +16,13 @@ TODO: Description
 <br>
 
 
+### Ensure the terms and conditions are not difficult to read or understand.
+
+TODO: Description
+
+<br>
+
+
 ### Inform your customers on any changes to the terms and conditions.
 
 TODO: Description
