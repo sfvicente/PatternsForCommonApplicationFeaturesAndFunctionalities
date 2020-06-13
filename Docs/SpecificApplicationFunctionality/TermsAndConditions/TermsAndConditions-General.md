@@ -23,6 +23,13 @@ TODO: Description
 <br>
 
 
+### Avoid legal jargon or technical terms when possible.
+
+TODO: Description
+
+<br>
+
+
 ### Inform your customers on any changes to the terms and conditions.
 
 TODO: Description
