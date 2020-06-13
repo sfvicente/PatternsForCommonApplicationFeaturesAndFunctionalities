@@ -9,6 +9,13 @@ Service and application providers can use the terms and conditions for making an
 <br>
 
 
+### Ensure the terms and conditions are not hidden or hard to access.
+
+TODO: Description
+
+<br>
+
+
 ### Inform your customers on any changes to the terms and conditions.
 
 TODO: Description
