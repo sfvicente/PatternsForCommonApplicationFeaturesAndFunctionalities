@@ -46,6 +46,13 @@ TODO: Description
 <br>
 
 
+### Do not include obligations that far exceeds what customers can reasonably expect.
+
+TODO: Description
+
+<br>
+
+
 ### Inform your customers on any changes to the terms and conditions.
 
 TODO: Description
