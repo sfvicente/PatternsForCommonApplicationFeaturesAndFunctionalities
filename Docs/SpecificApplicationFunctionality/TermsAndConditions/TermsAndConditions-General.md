@@ -16,7 +16,9 @@ TODO: Description
 <br>
 
 
-### Ensure the terms and conditions are not difficult to read or understand.
+### Ensure the terms and conditions are easy to read and understand.
+
+The text shoould provide information that is clear, complete and accurate.
 
 TODO: Description
 
