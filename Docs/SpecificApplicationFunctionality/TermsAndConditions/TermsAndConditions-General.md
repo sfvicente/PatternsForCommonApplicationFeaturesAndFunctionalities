@@ -32,6 +32,20 @@ TODO: Description
 <br>
 
 
+### Avoid generalities and vague or catch-all terms.
+
+TODO: Description
+
+<br>
+
+
+### Do not include and conceal mandatory fees in the terms and conditions.
+
+TODO: Description
+
+<br>
+
+
 ### Inform your customers on any changes to the terms and conditions.
 
 TODO: Description
@@ -44,4 +58,5 @@ TODO: Description
 TODO: Description
 
 <br>
+
 
