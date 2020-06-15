@@ -67,6 +67,13 @@ TODO: Description
 <br>
 
 
+### Describe all the information that is collected from users, how it will used and managed.
+
+TODO: Description
+
+<br>
+
+
 ### Inform your customers on any changes to the terms and conditions.
 
 TODO: Description
