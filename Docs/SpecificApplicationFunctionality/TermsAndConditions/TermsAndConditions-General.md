@@ -60,6 +60,13 @@ TODO: Description
 <br>
 
 
+### Include information related to automatic renewal, if applicable.
+
+TODO: Description
+
+<br>
+
+
 ### Inform your customers on any changes to the terms and conditions.
 
 TODO: Description
