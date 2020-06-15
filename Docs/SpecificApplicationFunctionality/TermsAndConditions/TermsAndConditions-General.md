@@ -53,6 +53,13 @@ TODO: Description
 <br>
 
 
+### Include information about contract duration and termination.
+
+TODO: Description
+
+<br>
+
+
 ### Inform your customers on any changes to the terms and conditions.
 
 TODO: Description
