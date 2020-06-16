@@ -94,6 +94,9 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PrivacyPolicy/PrivacyPolicy-General.md)
 - [Update](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PrivacyPolicy/PrivacyPolicy-Update.md)
 
+**Product Listing**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/ProductListing/ProductListing-General.md)
+
 **Product Page**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductPage/ProductPage-General.md)
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/ProductPage/ProductPage-CrossSelling.md)
