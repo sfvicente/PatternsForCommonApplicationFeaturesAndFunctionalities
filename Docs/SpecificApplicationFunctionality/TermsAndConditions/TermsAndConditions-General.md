@@ -46,6 +46,13 @@ TODO: Description
 <br>
 
 
+### Include all information on accepted payment methods.
+
+TODO: Description
+
+<br>
+
+
 ### Do not include obligations that far exceeds what customers can reasonably expect.
 
 TODO: Description
