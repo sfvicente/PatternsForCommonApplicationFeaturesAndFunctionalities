@@ -53,6 +53,13 @@ TODO: Description
 <br>
 
 
+### Include all information on recurring payments, including associated dates.
+
+TODO: Description
+
+<br>
+
+
 ### Do not include obligations that far exceeds what customers can reasonably expect.
 
 TODO: Description
