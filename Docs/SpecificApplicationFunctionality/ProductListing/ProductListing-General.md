@@ -10,3 +10,10 @@ TODO: description.
 <br>
 
 
+### Limit options such as filters to reduce decision-making and facilitate action.
+
+
+TODO: description.
+
+<br>
+
