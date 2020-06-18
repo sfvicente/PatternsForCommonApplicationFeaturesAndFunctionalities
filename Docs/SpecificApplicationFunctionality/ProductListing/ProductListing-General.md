@@ -25,3 +25,10 @@ TODO: description.
 <br>
 
 
+### Ensure visitors can see offers such as price deals or discounted items without requiring navigation to the product detail pages.
+
+TODO: description.
+
+<br>
+
+
