@@ -32,3 +32,10 @@ TODO: description.
 <br>
 
 
+### For product offers, focus on the savings for customers, instead of only displaying the discounted price.
+
+TODO: description.
+
+<br>
+
+
