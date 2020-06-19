@@ -10,6 +10,16 @@ TODO: description.
 <br>
 
 
+### Consider switching between different product images on hover to give visitors a better view of the product.
+
+On hover, the current product image can be replaced by another image of the same product. This allows you to fit more product information on listing area which
+has limited space.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
