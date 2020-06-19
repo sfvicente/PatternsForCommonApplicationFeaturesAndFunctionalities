@@ -20,6 +20,15 @@ TODO: description.
 <br>
 
 
+### Consider displaying a product view and a model view if applicable to the product.
+
+The interface can switch the picture to the model view on hover. Displaying a model wearing the product allows the customers to view how it could look.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
