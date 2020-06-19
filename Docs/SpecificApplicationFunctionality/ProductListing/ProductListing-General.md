@@ -28,6 +28,14 @@ TODO: description.
 
 <br>
 
+### When using a product view and model view, consider allowing the customer to customise the default view.
+
+This also helps to personalise the experience.
+
+TODO: description.
+
+<br>
+
 
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
