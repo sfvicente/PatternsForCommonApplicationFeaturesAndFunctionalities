@@ -51,6 +51,15 @@ TODO: description.
 <br>
 
 
+### Considering allowing customers to view the product in action without leaving the product listing page.
+
+The objective is to complement your value proposition.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
