@@ -44,6 +44,13 @@ TODO: description.
 <br>
 
 
+### Considering allowing customers to view inside a product without leaving the product listing page.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
