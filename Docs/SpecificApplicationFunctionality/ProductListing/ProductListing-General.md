@@ -37,6 +37,13 @@ TODO: description.
 <br>
 
 
+### Consider allowing customers to view the product in a different color without leaving the product listing page.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
