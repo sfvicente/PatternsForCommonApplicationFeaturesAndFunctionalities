@@ -67,6 +67,17 @@ TODO: description.
 <br>
 
 
+### Consider displaying the number of ratings a product has received.
+
+A product overall rating may be accompanied with the number of times it has been rated. It makes it easier for a customer to understand how popular a product is and how
+much weight to put on the rating.
+
+TODO: description.
+TODO: example.
+
+<br>
+
+
 ### Consider highlighting products that have outstanding ratings.
 
 TODO: description.
