@@ -86,6 +86,16 @@ TODO: example.
 <br>
 
 
+### Consider displaying partial customer testimonials under the product descriptions.
+
+Adding testimonials, even partial ones, can overload a product listing page with content.
+
+TODO: description.
+TODO: example.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
