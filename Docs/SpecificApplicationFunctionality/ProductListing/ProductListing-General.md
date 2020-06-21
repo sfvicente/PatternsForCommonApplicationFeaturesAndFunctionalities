@@ -67,6 +67,14 @@ TODO: description.
 <br>
 
 
+### Consider highlighting products that have outstanding ratings.
+
+TODO: description.
+TODO: example.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
