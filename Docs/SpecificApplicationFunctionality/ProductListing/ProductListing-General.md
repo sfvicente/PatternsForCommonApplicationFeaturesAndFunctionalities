@@ -60,6 +60,13 @@ TODO: description.
 <br>
 
 
+### When available, add product ratings to each product item to start establishing social proof.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
