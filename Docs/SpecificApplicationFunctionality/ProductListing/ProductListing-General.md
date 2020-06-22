@@ -96,6 +96,18 @@ TODO: example.
 <br>
 
 
+### Always display a quick add-to-cart button on each item in the listing.
+
+If each item in a product listing page has a quick add-to-cart button, customers execute orders faster. It also won't require visitors to go into each detail page just to
+add the product to the order.
+
+Regarding testing, it allows for experimentation on design and structure of the call-to-action to improve conversions.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
