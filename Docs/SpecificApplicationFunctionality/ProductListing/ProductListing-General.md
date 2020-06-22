@@ -108,6 +108,15 @@ TODO: description.
 <br>
 
 
+### Consider displaying a quick button to choose item characteristics such as size or color before adding the item to cart.
+
+Similar to the quick add-to-cart button, this feature allows a customer to order without going into each detail page.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
