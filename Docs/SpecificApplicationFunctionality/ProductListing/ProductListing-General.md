@@ -129,6 +129,16 @@ TODO: description.
 <br>
 
 
+### Consider displaying the number of users that have marked a product has favorite.
+
+It can be used to create the feeling of urgency.
+
+TODO: description.
+TODO: example.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
