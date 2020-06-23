@@ -117,6 +117,18 @@ TODO: description.
 <br>
 
 
+### Considering allowing customers to save an item in as a favorite.
+
+A purchase may take more than one session to be completed. An application with functionality to record favorite products allows users to return and purchase those at a later stage.
+It may be useful for customers who are browsing available products to build wish lists.
+
+For internal use, it also contributes analytic data that provides insight on customer behavior, product desirability and trends.
+
+TODO: description.
+
+<br>
+
+
 ### Limit options such as filters to reduce decision-making and facilitate action.
 
 
