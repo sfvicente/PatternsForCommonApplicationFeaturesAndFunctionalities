@@ -1,5 +1,7 @@
 # Product Listing | General
 
+Product listing pages, also refered to as category pages, are sections that display multiple product items. These products are grouped based on a similar theme or topic, a
+combination of filters or a result of a search query.
 <br>
 
 
