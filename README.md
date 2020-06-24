@@ -28,6 +28,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Security**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Security/General-Security.md)
+- [JavaScript](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Security/JavaScript.md)
 - [Database](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Security/General-Security-Database.md)
 - [File Uploads](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Security/General-Security-FileUploads.md)
 - [HTTP Communication](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Security/General-Security-HttpCommunication.md)
