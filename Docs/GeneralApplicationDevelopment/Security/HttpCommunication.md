@@ -8,6 +8,11 @@
 
 ### Always implement HTTPS security.
 
+Hypertext Transfer Protocol Secure (HTTPS) is a web communication protocol that is a secure version of HTTP. It combines SSL/TLS protocol and HTTP. The protocol uses port
+443 for data transmission and provides integrity and confidentiality of the data exchanged between the client computer and the server.
+
+Implementing HTTPS security also provide visitors with confidence that the site is legimate and trustworthy.
+
 TODO: Add description
 
 <br>
