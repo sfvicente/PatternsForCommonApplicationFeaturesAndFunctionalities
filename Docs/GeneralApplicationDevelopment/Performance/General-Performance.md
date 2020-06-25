@@ -40,6 +40,15 @@ TODO: Add description
 <br>
 
 
+### Avoid using more than one redirect.
+
+An application performs multiple redirects can affect it's loading speed.
+
+TODO: Add description
+
+<br>
+
+
 ### Avoid permanent URL redirections
 
 TODO: Add description
