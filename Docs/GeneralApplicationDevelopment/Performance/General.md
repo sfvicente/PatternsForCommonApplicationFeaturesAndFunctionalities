@@ -2,6 +2,15 @@
 <br>
 
 
+### Ensure pages load in less than 2 seconds.
+
+Slow pages lead to visitors abandoning the site, reducing conversions and sales.
+
+TODO: Add description
+
+<br>
+
+
 ### Optimize images for improved page loading time.
 
 TODO: Add description
