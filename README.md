@@ -25,6 +25,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Performance**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Performance/General.md)
+- [Fonts](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Performance/Fonts.md)
 - [Redirects](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Performance/Redirects.md)
 
 **Security**
