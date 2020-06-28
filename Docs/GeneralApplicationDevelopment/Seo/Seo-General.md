@@ -30,3 +30,12 @@ todo: description
 
 <br>
 
+
+### Use `robots.txt` to block unwanted crawling for non-sensitive information.
+
+todo: description
+
+<br>
+
+
+
