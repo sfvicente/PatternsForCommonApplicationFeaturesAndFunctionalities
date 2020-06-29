@@ -38,4 +38,9 @@ todo: description
 <br>
 
 
+### Avoid allowing 404 pages to be indexed in search engines.
+
+todo: description
+
+<br>
 

@@ -35,3 +35,10 @@ todo: description
 
 <br>
 
+
+### Avoid allowing 404 pages to be indexed in search engines.
+
+see SEO guideline: "Avoid allowing 404 pages to be indexed in search engines."
+todo: link
+
+<br>
