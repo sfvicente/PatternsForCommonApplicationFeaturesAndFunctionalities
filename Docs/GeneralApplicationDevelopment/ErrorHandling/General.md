@@ -28,3 +28,10 @@ todo: description
 
 <br>
 
+
+### Consider providing links to popular or related content on the application in the 404 page.
+
+todo: description
+
+<br>
+
