@@ -12,3 +12,12 @@ todo: description
 
 <br>
 
+
+### The 404 page should kindly guides users back to a working page on your site.
+
+Assisting a user to navigate to a working page improves their experience.
+
+todo: description
+
+<br>
+
