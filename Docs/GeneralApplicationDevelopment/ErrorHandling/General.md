@@ -21,3 +21,10 @@ todo: description
 
 <br>
 
+
+### Always include a link back to the root page of the application on the 404 page.
+
+todo: description
+
+<br>
+
