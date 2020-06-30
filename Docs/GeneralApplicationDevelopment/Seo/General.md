@@ -44,3 +44,9 @@ todo: description
 
 <br>
 
+
+### Avoid blocking 404 pages from being crawled through the `robots.txt` file.
+
+todo: description
+
+<br>
