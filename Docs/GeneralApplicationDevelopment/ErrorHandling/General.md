@@ -49,3 +49,11 @@ see SEO guideline: "Avoid allowing 404 pages to be indexed in search engines."
 todo: link
 
 <br>
+
+
+### Use a design for your 404 pages that is consistent with the remaining application.
+
+todo: description
+
+<br>
+
