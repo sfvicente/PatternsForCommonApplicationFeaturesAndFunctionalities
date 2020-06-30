@@ -13,6 +13,13 @@ todo: description
 <br>
 
 
+### Do not provide only a vague message or content in a 404 page, such as "Not found" or "404".
+
+todo: description
+
+<br>
+
+
 ### The 404 page should kindly guides users back to a working page on your site.
 
 Assisting a user to navigate to a working page improves their experience.
