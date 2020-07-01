@@ -44,6 +44,7 @@ A collection of notes and guidelines for common application features and functio
 **Search Engine Optimisation**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Seo/General.md)
 - [Navigation](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Seo/Navigation.md)
+- [URLs](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Seo/Urls.md)
 
 **Usability**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/General-Usability.md)
