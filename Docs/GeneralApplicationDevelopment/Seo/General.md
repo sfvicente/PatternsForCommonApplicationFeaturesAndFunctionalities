@@ -59,3 +59,10 @@ Examples of generic page naming are "section.html", "page1.html", "newarticle.ht
 todo: description
 
 <br>
+
+
+### Do not use long URLs with unnecessary parameters and session identifiers.
+
+todo: description
+
+<br>
