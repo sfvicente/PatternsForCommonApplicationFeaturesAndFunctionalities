@@ -28,3 +28,12 @@ todo: description
 <br>
 
 
+### Use hyphens to separate words in a URL.
+
+In case a URL fragment is composed of more than one word, use hyphens to separate the words. These will assist search engines in determining where the breaks
+between words are located. It will also make it easier for users to identify the meaning of the URLs.
+
+todo: description
+
+<br>
+
