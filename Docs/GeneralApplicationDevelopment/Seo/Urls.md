@@ -17,3 +17,14 @@ todo: description
 todo: description
 
 <br>
+
+
+### Do not use excessive keywords for page names and URLs.
+
+An example of excessive use of keywords in a page name is "recruitment-jobs-recruitment-jobposts-joboffers.htm".
+
+todo: description
+
+<br>
+
+
