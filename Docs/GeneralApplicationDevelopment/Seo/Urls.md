@@ -12,6 +12,16 @@ todo: description
 <br>
 
 
+### Use URLs as short as possible, aiming for no more than 50-60 characters.
+
+In an extensive study[1] performed on around one million Google search results, it was concluded that shorter URLs tend to rank slightly better than long URLs.
+
+The top sites have shorter URLs with an aproximate lenght of 50 characters. As testing progresses further down the list, the average URL length increases to 62 characters.
+
+[1] http://backlinko.com/search-engine-ranking
+<br>
+
+
 ### Do not use long URLs with unnecessary parameters and session identifiers.
 
 todo: description
