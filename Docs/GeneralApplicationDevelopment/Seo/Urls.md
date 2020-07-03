@@ -37,3 +37,10 @@ todo: description
 
 <br>
 
+
+### Do not include stop words in URLs.
+
+Remove words such as pronouns and articles. Common stop words to avoid are "a", "the", "and", "or", "but", "an" and "of".
+
+<br>
+
