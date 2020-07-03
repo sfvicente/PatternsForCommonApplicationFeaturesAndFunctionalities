@@ -54,3 +54,11 @@ Remove words such as pronouns and articles. Common stop words to avoid are "a", 
 
 <br>
 
+
+### Structure URLs for maximum readability.
+
+Developers and creators should strive to create URLs that easily allow users and search engines to identify or deduce what the destination is and what it contains.
+
+todo: description
+
+<br>
