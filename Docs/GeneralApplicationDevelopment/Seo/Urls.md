@@ -22,7 +22,7 @@ The top sites have shorter URLs with an aproximate lenght of 50 characters. As t
 <br>
 
 
-### Do not use long URLs with unnecessary parameters and session identifiers.
+### Do not include unnecessary parameters and session identifiers in URLs.
 
 todo: description
 
