@@ -45,6 +45,8 @@ between words are located. It will also make it easier for users to identify the
 
 todo: description
 
+ Do not use underscores instead of hyphens to separate words. Google directly recommends that words be separated by hypehns instead of underscores.
+
 <br>
 
 
