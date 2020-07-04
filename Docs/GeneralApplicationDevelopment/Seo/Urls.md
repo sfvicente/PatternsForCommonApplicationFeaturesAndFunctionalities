@@ -50,6 +50,15 @@ todo: description
 <br>
 
 
+### Use lowercase letters for URLs.
+
+Using uppercase letters can lead to 404 and redirect errors on case-sensitive servers.
+
+todo: description
+
+<br>
+
+
 ### Do not include stop words in URLs.
 
 Remove words such as pronouns and articles. Common stop words to avoid are "a", "the", "and", "or", "but", "an" and "of".
