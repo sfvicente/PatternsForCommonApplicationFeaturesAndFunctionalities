@@ -61,7 +61,14 @@ todo: description
 
 ### Do not include stop words in URLs.
 
-Remove words such as pronouns and articles. Common stop words to avoid are "a", "the", "and", "or", "but", "an" and "of".
+Common stop words to avoid are "a", "the", "and", "or", "but", "an" and "of".
+
+Stop words are ignored by search engines and do not contribute to the ranking for the resource. URLs should not contain words such as pronouns and articles.
+
+If the URL is readable without requiring stop words, including them will only increase the URL size, which might have an impact on the ranking. However, if the meaning and
+content of the resource would become easier to identify by including an additional pronoun or article, then it should be included.
+
+todo: description
 
 <br>
 
