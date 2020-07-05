@@ -93,3 +93,18 @@ Developers and creators should strive to create URLs that easily allow users and
 todo: description
 
 <br>
+
+
+### Use a maximum depth of two folders per URL.
+
+todo: description
+
+The following URL uses a folder depth of two:
+    https://johndoe.com/blog/how-to-save-money-while-traveling/
+
+Increased folder depth increases complexity or perceived complexity of the organisation of the application on the server. Search engines can associate this complexity to
+content being too specific or unimportant.
+
+todo: description
+
+<br>
