@@ -38,6 +38,13 @@ todo: description
 <br>
 
 
+### Target a maximum of 2 keywords per URL.
+
+todo: description
+
+<br>
+
+
 ### Do not include unsafe characters in URLs.
 
 The following charactes are considered unsafe and should not be used in URL: blank/empty space and " < > # % { } | \ ^ ~ [ ] `
