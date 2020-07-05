@@ -38,6 +38,19 @@ todo: description
 <br>
 
 
+### Do not include unsafe characters in URLs.
+
+The following charactes are considered unsafe and should not be used in URL: blank/empty space and " < > # % { } | \ ^ ~ [ ] `
+
+todo: explain each character.
+
+All unsafe characters require enconding to be used within a URL.
+
+todo: description
+
+<br>
+
+
 ### Use hyphens to separate words in a URL.
 
 In case a URL fragment is composed of more than one word, use hyphens to separate the words. These will assist search engines in determining where the breaks
