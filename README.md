@@ -108,9 +108,10 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordManagement/PasswordManagement-General.md)
 
 **Password Reset**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset-General.md)
-- [Email](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset-Email.md)
-- [Logging](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PasswordReset/PasswordReset-Logging.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/PasswordReset/General.md)
+- [Email](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/PasswordReset/Email.md)
+- [Logging](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/PasswordReset/Logging.md)
+- [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/PasswordReset/Security.md)
 
 **Payment Processing**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/PaymentProcessing/PaymentProcessing-General.md)
