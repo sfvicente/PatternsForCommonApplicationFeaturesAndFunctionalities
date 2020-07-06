@@ -45,6 +45,13 @@ todo: description
 <br>
 
 
+### Prefer positioning keywords towards the beginning of URLs.
+
+todo: description
+
+<br>
+
+
 ### Do not include unsafe characters in URLs.
 
 The following charactes are considered unsafe and should not be used in URL: blank/empty space and " < > # % { } | \ ^ ~ [ ] `
