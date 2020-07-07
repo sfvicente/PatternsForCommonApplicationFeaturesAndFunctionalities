@@ -148,7 +148,7 @@ A collection of notes and guidelines for common application features and functio
 - [Shipping](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/ShoppingCart/Shipping.md)
 
 **Social Media Integration**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SocialMediaIntegration/SocialMediaIntegration-General.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SocialMediaIntegration/General.md)
 
 **Subscriptions**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Subscriptions/Subscriptions-General.md)
