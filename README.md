@@ -167,5 +167,5 @@ A collection of notes and guidelines for common application features and functio
 **User Groups**
 
 **User Profiles**
-
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/UserProfiles/General.md)
 
