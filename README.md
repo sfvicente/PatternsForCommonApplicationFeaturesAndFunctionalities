@@ -164,7 +164,8 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/UserConnections/General.md)
 - [Friend Recommendations](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/UserConnections/FriendRecommendations.md.md)
 
-**User Groups**
+**User Groups, Roles and Permissions**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/UserGroups/General.md)
 
 **User Profiles**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/UserProfiles/General.md)
