@@ -15,3 +15,9 @@ todo: description
 <br>
 
 
+### Allow users to change their custom images or avatars as often as needed.
+
+todo: description
+
+<br>
+
