@@ -21,3 +21,11 @@ todo: description
 
 <br>
 
+
+### Provide default profile images or avatars for newly created users.
+
+todo: description
+
+<br>
+
+
