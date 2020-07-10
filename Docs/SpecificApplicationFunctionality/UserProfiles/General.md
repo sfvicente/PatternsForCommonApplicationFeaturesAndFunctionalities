@@ -6,3 +6,12 @@ edited afterwards.
 Applications and systems use profiles for configuration, recommendations and identification, amongst other functionalities. 
 
 <br>
+
+
+### Allow users to upload custom images and avatars, if applicable.
+
+todo: description
+
+<br>
+
+
