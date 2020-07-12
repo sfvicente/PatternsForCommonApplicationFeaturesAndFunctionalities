@@ -169,4 +169,5 @@ A collection of notes and guidelines for common application features and functio
 
 **User Profiles**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/UserProfiles/General.md)
+- [Follow](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/UserProfiles/Follow.md)
 
