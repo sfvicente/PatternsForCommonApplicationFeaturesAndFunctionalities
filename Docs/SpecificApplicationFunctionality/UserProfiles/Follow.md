@@ -6,7 +6,7 @@ creation of audiences for people interested in building a personal brand and com
 <br>
 
 
-### Display the number of followers for a user in the profiel page.
+### Display the number of followers for a user in the profile page.
 
 todo: description
 
