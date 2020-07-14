@@ -1,4 +1,8 @@
 # Contact Us | General
+
+A Contact Us page or Contact page is a section of an application. It is used to facilitate users to reach or communicate with the organization or individual that owns the
+application.
+
 <br>
 
 
