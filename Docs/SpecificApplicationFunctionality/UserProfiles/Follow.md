@@ -20,3 +20,9 @@ todo: description
 <br>
 
 
+### In mobile applications, place the follow button within the thumb zone.
+
+todo: description
+
+<br>
+
