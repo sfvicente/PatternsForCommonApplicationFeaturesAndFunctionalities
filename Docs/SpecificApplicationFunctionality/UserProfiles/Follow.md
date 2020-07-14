@@ -35,3 +35,11 @@ todo: description
 
 <br>
 
+
+### Add a followers count to the user profile page.
+
+Adding the number of users following the account is use to measure a profile's popularity. It can be applicable to social media platforms for example.
+
+todo: description
+
+<br>
