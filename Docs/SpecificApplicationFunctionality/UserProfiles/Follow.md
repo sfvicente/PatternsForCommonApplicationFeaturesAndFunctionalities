@@ -20,6 +20,15 @@ todo: description
 <br>
 
 
+### Make the follow button clearly visible.
+
+Visibility of the button should take priority over the position.
+
+todo: description
+
+<br>
+
+
 ### In mobile applications, place the follow button within the thumb zone.
 
 todo: description
