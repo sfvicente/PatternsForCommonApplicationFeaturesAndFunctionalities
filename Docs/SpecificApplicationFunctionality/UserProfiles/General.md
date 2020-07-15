@@ -39,3 +39,14 @@ selling of products and services.
 todo: description
 
 <br>
+
+
+### Consider adding a user rating to their profile page.
+
+User ratings allow customers to see how a member is perceived in terms of their quality as a professional. This can be in marketplace related contexts such as a freelancer
+sites or ecommerce applications. The ratings will also help understand a user's level of activity or volume of work.
+
+todo: description
+
+<br>
+
