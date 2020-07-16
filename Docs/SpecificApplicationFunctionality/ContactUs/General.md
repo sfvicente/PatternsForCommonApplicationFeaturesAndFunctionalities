@@ -6,6 +6,15 @@ application.
 <br>
 
 
+### Always include a contact email in the Contact Us section.
+
+The most commonly used way for visitors to contact a company or service provider is to use email.
+
+TODO: Description
+
+<br>
+
+
 ### Consider including a contact form to allow visitors to send a query, request or comment via the application.
 
 Contact forms allow sending a quick message or request without exiting the current browser window. Chatbots are becoming more common leading to contact forms falling out of use.
