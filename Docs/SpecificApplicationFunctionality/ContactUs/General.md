@@ -17,7 +17,8 @@ TODO: Description
 
 ### Consider including a contact form to allow visitors to send a query, request or comment via the application.
 
-Contact forms allow sending a quick message or request without exiting the current browser window. Chatbots are becoming more common leading to contact forms falling out of use.
+Contact forms allow sending a quick message or request without exiting the current browser window. Live chats and chatbots are becoming more common leading to contact forms 
+falling out of use.
 
 TODO: Description
 
