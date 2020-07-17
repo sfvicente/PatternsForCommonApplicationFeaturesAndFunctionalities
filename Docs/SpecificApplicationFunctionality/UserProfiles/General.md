@@ -29,6 +29,15 @@ todo: description
 <br>
 
 
+### Allow users to define a custom url for their public profile.
+
+With a custom url, users share links to their profiles in an easier way. It also helps building a personal brand.
+
+todo: description
+
+<br>
+
+
 ### Consider reserving space for a summary section that a user can fill.
 
 A user profile can be built with a configurable element for a summary. It can then be displayed in the public profile page for that user.
