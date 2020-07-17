@@ -50,3 +50,14 @@ todo: description
 
 <br>
 
+
+### Consider adding the location to a user's profile page.
+
+A location can be used to allow customers to select professionals in the same region.
+
+Location can be as specific as a city or more global such as a country.
+
+todo: description
+
+<br>
+
