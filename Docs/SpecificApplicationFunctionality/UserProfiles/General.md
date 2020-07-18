@@ -70,3 +70,23 @@ todo: description
 
 <br>
 
+
+### Consider adding links to the user social media pages to a profile page.
+
+Those should be configurable in the user's profile management page.
+
+Examples of relevant social media pages include:
+	- YouTube
+	- Twitter
+	- Facebook
+	- Instagram
+	- LinkedIn
+	- Snapchat
+	- Pinterest
+	- SoundCloud
+	- Vimeo
+
+	todo: description
+
+<br>
+
