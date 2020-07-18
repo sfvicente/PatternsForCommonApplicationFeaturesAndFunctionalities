@@ -43,3 +43,12 @@ Adding the number of users following the account is use to measure a profile's p
 todo: description
 
 <br>
+
+
+### Add a following count to the user profile page.
+
+Adding the number of peers that the user is following allows for visitors to find users with similar interests, ideas, content or related information.
+
+todo: description
+
+<br>
