@@ -29,6 +29,13 @@ todo: description
 <br>
 
 
+### Consider allowing users to upload a custom image for the public profile cover.
+
+todo: description
+
+<br>
+
+
 ### Allow users to define a custom url for their public profile.
 
 With a custom url, users share links to their profiles in an easier way. It also helps building a personal brand.
