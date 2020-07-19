@@ -5,26 +5,26 @@ A collection of notes and guidelines for common application features and functio
 ## General Application Development
 
 **Accessibility**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Accessibility/General-Accessibility.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Accessibility/General.md)
 
 **Content**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Content/General-Content.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Content/General.md)
 
 **Design**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Design/General-Design.md)
-- [Icons](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Design/General-Design-Icons.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Design/General.md)
+- [Icons](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Design/Icons.md)
 
 **Error Handling**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/ErrorHandling/General.md)
 
 **Help**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Help/General-Help.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Help/General.md)
 
 **Logging**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Logging/General-Logging.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Logging/General.md)
 
 **Mobile**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Mobile/General-Mobile.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Mobile/General.md)
 
 **Performance**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Performance/General.md)
@@ -38,17 +38,17 @@ A collection of notes and guidelines for common application features and functio
 - [HTTP Communication](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Security/HttpCommunication.md)
 - [JavaScript](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Security/JavaScript.md)
 
-**Structure**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Structure/General-Structure.md)
-
 **Search Engine Optimisation**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Seo/General.md)
 - [Backlinks](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Seo/Backlinks.md)
 - [Navigation](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Seo/Navigation.md)
 - [URLs](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Seo/Urls.md)
 
+**Structure**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Structure/General.md)
+
 **Usability**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/General-Usability.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/General.md)
 
 
 ## Specific Application Functionality
