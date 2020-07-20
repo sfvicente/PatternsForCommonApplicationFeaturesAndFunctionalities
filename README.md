@@ -80,6 +80,9 @@ A collection of notes and guidelines for common application features and functio
 **Getting Started**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/GettingStarted/General.md)
 
+**Homepage**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Homepage/General.md)
+
 **Landing Page**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/LandingPage/General.md)
 - [Call To Action](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/LandingPage/CallToAction.md)
