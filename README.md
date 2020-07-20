@@ -49,7 +49,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Usability**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/General.md)
-
+- [Search](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/Search.md)
 
 ## Specific Application Functionality
 
