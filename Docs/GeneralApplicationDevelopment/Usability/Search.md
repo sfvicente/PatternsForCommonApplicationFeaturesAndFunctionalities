@@ -16,3 +16,10 @@ todo: description
 
 <br>
 
+
+### Allow the user to configure the number of results per page.
+
+todo: description
+
+<br>
+
