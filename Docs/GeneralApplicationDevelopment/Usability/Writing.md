@@ -9,3 +9,10 @@ todo: description
 
 <br>
 
+
+### Define acronyms and abbreviations when they first used.
+
+todo: description
+
+<br>
+
