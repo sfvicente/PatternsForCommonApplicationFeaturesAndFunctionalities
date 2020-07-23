@@ -38,6 +38,15 @@ todo: description
 <br>
 
 
+### Preface lists with a brief introduction to help users understand the individual items are related.
+
+A list introduction does not require a full sentence. It can be a single word, as long as it can introduce the relationship between the items.
+
+todo: description
+
+<br>
+
+
 ### Start button and link labels with action words.
 
 todo: description
