@@ -31,6 +31,13 @@ todo: description
 <br>
 
 
+### Prefer bulleted and numbered lists to text blocks when possible.
+
+todo: description
+
+<br>
+
+
 ### Start button and link labels with action words.
 
 todo: description
