@@ -52,7 +52,7 @@ A collection of notes and guidelines for common application features and functio
 - [Homepage](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/Homepage.md)
 - [Search](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/Search.md)
 - [Task Orientation](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/TaskOrientation.md)
-- [Writing](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Writing/Search.md)
+- [Writing](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Usability/Writing.md)
 
 ## Specific Application Functionality
 
