@@ -4,3 +4,12 @@ A homepage is the default or front page of web application or site. It is the fi
 
 <br>
 
+
+### Display the product categories on the homepage and ensure they clearly visible.
+
+todo: description
+
+Tags: Homepage, Usability
+Shared With: 'Usability' section, 'Homepage' sub-section
+
+<br>
