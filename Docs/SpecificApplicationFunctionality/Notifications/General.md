@@ -1,4 +1,8 @@
 # Notifications | General
+
+An notification, within the context of software application, is a message or alert sent by the program to one or more users. 
+
+In mobile applications, notifications are displayed even when the device is locked. This allows users to view the messages or alerts without opening the application.
 <br>
 
 ### Provide in-site management controls for notifications

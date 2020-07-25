@@ -105,7 +105,7 @@ A collection of notes and guidelines for common application features and functio
 - [Unsubscribe](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Newsletter/Newsletter-Unsubscribe.md)
 
 **Notifications**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Notifications/Notifications-General.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Notifications/General.md)
 
 **Offboarding**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Offboarding/General.md)
