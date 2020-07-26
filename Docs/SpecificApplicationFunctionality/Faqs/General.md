@@ -1,4 +1,7 @@
 # Frequently Asked Questions | General
+
+A Frequently Asked Questions (FAQs) section is an organized repository of information to assist users of an application or service. The FAQ section provides answers for
+common inqueries that customers or visitors have related to one or more products.
 <br>
 
 
