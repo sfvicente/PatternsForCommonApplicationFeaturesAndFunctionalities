@@ -57,7 +57,7 @@ A collection of notes and guidelines for common application features and functio
 ## Specific Application Functionality
 
 **About Us**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/AboutUs/AboutUs-General.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/AboutUs/General.md)
 
 **Account Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/AccountManagement/General.md)
