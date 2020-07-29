@@ -102,8 +102,8 @@ A collection of notes and guidelines for common application features and functio
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Messaging/Messaging-General.md)
 
 **Newsletter**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Newsletter/Newsletter-General.md)
-- [Unsubscribe](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/Newsletter/Newsletter-Unsubscribe.md)
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Newsletter/General.md)
+- [Unsubscribe](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Newsletter/Unsubscribe.md)
 
 **Notifications**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Notifications/General.md)
