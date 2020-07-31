@@ -5,6 +5,15 @@ methods such as credit cards and payment gateways with sellers accounts or backo
 
 <br>
 
+
+### Always validate the number, expiration date, and CVV of credit cards used in purchases by potential customers.
+
+todo: description
+
+Tags: Security|Payments
+<br>
+
+
 ### Monitor payment activity for multiple failed transactions for the same IP address.
 
 todo: description
