@@ -38,4 +38,12 @@ Tags: Security|Payments
 <br>
 
 
+### Do not attempt to process a declined card more than four times if a payment processor returns a declined non-fraudulent reason code.
+
+todo: description
+
+Tags: Security|Payments
+<br>
+
+
 
