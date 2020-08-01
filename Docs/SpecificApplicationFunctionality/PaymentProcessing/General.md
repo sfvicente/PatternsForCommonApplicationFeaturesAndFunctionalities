@@ -30,5 +30,12 @@ Tags: Security|Payments
 <br>
 
 
+### Do not attempt to process a credit card more than once if a payment processor returns a fraudulent reason code.
+
+todo: description
+
+Tags: Security|Payments
+<br>
+
 
 
