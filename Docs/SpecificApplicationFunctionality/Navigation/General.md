@@ -12,3 +12,16 @@ todo: description
 
 <br>
 
+
+### Do not use a sidebar style that is identical to the style of the content page.
+
+Elements of navigation such as sidebars should stand out from other elements such as content.
+
+Strategies to distinguish sidebars include applying different color and adding white space.
+
+todo: complement description
+
+Tags: Usability|Navigation
+<br>
+
+
