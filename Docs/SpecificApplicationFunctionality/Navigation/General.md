@@ -25,3 +25,14 @@ Tags: Usability|Navigation
 <br>
 
 
+### Avoid the use of buttons for navigation.
+
+Although buttons have been used in the past for navigation, this practice has become increasingly rare in modern web development.
+
+Use buttons for calls to action and not navigation.
+
+todo: complement description
+
+Tags: Usability|Navigation
+<br>
+
