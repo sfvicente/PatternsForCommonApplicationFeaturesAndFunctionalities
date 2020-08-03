@@ -51,3 +51,11 @@ todo: complement description
 <br>
 
 
+### Always ensure navigation components are responsive on mobile.
+
+todo: complement description
+
+<br>
+
+
+
