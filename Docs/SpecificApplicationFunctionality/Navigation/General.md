@@ -37,6 +37,13 @@ Tags: Usability|Navigation
 <br>
 
 
+### Consider using the footer as full or partial copy of the header navigation bar options to avoid forcing users to scroll up.
+
+todo: complement description
+
+<br>
+
+
 ### Consider using the footer to expand on the header navigation bar.
 
 todo: complement description
