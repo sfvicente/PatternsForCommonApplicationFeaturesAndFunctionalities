@@ -36,3 +36,11 @@ todo: complement description
 Tags: Usability|Navigation
 <br>
 
+
+### Consider using the footer to expand on the header navigation bar.
+
+todo: complement description
+
+<br>
+
+
