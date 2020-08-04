@@ -2,6 +2,15 @@
 <br>
 
 
+### Incentivize payment in advance and auto-renewals.
+
+Discounts are one way to create incentives for customers.
+
+TODO: description
+
+<br>
+
+
 ### Do not use a one size fits all price model.
 
 TODO: description
