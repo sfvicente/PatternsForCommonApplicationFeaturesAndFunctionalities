@@ -29,3 +29,20 @@ TODO: description
 <br>
 
 
+### Monitor KPIs and customer data
+
+As with other business models, subscription based models require montoring to assess the business state and understand how it is developing.
+
+Important KPIs that should be monitor include:
+- Monthly recurring revenue
+- Customer aquisition costs
+- Customer acquisition recoveyr time
+- Customer lifetime value
+- Churn rate
+
+TODO: description
+
+<br>
+
+
+
