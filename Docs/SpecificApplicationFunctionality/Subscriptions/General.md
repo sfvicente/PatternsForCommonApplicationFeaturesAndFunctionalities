@@ -1,5 +1,7 @@
 # Subscriptions | General
 
+Subscriptions are a business model in which a company provides or supports ongoing services/products on a regular basis in exchange for recurring payments by customers.
+
 Adopting a subscription based model has a number of advantages for sellers. Not only will it retain customers for a greater long term value but it also makes
 it easier to predict revenue levels and fulfillment needs.
 
