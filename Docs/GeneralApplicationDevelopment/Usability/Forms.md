@@ -37,3 +37,12 @@ todo: description
 
 <br>
 
+
+### Avoid dropdown controls in forms, prefering radio button groups, toggles or steppers.
+
+Forms with dropdowns take more time to complete. Also, selecting items from the dropdown lists is difficult on mobile phones with smaller screens.
+
+todo: description
+
+<br>
+
