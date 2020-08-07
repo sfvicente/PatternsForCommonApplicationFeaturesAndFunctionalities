@@ -6,6 +6,17 @@ methods such as credit cards and payment gateways with sellers accounts or backo
 <br>
 
 
+### Only ask for essential information.
+
+Typing on mobile is normally more difficult and slower when compared to desktop/notebooks using a keyboard and mouse.
+
+Asking for non-essential information creates friction and delays the payment action which is normally the last necessary step for conversion of a sale or service.
+
+todo: description
+
+<br>
+
+
 ### Always validate the number, expiration date, and CVV of credit cards used in purchases by potential customers.
 
 todo: description
