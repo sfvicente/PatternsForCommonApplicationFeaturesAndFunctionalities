@@ -12,6 +12,17 @@ TODO: description
 <br>
 
 
+### Optimize notifications by user timezone.
+
+When possible, it is preferable to send notifications on a user's timezone.
+
+It improves the user experience.
+
+TODO: description
+
+<br>
+
+
 ### Provide in-site management controls for notifications
 
 TODO: description
