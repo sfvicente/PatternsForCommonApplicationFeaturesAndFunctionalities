@@ -5,6 +5,13 @@ An notification, within the context of software application, is a message or ale
 In mobile applications, notifications are displayed even when the device is locked. This allows users to view the messages or alerts without opening the application.
 <br>
 
+### Customise notifications for browser and device type.
+
+TODO: description
+
+<br>
+
+
 ### Provide in-site management controls for notifications
 
 TODO: description
