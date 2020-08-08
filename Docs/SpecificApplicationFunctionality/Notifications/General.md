@@ -21,6 +21,13 @@ TODO: description
 <br>
 
 
+### Consider using customised icons with notifications.
+
+TODO: description
+
+<br>
+
+
 ### Optimize notifications by user timezone.
 
 When possible, it is preferable to send notifications on a user's timezone.
