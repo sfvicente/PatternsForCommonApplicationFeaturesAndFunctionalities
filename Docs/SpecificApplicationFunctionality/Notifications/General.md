@@ -12,6 +12,15 @@ TODO: description
 <br>
 
 
+### Consider personalising notifications.
+
+Notifications can include dynamic attributes to personalise the messages. For example, you can use the user's name.
+
+TODO: description
+
+<br>
+
+
 ### Optimize notifications by user timezone.
 
 When possible, it is preferable to send notifications on a user's timezone.
