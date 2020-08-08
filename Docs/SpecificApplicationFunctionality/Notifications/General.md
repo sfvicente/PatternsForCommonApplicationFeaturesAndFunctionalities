@@ -54,6 +54,8 @@ TODO: description
 
 ### Ensure notifications are actionable.
 
+Incorporating action buttons in notifications allows you to measure the success of notifications by analyzing the click-through-rate.
+
 TODO: description
 
 <br>
