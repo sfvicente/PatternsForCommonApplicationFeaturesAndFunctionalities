@@ -25,4 +25,12 @@ TODO: Add description
 <br>
 
 
+### Leave the cookie `Domain` attribute empty, to explicitly avoid sharing the contents of the cookie with all subdomains.
+
+TODO: Add description
+
+Tags: Security
+<br>
+
+
 
