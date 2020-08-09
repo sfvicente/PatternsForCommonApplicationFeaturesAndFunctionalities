@@ -33,4 +33,12 @@ Tags: Security
 <br>
 
 
+### Set the `HTTPOnly` flag of a cookie if there isn't a need for the cookie to be accessed by script.
+
+TODO: Add description
+
+Tags: Security
+<br>
+
+
 
