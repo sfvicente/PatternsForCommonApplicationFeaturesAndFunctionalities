@@ -41,4 +41,9 @@ Tags: Security
 <br>
 
 
+### Always set the `Secure` flag of cookies with sensitive data to prevent cookies from being sent over unencrypted connections.
 
+TODO: Add description
+
+Tags: Security
+<br>
