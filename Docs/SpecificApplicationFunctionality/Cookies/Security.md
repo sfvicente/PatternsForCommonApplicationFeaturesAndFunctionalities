@@ -47,3 +47,12 @@ TODO: Add description
 
 Tags: Security
 <br>
+
+
+### Always set the `SameSite` to `strict` if the cookie should not be sent along with requests initiated by third party websites.
+
+TODO: Add description
+
+Tags: Security
+<br>
+
