@@ -12,6 +12,17 @@ todo: description
 <br>
 
 
+### Always display a sub-headline that provides a description on what is being offered.
+
+Highlight the problem that the target audience is trying to solve by purchasing your product or service.
+
+Do not use technical language or industry jargon.
+
+todo: description
+
+<br>
+
+
 ### Display the product categories on the homepage and ensure they clearly visible.
 
 todo: description
