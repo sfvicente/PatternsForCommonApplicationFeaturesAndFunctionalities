@@ -41,6 +41,13 @@ todo: description
 <br>
 
 
+### Always list the benefits of the product or service you are offering.
+
+todo: description
+
+<br>
+
+
 ### Display the product categories on the homepage and ensure they clearly visible.
 
 todo: description
