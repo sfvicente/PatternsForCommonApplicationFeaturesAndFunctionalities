@@ -32,6 +32,15 @@ todo: description
 <br>
 
 
+### Include supporting images or videos to generate emotion and drive action.
+
+Do not use photos or videos from online repositories. Original, well-crafted images and videos are more impactful.
+
+todo: description
+
+<br>
+
+
 ### Display the product categories on the homepage and ensure they clearly visible.
 
 todo: description
