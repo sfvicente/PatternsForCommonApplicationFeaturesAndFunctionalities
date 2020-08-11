@@ -23,6 +23,15 @@ todo: description
 <br>
 
 
+### Always have at least one primary call-to-action in the homepage.
+
+The objective of call-to-actions should be drive visitors to the next phases of your sales funnel.
+
+todo: description
+
+<br>
+
+
 ### Display the product categories on the homepage and ensure they clearly visible.
 
 todo: description
