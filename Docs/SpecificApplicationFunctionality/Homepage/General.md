@@ -48,6 +48,13 @@ todo: description
 <br>
 
 
+### Always list the key features of the product or service you are offering.
+
+todo: description
+
+<br>
+
+
 ### Include testimonials as social proof to create trust with visitors and customers.
 
 todo: description
