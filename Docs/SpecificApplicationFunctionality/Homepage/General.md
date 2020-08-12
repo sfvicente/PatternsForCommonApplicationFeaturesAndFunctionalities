@@ -48,6 +48,13 @@ todo: description
 <br>
 
 
+### Include testimonials as social proof to create trust with visitors and customers.
+
+todo: description
+
+<br>
+
+
 ### Display the product categories on the homepage and ensure they clearly visible.
 
 todo: description
