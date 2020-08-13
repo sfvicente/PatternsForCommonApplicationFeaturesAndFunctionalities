@@ -26,3 +26,9 @@ todo: complement
 <br>
 
 
+### Use only the customer's first name if the industry, field or information is sensitive.
+
+todo: complement
+
+<br>
+
