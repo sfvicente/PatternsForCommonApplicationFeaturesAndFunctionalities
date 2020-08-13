@@ -16,3 +16,13 @@ todo: complement
 
 <br>
 
+
+### Display the person's name and photo in the testimonial if possible.
+
+Using the person's name and their photo gives more credibility to the testimonials.
+
+todo: complement
+
+<br>
+
+
