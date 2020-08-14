@@ -40,3 +40,10 @@ todo: add description
 <br>
 
 
+### Keep the length of video testimonials under 60 seconds.
+
+todo: add description
+
+<br>
+
+
