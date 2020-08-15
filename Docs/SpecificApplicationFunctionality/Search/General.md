@@ -18,3 +18,11 @@ TODO: Description
 <br>
 
 
+### If the search bar is available on multiple pages, set the control in the same location.
+
+TODO: Description
+
+<br>
+
+
+
