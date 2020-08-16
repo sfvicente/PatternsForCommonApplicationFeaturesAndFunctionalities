@@ -32,3 +32,9 @@ TODO: Description
 <br>
 
 
+### Provide facets to allow visitors and customers to narrow their search.
+
+TODO: Description
+
+<br>
+
