@@ -25,4 +25,10 @@ TODO: Description
 <br>
 
 
+### Provide filters to allow visitors and customers to narrow their search.
+
+TODO: Description
+
+<br>
+
 
