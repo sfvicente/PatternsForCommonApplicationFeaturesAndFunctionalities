@@ -32,3 +32,12 @@ TODO: complement.
 <br>
 
 
+### Prefer an authentication application or security tokens for 2FA authentication.
+
+Examples of secure authentication applications include Google Authenticator, Microsoft Authenticator and Authy.
+
+TODO: complement.
+
+<br>
+
+
