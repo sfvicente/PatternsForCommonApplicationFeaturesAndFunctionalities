@@ -1,4 +1,6 @@
 # Messaging | General
+
+In-app messaging or chat between users is a private and bidirectional exchange of information between one or more users within the context of a software application.
 <br>
 
 
@@ -37,5 +39,3 @@ TODO: description
 TODO: description
 
 <br>
-
-
