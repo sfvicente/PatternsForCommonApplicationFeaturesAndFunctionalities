@@ -39,3 +39,11 @@ TODO: description
 TODO: description
 
 <br>
+
+
+### Consider allowing users to flag or report inappropriate content.
+
+TODO: description
+
+<br>
+
