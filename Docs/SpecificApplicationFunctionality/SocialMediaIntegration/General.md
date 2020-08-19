@@ -6,3 +6,10 @@ It is used to cater to user communication preferences and facilitate customer ac
 
 <br>
 
+
+### Place social share plugins on individual product pages.
+
+todo: add description
+
+<br>
+
