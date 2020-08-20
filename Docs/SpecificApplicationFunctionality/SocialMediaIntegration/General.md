@@ -13,3 +13,11 @@ todo: add description
 
 <br>
 
+
+### Consider integrating a social media commenting system.
+
+Examples of social media commenting systems include Disqus and Facebook Comments.
+
+todo: add description
+
+<br>
