@@ -9,6 +9,15 @@ TODO: Add description
 <br>
 
 
+### Consider offering a free plan to obtain feedback from customers, demonstrate the features of the product, test the viability of the offer or perform faster customer acquisition.
+
+One possible issue is product positioning.
+
+TODO: complement.
+
+<br>
+
+
 ### Use charm pricing for individual plans.
 
 Charm pricing, also known as psychological pricing, is a tactic in which price is adjusted to impact consumers psychologically and prompt them to buy.
