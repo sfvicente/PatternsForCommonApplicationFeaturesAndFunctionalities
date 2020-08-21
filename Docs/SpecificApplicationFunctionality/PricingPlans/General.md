@@ -16,6 +16,13 @@ TODO: Add description
 <br>
 
 
+### Add all necessary data to the pricing page to allow consumers to make an informed buying decision.
+
+TODO: Add description
+
+<br>
+
+
 ### Consider offering a free plan to obtain feedback from customers, demonstrate the features of the product, test the viability of the offer or perform faster customer acquisition.
 
 One possible issue is product positioning.
