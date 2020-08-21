@@ -2,6 +2,13 @@
 <br>
 
 
+### Design each plan with features and options that are applicable to specific customer segments.
+
+TODO: Add description
+
+<br>
+
+
 ### Limit your pricing plans to as few options as possible.
 
 TODO: Add description
