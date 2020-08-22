@@ -93,4 +93,9 @@ TODO: Add description
 <br>
 
 
+### Display a detailed feature comparison with all pricing tiers after the main plan pricing table.
+
+TODO: Add description
+
+<br>
 
