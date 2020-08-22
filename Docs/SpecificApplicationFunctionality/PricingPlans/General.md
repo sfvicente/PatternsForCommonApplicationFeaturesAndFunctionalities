@@ -30,6 +30,21 @@ TODO: Add description
 <br>
 
 
+### Consider not reiterating features from lower tiers in the higher tiers descriptions.
+
+This uses less space and keeps the layout simpler without text duplication.
+
+The following are examples of sentences that can be used to convey the message:
+- All the benefits of {lower tier}, and:
+- Everything in {lower tier}, plus:
+
+The message stating the inclusion of features does not need to be identical for each tier.
+
+TODO: Add description
+
+<br>
+
+
 ### Consider offering a free plan to obtain feedback from customers, demonstrate the features of the product, test the viability of the offer or perform faster customer acquisition.
 
 One possible issue is product positioning.
