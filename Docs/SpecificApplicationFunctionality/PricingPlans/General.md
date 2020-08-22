@@ -2,6 +2,13 @@
 <br>
 
 
+### Consider making pricing for each tier available for both monthly and annual subscriptions.
+
+TODO: Add description
+
+<br>
+
+
 ### Design each plan with features and options that are applicable to specific customer segments.
 
 TODO: Add description
