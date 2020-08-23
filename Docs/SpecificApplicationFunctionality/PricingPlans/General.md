@@ -88,7 +88,7 @@ TODO: Add description
 <br>
 
 
-### Make the CTA proeminent, actionable and specific.
+### Make the CTA elements clear, proeminent, actionable and specific.
 
 TODO: Add description
 
