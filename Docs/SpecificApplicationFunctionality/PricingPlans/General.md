@@ -2,6 +2,13 @@
 <br>
 
 
+### Consider using original or theme related designations for the tier names instead of the common names such as Basic, Standard and Premium.
+
+TODO: Add description
+
+<br>
+
+
 ### Consider making pricing for each tier available for both monthly and annual subscriptions.
 
 TODO: Add description
