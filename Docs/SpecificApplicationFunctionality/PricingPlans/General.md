@@ -79,6 +79,15 @@ TODO: Add description
 <br>
 
 
+### Consider including a CTA for each tier that allows a visitor to sign up for a free trial.
+
+The objective is to increase customer acquisition.
+
+TODO: Add description
+
+<br>
+
+
 ### Make the CTA proeminent, actionable and specific.
 
 TODO: Add description
