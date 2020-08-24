@@ -122,3 +122,9 @@ TODO: Add description
 
 <br>
 
+
+### Include a FAQ section related to the pricing and plans on the pricing page.
+
+TODO: Add description
+
+<br>
