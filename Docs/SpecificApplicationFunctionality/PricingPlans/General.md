@@ -9,6 +9,28 @@ TODO: Add description
 <br>
 
 
+### List all relevant features available for each tier.
+
+TODO: Add description
+
+<br>
+
+
+### Consider not reiterating features from lower tiers in the higher tiers descriptions.
+
+This uses less space and keeps the layout simpler without text duplication.
+
+The following are examples of sentences that can be used to convey the message:
+- All the benefits of {lower tier}, and:
+- Everything in {lower tier}, plus:
+
+The message stating the inclusion of features does not need to be identical for each tier.
+
+TODO: Add description
+
+<br>
+
+
 ### Consider using original or theme related designations for the tier names instead of the common names such as Basic, Standard and Premium.
 
 TODO: Add description
@@ -38,21 +60,6 @@ TODO: Add description
 
 
 ### Add all necessary data to the pricing page to allow consumers to make an informed buying decision.
-
-TODO: Add description
-
-<br>
-
-
-### Consider not reiterating features from lower tiers in the higher tiers descriptions.
-
-This uses less space and keeps the layout simpler without text duplication.
-
-The following are examples of sentences that can be used to convey the message:
-- All the benefits of {lower tier}, and:
-- Everything in {lower tier}, plus:
-
-The message stating the inclusion of features does not need to be identical for each tier.
 
 TODO: Add description
 
