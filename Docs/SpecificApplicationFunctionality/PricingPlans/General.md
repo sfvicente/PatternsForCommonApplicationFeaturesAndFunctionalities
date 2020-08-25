@@ -137,6 +137,20 @@ TODO: Add description
 <br>
 
 
+### Include the money back guarantee benefit if available.
+
+TODO: Add description
+
+<br>
+
+
+### Include information regarding the secure payment service with respective logos.
+
+TODO: Add description
+
+<br>
+
+
 ### Include a FAQ section related to the pricing and plans on the pricing page.
 
 TODO: Add description
