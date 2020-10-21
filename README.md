@@ -17,6 +17,9 @@ A collection of notes and guidelines for common application features and functio
 **Error Handling**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/ErrorHandling/General.md)
 
+**Form Validation**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/FormValidation/General.md)
+
 **Help**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Help/General.md)
 
