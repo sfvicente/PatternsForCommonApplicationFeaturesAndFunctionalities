@@ -12,6 +12,13 @@ TODO: add examples
 <br>
 
 
+### Display validation messages close to the fields that are being validated.
+
+TODO: complement description
+TODO: add examples
+<br>
+
+
 ### Do not display validation results of fields or forms in a modal dialog or popups.
 
 By display errors in modal dialogs or popups, you shift the user focus between UI components.
