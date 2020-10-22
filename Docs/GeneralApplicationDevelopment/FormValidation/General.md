@@ -12,6 +12,15 @@ TODO: add examples
 <br>
 
 
+### Inform users when validation fails so they perform immediate verification and correction before proceeding to the next step.
+
+It not only helps the flow of filling the form but it also builds user confidence and positive expectation of a successful form completion.
+
+TODO: complement description
+TODO: add examples
+<br>
+
+
 ### Display validation messages close to the fields that are being validated.
 
 TODO: complement description
