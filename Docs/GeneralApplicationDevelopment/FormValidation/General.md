@@ -51,3 +51,10 @@ TODO: complement description
 TODO: add examples
 <br>
 
+
+### Use tooltips to display validation messages if the form structure doesn't allow for enough message space.
+
+TODO: complement description
+TODO: add examples
+<br>
+
