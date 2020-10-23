@@ -12,6 +12,19 @@ TODO: add examples
 <br>
 
 
+### Prefer inline validation to validation on form submit.
+
+When using inline validation, messages are displayed immediately after the user fills a form field. In the case of validation on form submit, the user has to provide all neccessary
+information and then normally pushes a button to submits the data. Validation is then performed to all the fields either on the client or the server.
+
+Inline validation is prefered because it decreases form completion time, the number of eye fixations and the errors performed.
+
+TODO: provide study data
+
+TODO: add examples
+<br>
+
+
 ### Inform users when validation fails so they perform immediate verification and correction before proceeding to the next step.
 
 It not only helps the flow of filling the form but it also builds user confidence and positive expectation of a successful form completion.
