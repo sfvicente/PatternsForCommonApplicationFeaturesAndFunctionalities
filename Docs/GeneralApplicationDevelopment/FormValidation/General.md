@@ -65,3 +65,11 @@ TODO: complement description
 TODO: add examples
 <br>
 
+
+### Consider using a check mark for successfully validated fields.
+
+TODO: complement description
+TODO: add examples
+<br>
+
+
