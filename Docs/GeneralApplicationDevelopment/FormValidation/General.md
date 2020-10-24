@@ -34,6 +34,13 @@ TODO: add examples
 <br>
 
 
+### Always explain validation errors in written message.
+
+TODO: complement description
+TODO: add examples
+<br>
+
+
 ### Display validation messages close to the fields that are being validated.
 
 Messages placed close to the related fields allow users to notice them quickly.
