@@ -58,3 +58,10 @@ TODO: complement description
 TODO: add examples
 <br>
 
+
+### Use the green color for success icons and messages.
+
+TODO: complement description
+TODO: add examples
+<br>
+
