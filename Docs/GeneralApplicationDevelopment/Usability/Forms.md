@@ -6,6 +6,16 @@ and the data is normally post back to a server for storage.
 <br>
 
 
+### Prefer top-left aligned labels to improve readability and decrease form completion time.
+
+UX research performed at Google, discovered that placing labels above form fields and aligned to the left-hand side decreased form completion time. This is due to the reduced
+points of fixation.
+
+todo: complement description
+todo: add diagram.
+<br>
+
+
 ### Always validate form data before submitting it.
 
 todo: description
