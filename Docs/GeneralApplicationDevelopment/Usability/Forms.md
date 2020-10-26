@@ -16,6 +16,14 @@ todo: add diagram.
 <br>
 
 
+### Always stack radio button groups vertically.
+
+By stacking radio buttons vertically the user is able to process the information faster to perform choices as compared to an horizontal layout.
+
+todo: add example
+<br>
+
+
 ### Always validate form data before submitting it.
 
 todo: description
