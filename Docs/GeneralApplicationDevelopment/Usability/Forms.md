@@ -6,6 +6,15 @@ and the data is normally post back to a server for storage.
 <br>
 
 
+### Always display a field label.
+
+Field lables are descriptive words or phrases for a UI element in a form such as 'Username' and 'Email Address'. Labels are normally placed close to the form fields. You should
+always include labels for fields.
+
+Labels identify the purpose of the field and allows a user to quickly understand the required data. It leads to a faster form completion.
+<br>
+
+
 ### Prefer top-left aligned labels to improve readability and decrease form completion time.
 
 UX research performed at Google, discovered that placing labels above form fields and aligned to the left-hand side decreased form completion time. This is due to the reduced
