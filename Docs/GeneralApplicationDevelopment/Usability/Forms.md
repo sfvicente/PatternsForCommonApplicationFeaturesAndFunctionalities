@@ -24,6 +24,21 @@ todo: add example
 <br>
 
 
+## Checkbox
+
+A checkbox is a UI element that allows a user to make a choice between one of two possible mutually exclusive options. It's common for forms to present groups of checkboxes 
+for user options. The user may select several of the choices or none, unlike a radio button group, in which only a single option can be selectable from several 
+mutually-exclusive choices.
+<br>
+
+### Always stack checkbox groups vertically.
+
+By stacking radio buttons vertically the user is able to process the information faster to perform choices as compared to an horizontal layout.
+
+todo: add example
+<br>
+
+
 ### Always validate form data before submitting it.
 
 todo: description
