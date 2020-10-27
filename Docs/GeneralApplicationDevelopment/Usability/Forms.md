@@ -38,6 +38,12 @@ created to store a date.
 <br>
 
 
+## Radio Button
+
+A radio button or option button is a UI element that allows a user to choose a single choice of a predefined set of mutually exclusive options. 
+<br>
+
+
 ### Always stack radio button groups vertically.
 
 By stacking radio buttons vertically the user is able to process the information faster to perform choices as compared to an horizontal layout.
