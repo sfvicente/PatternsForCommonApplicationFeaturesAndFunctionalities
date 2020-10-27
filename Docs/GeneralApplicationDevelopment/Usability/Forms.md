@@ -107,3 +107,12 @@ todo: description
 
 <br>
 
+
+### Avoid asking for users to enter their phone numbers.
+
+Users are increasingly more protective of their privacy. Unless absolutely necessary for the functionality of the application, you should avoid asking users for their phone
+numbers.
+
+todo: complement description
+todo: add studies
+<br>
