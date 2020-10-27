@@ -25,6 +25,19 @@ todo: add diagram.
 <br>
 
 
+## Input Fields
+
+Input fields are UI elements that allow the user to enter data.
+<br>
+
+
+### Set the size of input fields controls according to the text the user is expected to enter.
+
+The size of an input field should reflect the data that the control is expected to receive. For example, fields designed to hold addresses should be larger than fields
+created to store a date.
+<br>
+
+
 ### Always stack radio button groups vertically.
 
 By stacking radio buttons vertically the user is able to process the information faster to perform choices as compared to an horizontal layout.
