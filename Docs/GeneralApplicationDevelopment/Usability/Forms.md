@@ -137,3 +137,12 @@ Using auto-fill saves the user time and effort filling out forms, especially wit
 
 <br>
 
+
+### Prefer selectable images when presenting options or questions to a user in a form.
+
+Using clickable images when asking a user a question or selecting an option is more engaging and improves the overall user experience.
+
+TODO: complement description
+TODO: add example
+
+<br>
