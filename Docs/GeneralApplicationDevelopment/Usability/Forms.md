@@ -127,3 +127,13 @@ having a system prepared for this functionality severely impacts these users.
 
 Additional Tags: Accessability
 <br>
+
+
+### Always enable browser auto-fill for the appropriate fields.
+
+Auto-fill is a feature present in modern browsers like Chrome and Firefox, which automatically places data in specific form fields.
+
+Using auto-fill saves the user time and effort filling out forms, especially with long fields such as names and addresses.
+
+<br>
+
