@@ -116,3 +116,14 @@ numbers.
 todo: complement description
 todo: add studies
 <br>
+
+
+### Ensure that the controls in each form can be navigated using the tab key.
+
+Not every user navigates using the mouse. Some users prefer using the keyboard to navigate websites and applications.
+
+It is important to consider is that as the tab key is a common way of navigating forms, there is software designed for users with disabilities that rely on this function. Not
+having a system prepared for this functionality severely impacts these users.
+
+Additional Tags: Accessability
+<br>
