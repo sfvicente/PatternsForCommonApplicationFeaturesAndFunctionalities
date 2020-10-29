@@ -129,6 +129,13 @@ Additional Tags: Accessability
 <br>
 
 
+### Avoid auto-advancing in forms.
+
+When data is entered in forms, it can be considered valid but not be correct. A portion of users perform review of data inputed into fields and find reassurance in this
+action. Auto-advancing takes the control away from the user, which can be annoying and require additional effort.
+<br>
+
+
 ### Always enable browser auto-fill for the appropriate fields.
 
 Auto-fill is a feature present in modern browsers like Chrome and Firefox, which automatically places data in specific form fields.
