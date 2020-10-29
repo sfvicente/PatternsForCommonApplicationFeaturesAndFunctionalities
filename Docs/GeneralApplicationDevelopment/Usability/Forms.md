@@ -146,3 +146,13 @@ TODO: complement description
 TODO: add example
 
 <br>
+
+
+### Avoid using captcha tests.
+
+Captchas are computing tests used to determine if an application or website user is human. The objective of captchas are to prevent automated systems or bots to use applications
+and generate spam. It attempts to restrict actions such as registration of fake accounts and creation of posts or comments.
+
+Captchas should be avoided in forms as a security measure because it forces users to read difficult images and increases the effort required to complete forms. It poses additional
+problems to users with disabilities. Also, with the advances in development of optical character recognition technology, 
+<br>
