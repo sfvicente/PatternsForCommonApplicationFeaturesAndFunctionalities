@@ -168,4 +168,6 @@ Captchas should be avoided in forms as a security measure because it forces user
 and poses additional problems to users with disabilities. Also, with the advances in development of optical character recognition technology, captchas effectiveness is decreasing.
 
 As alternatives to captchas, consider using honeypots or time-based forms.
+
+Additional Tags: Security
 <br>
