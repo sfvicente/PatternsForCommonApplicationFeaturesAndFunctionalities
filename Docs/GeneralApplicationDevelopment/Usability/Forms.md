@@ -185,3 +185,11 @@ As alternatives to captchas, consider using honeypots or time-based forms.
 
 Additional Tags: Security
 <br>
+
+
+### Always differentiate primary from secondary actions.
+
+todo: add description
+todo: add example
+
+<br>
