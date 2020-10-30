@@ -25,6 +25,13 @@ todo: add diagram.
 <br>
 
 
+### Prefer display form elements on a single column.
+
+Forms should constructed to display fields in one column. Creating form layouts as multiple columns ~ forces users to lose focus ~.
+
+TODO: add example
+<br>
+
 ## Input Fields
 
 Input fields are UI elements that allow the user to enter data.
