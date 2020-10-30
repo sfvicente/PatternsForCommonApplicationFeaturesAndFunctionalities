@@ -15,6 +15,13 @@ Labels identify the purpose of the field and allows a user to quickly understand
 <br>
 
 
+### Never use _All Caps_ for labels.
+
+Labels written in _All Caps_ are more difficult to read and scan. It can reduce the readability of your text as the height of every letter is identical. This forces a user
+to read letter-by-letter, which reduces the reading speed.
+<br>
+
+
 ### Prefer top-left aligned labels to improve readability and decrease form completion time.
 
 UX research performed at Google, discovered that placing labels above form fields and aligned to the left-hand side decreased form completion time. This is due to the reduced
