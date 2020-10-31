@@ -202,3 +202,13 @@ todo: add example
 
 <br>
 
+
+### Group related information into logical segments.
+
+todo: add description
+
+This is especially important in longer forms where filling all the required information may feel overwhelming.
+
+todo: add example
+
+<br>
