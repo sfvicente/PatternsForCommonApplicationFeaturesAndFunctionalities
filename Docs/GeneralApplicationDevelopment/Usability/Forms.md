@@ -193,3 +193,12 @@ todo: add description
 todo: add example
 
 <br>
+
+
+### Consider ordering fields from easiest to hardest to fill out.
+
+todo: add description
+todo: add example
+
+<br>
+
