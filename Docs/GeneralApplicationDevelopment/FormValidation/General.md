@@ -1,5 +1,6 @@
 # Form Validation | General
 
+Form validation is the process of verifying the correctness and conformity of the information entered in form fields according to the predefined rules for the data.
 <br>
 
 
