@@ -10,6 +10,8 @@ For fields with specific requirements or restrictions, the application may assis
 labels, tooltips, hints or icons.
 
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
@@ -23,6 +25,8 @@ Inline validation is prefered because it decreases form completion time, the num
 TODO: provide study data
 
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
@@ -32,6 +36,8 @@ It not only helps the flow of filling the form but it also builds user confidenc
 
 TODO: complement description
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
@@ -39,6 +45,8 @@ TODO: add examples
 
 TODO: complement description
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
@@ -48,6 +56,8 @@ Messages placed close to the related fields allow users to notice them quickly.
 
 TODO: complement description
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
@@ -57,6 +67,8 @@ By display errors in modal dialogs or popups, you shift the user focus between U
 
 TODO: complement description
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
@@ -64,6 +76,8 @@ TODO: add examples
 
 TODO: complement description
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
@@ -71,6 +85,8 @@ TODO: add examples
 
 TODO: complement description
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
@@ -78,6 +94,8 @@ TODO: add examples
 
 TODO: complement description
 TODO: add examples
+
+Additional Tags: Forms, Usability
 <br>
 
 
