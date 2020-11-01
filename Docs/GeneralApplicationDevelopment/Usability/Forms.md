@@ -210,6 +210,9 @@ todo: add example
 <br>
 
 
+## Structure
+<br>
+
 ### Group related information into logical segments.
 
 todo: add description
