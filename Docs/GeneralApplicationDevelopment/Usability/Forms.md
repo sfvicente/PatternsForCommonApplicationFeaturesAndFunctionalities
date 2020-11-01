@@ -6,6 +6,13 @@ and the data is normally post back to a server for storage.
 <br>
 
 
+### Ask for the least amount of information possible.
+
+todo: complement description
+todo: add examples
+<br>
+
+
 ### Always display a field label.
 
 Field lables are descriptive words or phrases for a UI element in a form such as 'Username' and 'Email Address'. Labels are normally placed close to the form fields. You should
