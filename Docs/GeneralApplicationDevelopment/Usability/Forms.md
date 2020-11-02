@@ -39,13 +39,6 @@ todo: add diagram.
 <br>
 
 
-### Prefer display form elements on a single column.
-
-Forms should constructed to display fields in one column. Creating form layouts as multiple columns ~ forces users to lose focus ~.
-
-TODO: add example
-<br>
-
 ## Input Fields
 
 Input fields are UI elements that allow the user to enter data.
@@ -94,13 +87,6 @@ todo: description
 
 <br>
 Tags: security
-
-
-### Prefer single-column forms for mobile devices.
-
-todo: description
-
-<br>
 
 
 ### Avoid a negative tone for validation error messages.
@@ -205,6 +191,27 @@ todo: add example
 <br>
 
 
+
+
+## Structure
+<br>
+
+
+### Prefer display form elements on a single column.
+
+Forms should constructed to display fields in one column. Creating form layouts as multiple columns ~ forces users to lose focus ~.
+
+TODO: add example
+<br>
+
+
+### Prefer single-column forms for mobile devices.
+
+todo: description
+
+<br>
+
+
 ### Consider ordering fields from easiest to hardest to fill out.
 
 todo: add description
@@ -212,9 +219,6 @@ todo: add example
 
 <br>
 
-
-## Structure
-<br>
 
 ### Group related information into logical segments.
 
