@@ -229,3 +229,13 @@ This is especially important in longer forms where filling all the required info
 todo: add example
 
 <br>
+
+
+### Split long forms into smaller sections. 
+
+todo: add description
+todo: add example
+
+<br>
+
+
