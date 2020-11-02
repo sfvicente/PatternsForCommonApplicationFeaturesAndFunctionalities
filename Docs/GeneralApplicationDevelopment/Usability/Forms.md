@@ -239,3 +239,11 @@ todo: add example
 <br>
 
 
+### Always display progress when transistioning through form steps.
+
+todo: add description
+todo: add example
+
+<br>
+
+
