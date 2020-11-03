@@ -119,6 +119,15 @@ todo: description
 <br>
 
 
+### Automatically default to commonly selected choices.
+
+It not only speeds up form completion but also assists users in understanding what is expected for the fields.
+
+todo: complement description
+todo: add studies
+<br>
+
+
 ### Avoid asking for users to enter their phone numbers.
 
 Users are increasingly more protective of their privacy. Unless absolutely necessary for the functionality of the application, you should avoid asking users for their phone
