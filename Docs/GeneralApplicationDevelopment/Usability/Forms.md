@@ -6,13 +6,6 @@ and the data is normally post back to a server for storage.
 <br>
 
 
-### Ask for the least amount of information possible.
-
-todo: complement description
-todo: add examples
-<br>
-
-
 ### Always display a field label.
 
 Field lables are descriptive words or phrases for a UI element in a form such as 'Username' and 'Email Address'. Labels are normally placed close to the form fields. You should
@@ -119,12 +112,12 @@ todo: description
 <br>
 
 
-### Automatically default to commonly selected choices.
+### Ask for the least amount of information possible.
 
-It not only speeds up form completion but also assists users in understanding what is expected for the fields.
+The objective should be to simplify the forms as much as possible. Forms with a high number of fields leads to a users being frustrated and may lead to fewer conversions.
 
 todo: complement description
-todo: add studies
+todo: add examples
 <br>
 
 
@@ -135,6 +128,24 @@ numbers.
 
 todo: complement description
 todo: add studies
+<br>
+
+
+### Automatically default to commonly selected choices.
+
+It not only speeds up form completion but also assists users in understanding what is expected for the fields.
+
+todo: complement description
+todo: add studies
+<br>
+
+
+### Always enable browser auto-fill for the appropriate fields.
+
+Auto-fill is a feature present in modern browsers like Chrome and Firefox, which automatically places data in specific form fields.
+
+Using auto-fill saves the user time and effort filling out forms, especially with long fields such as names and addresses.
+
 <br>
 
 
@@ -157,15 +168,6 @@ Additional Tags: Accessability
 
 When data is entered in forms, it can be considered valid but not be correct. A portion of users perform review of data inputed into fields and find reassurance in this
 action. Auto-advancing takes the control away from the user, which can be annoying and require additional effort.
-<br>
-
-
-### Always enable browser auto-fill for the appropriate fields.
-
-Auto-fill is a feature present in modern browsers like Chrome and Firefox, which automatically places data in specific form fields.
-
-Using auto-fill saves the user time and effort filling out forms, especially with long fields such as names and addresses.
-
 <br>
 
 
