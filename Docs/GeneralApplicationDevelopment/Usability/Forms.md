@@ -206,6 +206,16 @@ todo: add example
 <br>
 
 
+### Avoid generic or vague captions for action button.
+
+Action buttons should not have captions that do not clearly indicate what action the button will perform. Captions such as "Process", "Send Info" or "Submit" are generic and vague
+and might cause doubt on the user when making decisions.
+
+Use captions that clearly state the intent of the button such as "Register account" or "Update password".
+
+todo: complement description
+todo: add more example
+<br>
 
 
 ## Structure
