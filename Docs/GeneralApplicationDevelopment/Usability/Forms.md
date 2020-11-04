@@ -218,6 +218,14 @@ todo: add more example
 <br>
 
 
+### Avoid including reset buttons in forms.
+
+todo: component description
+todo: add example
+
+<br>
+
+
 ## Structure
 <br>
 
