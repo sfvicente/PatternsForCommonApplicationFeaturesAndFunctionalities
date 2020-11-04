@@ -262,3 +262,15 @@ todo: add example
 <br>
 
 
+## Interaction
+<br>
+
+
+### Use a different style for a field when it gains focus to help indicate that the control has been selected.
+
+todo: add description
+todo: add example
+
+<br>
+
+
