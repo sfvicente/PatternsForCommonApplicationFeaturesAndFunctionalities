@@ -15,6 +15,18 @@ Labels identify the purpose of the field and allows a user to quickly understand
 <br>
 
 
+### Do not replace labels with placeholders.
+
+Placeholders are short texts that describe the expected value for input fields in a form. Placeholders are a useful visual complement to aid the user in filling out a form. However,
+placeholders should not be used to replace field labels.
+
+When an input field receives focus or text is entered, the placeholder disapears. This might force a user to recall what the field expects in case they forget.
+
+todo: complement description
+todo: add diagram.
+<br>
+
+
 ### Never use _All Caps_ for labels.
 
 Labels written in _All Caps_ are more difficult to read and scan. It can reduce the readability of your text as the height of every letter is identical. This forces a user
