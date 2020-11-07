@@ -1,4 +1,7 @@
 # Password Reset | General
+
+The *Password Reset* mechanism, also known as *Forgot Password* is a serice that allow a user to request a change of their current password. It is a required component to implement
+user management systems.
 <br>
 
 
