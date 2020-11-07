@@ -14,6 +14,14 @@ TODO: Complement description.
 <br>
 
 
+### Always ensure that the time the system takes to respond to a password reset request is consistent.
+
+If the response time is consistent, then it won't give an attacker, clues about the existence of accounts.
+
+TODO: Complement description.
+<br>
+
+
 ### Do not generate a new password and send it via email
 
 Generating a password and sending it via email creates a password that will be persisted on the servers of the mail provider. It is also sent over an insecure channel<small>**[1]**</small>.
