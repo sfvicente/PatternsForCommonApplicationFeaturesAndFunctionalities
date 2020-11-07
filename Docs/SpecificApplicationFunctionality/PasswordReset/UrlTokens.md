@@ -4,6 +4,14 @@ Url Tokens are a mechanism for resetting passwords in which identifiers or token
 <br>
 
 
+### Use URL tokens for a simplest and fast implementation for password resets.
+
+Using a url token mechanism is the simplest option to reset passwords for users.
+
+todo: complement description
+<br>
+
+
 ### Make the password reset URLs a one-time process.
 
 All URLs and associated tokens should be invalidated once the password reset process is completed. There is no more need for the the URL or token if the process has been complete successfully. It also limits both the opportunity window and the risk of possible attacks.
