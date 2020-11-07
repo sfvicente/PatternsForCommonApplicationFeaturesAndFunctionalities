@@ -5,9 +5,12 @@ user management systems.
 <br>
 
 
-### Do not disclose the user existence on the recovery page
+### Never disclose if a user exists on the recovery page.
 
-TODO: Add description
+When triggering a request to reset a password, always return a consistent message for both existent and non-existent user accounts. This prevents a malicious user to determine if
+an account exists in the system.
+
+TODO: Complement description.
 <br>
 
 
