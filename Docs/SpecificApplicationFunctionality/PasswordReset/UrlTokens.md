@@ -1,12 +1,12 @@
 # Password Reset | URL Tokens
 
-Url Tokens are a mechanism for resetting passwords in which identifiers or tokens are passed in the query string of a url. The url is normally sent to users via email.
+URL Tokens are a mechanism for resetting passwords in which identifiers or tokens are passed in the query string of a URL. The link is normally sent to users via email.
 <br>
 
 
 ### Use URL tokens for a simple and fast implementation for password resets.
 
-Using a url token mechanism is the simplest option to reset passwords for users.
+Using a URL token mechanism is the simplest option to reset passwords for users.
 
 todo: complement description
 <br>
