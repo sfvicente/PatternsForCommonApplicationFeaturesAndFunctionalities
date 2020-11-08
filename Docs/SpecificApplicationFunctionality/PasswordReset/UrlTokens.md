@@ -12,6 +12,12 @@ todo: complement description
 <br>
 
 
+### Ensure that generated tokens or codes randomly generated using a cryptographically strong algorithm.
+
+todo: complement description
+<br>
+
+
 ### Make the password reset URLs a one-time process by invalidating the token after the process is finished.
 
 All tokens should be invalidated once the password reset process is completed. This will ensure that URL tokens cannot be used again. If the password reset process has been 
