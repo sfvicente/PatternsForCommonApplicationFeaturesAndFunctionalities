@@ -18,6 +18,12 @@ todo: complement description
 <br>
 
 
+### Always ensure that generated tokens or codes are long enough to protect against brute-force attacks.
+
+todo: complement description
+<br>
+
+
 ### Make the password reset URLs a one-time process by invalidating the token after the process is finished.
 
 All tokens should be invalidated once the password reset process is completed. This will ensure that URL tokens cannot be used again. If the password reset process has been 
