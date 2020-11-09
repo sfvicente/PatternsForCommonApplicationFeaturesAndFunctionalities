@@ -32,10 +32,18 @@ completed successfully, there is no more need for thd links or the token. It lim
 <br>
 
 
-### Do not use any references to the account in the password reset URL.
+### Never use any references to accounts or users in a password reset URL.
 
-Each password reset URL should be unique to the current instance of the reset process. Besides being random, it should not contain any external references to the account for which it’s facilitating the reset.
-For example, a reset URL should never use  “https://myapp.com/Reset/?username=JohnDoe”. It exposes a way of abusing the system.
+When using URL tokens for password resets
+
+In addition to be randomly generated and unique to the each instance of the reset process, the URL should not contain any external references accounts or users. For example, see
+the following reset URL:
+
+```
+https://www.mydomain.com/resetpassword/?username=johndoe
+```
+
+An URL such as this discloses which user it's facilitating the reset for, which exposes a mechanism for a malicious user to abuse the system.
 <br>
 
 
