@@ -39,10 +39,13 @@ For example, a reset URL should never use  “https://myapp.com/Reset/?username=Jo
 <br>
 
 
-### Limit the duration of the password reset URL or token.
+### Always limit the duration of the password reset token.
 
-A password reset URL should expire after the process is completed or after a pre-defined period. It ensures that the process is completed within a certain duration. Keeping the expiration window to a minimum reduces the possibility of attackers re-using links, for example, if the user's email is later compromised.
-Limit the duration of the URL to the minimum possible without causing issues to your users.  Consider email delivery and reliability. Recommended duration should be 20 minutes with a maximum of one hour.
+A password reset URL should expire not only after the process is completed but also after a pre-defined time. If the token expires after an appropriate period, it ensures
+that the process has to be completed within a certain duration. Keeping the expiration window to a minimum reduces the possibility of attackers re-using password reset links, 
+such as in the case of compromised email accounts.
+
+Always limit the duration in which a URL token can be used to the minimum possible without creating issues to the users.
 <br>
 
 
