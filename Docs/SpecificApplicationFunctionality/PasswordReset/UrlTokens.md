@@ -65,4 +65,9 @@ todo: complement description
 <br>
 
 
+### Ensure the URL reset tokens are stored securely.
+
+todo: complement description
+<br>
+
 
