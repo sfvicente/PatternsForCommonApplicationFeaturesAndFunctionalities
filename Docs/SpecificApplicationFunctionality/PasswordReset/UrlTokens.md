@@ -49,3 +49,12 @@ Always limit the duration in which a URL token can be used to the minimum possib
 <br>
 
 
+### Consider using a token duration of 20 minutes to a maximum of one hour.
+
+When setting the duration of a token, one must take into account email delivery and reliability.
+
+todo: complement description
+<br>
+
+
+
