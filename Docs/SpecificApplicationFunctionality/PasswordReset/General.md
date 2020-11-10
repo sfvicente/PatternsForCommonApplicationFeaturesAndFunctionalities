@@ -39,3 +39,13 @@ If a password is generated and sent via email, a malicious user can lock the acc
 TODO: Add description
 <br>
 
+
+### Consider invalidating a user's existing sessions after a password reset has been performed sucessfully.
+
+The application can ask users if they would like to invalidate all of their existing sessions. Alternatively, the system may invalidate the sessions automatically.
+
+TODO: Add description
+
+Additional tags: Security, Session Management
+<br>
+
