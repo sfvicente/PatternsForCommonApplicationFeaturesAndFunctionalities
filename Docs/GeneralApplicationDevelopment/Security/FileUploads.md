@@ -29,9 +29,13 @@ TODO: Add description
 <br>
 
 
-### Restrict the maximum allowed size for uploaded files.
+### Always restrict the maximum allowed size for uploaded files.
 
-TODO: Add description
+The application should enforce size restrictions for the upload mechanism. This will allow the system to protect the file storage capacity.
+
+In case the file storage process require decompression of files, the allowed size should consider the extra-space required for the files to be decompressed.
+
+TODO: complement description
 
 <br>
 
