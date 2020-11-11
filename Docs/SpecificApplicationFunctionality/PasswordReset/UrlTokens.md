@@ -18,6 +18,12 @@ todo: complement description
 <br>
 
 
+### Always ensure that each generated token is linked to an individual user in the database.
+
+todo: complement description
+<br>
+
+
 ### Always ensure that generated tokens or codes are long enough to protect against brute-force attacks.
 
 todo: complement description
