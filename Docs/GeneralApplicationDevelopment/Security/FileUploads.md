@@ -22,7 +22,7 @@ TODO: Add description
 <br>
 
 
-### Validate uploaded files against an extensions white-list.
+### Always validate uploaded files against a list of allowed extensions allow.
 
 TODO: Add description
 
