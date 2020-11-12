@@ -29,6 +29,16 @@ TODO: Add description
 <br>
 
 
+### Avoid accepting compressed files such as ZIP files.
+
+It is not recommended allowing applications to accept compressed files. Compressed files such as ZIP archives can contain any type of files. This makes it possible for multiple
+attack methods to be used to harm the system.
+
+TODO: complement description
+
+<br>
+
+
 ### Always restrict the maximum allowed size for uploaded files.
 
 The application should enforce size restrictions for the upload mechanism. This will allow the system to protect the file storage capacity.
