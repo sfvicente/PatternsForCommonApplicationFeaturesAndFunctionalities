@@ -16,3 +16,10 @@ todo: add description.
 <br>
 
 
+### Always return an HTTP response status `413 Request Entity Too Large` to requests that exceed the maximum allowed size.
+
+todo: add description.
+
+<br>
+
+
