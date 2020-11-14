@@ -27,6 +27,13 @@ todo: add description.
 <br>
 
 
+### Always avoid revealing unnecessary details of failed calls by replying with generic error messages.
+
+todo: complement description
+
+<br>
+
+
 ### Do not return internal technical information to clients.
 
 todo: complement description
