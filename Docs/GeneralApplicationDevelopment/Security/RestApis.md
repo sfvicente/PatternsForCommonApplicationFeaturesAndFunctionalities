@@ -23,3 +23,16 @@ todo: add description.
 <br>
 
 
+## Error Handling
+<br>
+
+
+### Do not return internal technical information to clients.
+
+todo: complement description
+
+Examples of internal technical details are an operation callstack or an exception with database errors.
+
+<br>
+
+
