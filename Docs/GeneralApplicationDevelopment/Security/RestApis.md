@@ -43,3 +43,11 @@ Examples of internal technical details are an operation callstack or an exceptio
 <br>
 
 
+## Security Headers
+<br>
+
+### Always include the `Cache-Control: no-store` header in API responses.
+
+todo: complement description
+
+<br>
