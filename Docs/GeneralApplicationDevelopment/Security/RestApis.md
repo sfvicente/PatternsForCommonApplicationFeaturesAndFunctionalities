@@ -67,5 +67,10 @@ Content-Security-Policy: frame-ancestors 'self';
 <br>
 
 
+### Always specify the `Content-Type` as `application/json` for JSON responses.
+
+todo: add description
+
+<br>
 
 
