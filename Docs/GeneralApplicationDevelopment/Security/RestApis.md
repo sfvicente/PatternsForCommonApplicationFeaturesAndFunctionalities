@@ -50,6 +50,7 @@ Examples of internal technical details are an operation callstack or an exceptio
 
 todo: complement description
 
+Additional Tags: HTTP Headers
 <br>
 
 
@@ -63,7 +64,7 @@ Use the `Content-Security-Policy` header to protect the application against clic
 Content-Security-Policy: frame-ancestors 'self';
 ```
 
-
+Additional Tags: HTTP Headers
 <br>
 
 
@@ -71,6 +72,7 @@ Content-Security-Policy: frame-ancestors 'self';
 
 todo: add description
 
+Additional Tags: HTTP Headers
 <br>
 
 
