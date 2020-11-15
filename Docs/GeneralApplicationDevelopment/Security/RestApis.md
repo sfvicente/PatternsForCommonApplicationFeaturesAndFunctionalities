@@ -51,3 +51,21 @@ Examples of internal technical details are an operation callstack or an exceptio
 todo: complement description
 
 <br>
+
+
+### Always include the `Content-Security-Policy` header in API responses.
+
+todo: complement description
+
+Use the `Content-Security-Policy` header to protect the application against clickjacking attacks:
+
+```
+Content-Security-Policy: frame-ancestors 'self';
+```
+
+
+<br>
+
+
+
+
