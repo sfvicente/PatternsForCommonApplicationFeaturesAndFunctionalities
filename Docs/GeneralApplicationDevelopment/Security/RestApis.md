@@ -68,7 +68,7 @@ Additional Tags: HTTP Headers
 <br>
 
 
-### Always specify the `Content-Type` as `application/json` for JSON responses.
+### Always specify the `Content-Type` header with value `application/json` for JSON responses.
 
 todo: add description
 
