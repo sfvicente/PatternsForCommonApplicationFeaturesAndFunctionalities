@@ -76,3 +76,9 @@ Additional Tags: HTTP Headers
 <br>
 
 
+### Always specify the `Strict-Transport-Security` header to require connections over HTTPS and to protect against spoofed certificates.
+
+todo: add description
+
+Additional Tags: HTTP Headers
+<br>
