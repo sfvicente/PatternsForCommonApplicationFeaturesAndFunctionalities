@@ -82,3 +82,22 @@ todo: add description
 
 Additional Tags: HTTP Headers
 <br>
+
+
+## CORS
+
+<Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first
+resource was served.>
+<br>
+
+
+### Always disable CORS headers if cross-domain calls are not supported or expected.
+
+todo: add description
+
+Additional Tags: CORS, HTTP Communication
+<br>
+
+
+
+
