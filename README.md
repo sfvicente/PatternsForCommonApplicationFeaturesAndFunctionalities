@@ -149,6 +149,7 @@ A collection of notes and guidelines for common application features and functio
 **Registration**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Registration/General.md)
 - [Design](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Registration/Design.md)
+- [Terms & Privacy Policy](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Registration/TermsAndPolicy.md)
 
 **Report a Problem**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/ReportProblem/General.md)
