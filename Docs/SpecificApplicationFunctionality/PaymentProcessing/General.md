@@ -57,4 +57,11 @@ Tags: Security|Payments
 <br>
 
 
+### Consider flagging transactions that are four or fives times the normal order amount.
 
+Unusual large purchase amounts are possible indicators of fradulent activity. If the average customer order amount is around 50$, consider flagging orders above 200$.
+
+todo: complement description
+
+Additional Tags: Security
+<br>
