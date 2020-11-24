@@ -38,9 +38,14 @@ TODO: Add description
 <br>
 
 
-### Consider making pricing for each tier available for both monthly and annual subscriptions.
+### Always provide annual subscriptions for each tier in addition to the normal interval.
 
-TODO: Add description
+Pricing for each tier should always be available for both regular tier (monthly for example) and annual subscriptions. Annual subscriptions present important advantages
+to a service provider. It garantees immediate income, prevents customer churn for a longer period and provides predicatability in revenue flow.
+
+It's common practice to make annual pre-paid payment cheaper to encourage users to opt for annual plans.
+
+TODO: complement description
 
 <br>
 
