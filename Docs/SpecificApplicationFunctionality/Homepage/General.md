@@ -32,11 +32,14 @@ todo: description
 <br>
 
 
-### Include supporting images or videos to generate emotion and drive action.
+### Always include supporting images or videos to generate emotion and drive action.
 
-Do not use photos or videos from online repositories. Original, well-crafted images and videos are more impactful.
+Images are powerful triggers to drive user action. The objective for images and videos in a home page is to persuade a customer act on your offer.
 
-todo: description
+Never use generic photos or videos from online repositories. Not only can those assets be seen as cheap or repetitive but original and well designed images and 
+videos produce more impact.
+
+todo: complment description
 
 <br>
 
