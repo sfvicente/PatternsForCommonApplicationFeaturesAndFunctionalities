@@ -18,7 +18,12 @@ todo: complement description
 
 Highlight the problem that the target audience is trying to solve by purchasing your product or service.
 
-Do not use technical language or industry jargon.
+todo: description
+
+<br>
+
+
+### Avoid the use if technical language or industry jargon in the offering text.
 
 todo: description
 
