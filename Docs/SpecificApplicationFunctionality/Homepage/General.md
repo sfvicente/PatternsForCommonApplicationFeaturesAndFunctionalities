@@ -7,7 +7,9 @@ A homepage is the default or front page of web application or site. It is the fi
 
 ### Always display a headline with a clear and simple message that indicates what is being offered.
 
-todo: description
+You should always assume that people don't know what is being offered. Visitors need to understand what is the offering before they can be persuaded to buy.
+
+todo: complement description
 
 <br>
 
