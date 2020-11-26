@@ -21,6 +21,14 @@ todo: add examples
 <br>
 
 
+### Consider removing all navigation links for the header bar with the exception of the call-to-action links.
+
+todo: complement description
+todo: add examples
+
+<br>
+
+
 ## Offering
 <br>
 
