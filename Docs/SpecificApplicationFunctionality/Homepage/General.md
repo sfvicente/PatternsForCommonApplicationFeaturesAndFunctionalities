@@ -5,6 +5,10 @@ A homepage is the default or front page of web application or site. It is the fi
 <br>
 
 
+## Offering
+<br>
+
+
 ### Always display a headline with a clear and simple message that indicates what is being offered.
 
 You should always assume that people don't know what is being offered. Visitors need to understand what is the offering before they can be persuaded to buy.
@@ -30,6 +34,20 @@ todo: description
 <br>
 
 
+### Always list the benefits of the product or service you are offering.
+
+todo: description
+
+<br>
+
+
+### Always list the key features of the product or service you are offering.
+
+todo: description
+
+<br>
+
+
 ### Always have at least one primary call-to-action in the homepage.
 
 The objective of call-to-actions should be drive visitors to the next phases of your sales funnel.
@@ -47,20 +65,6 @@ Never use generic photos or videos from online repositories. Not only can those 
 videos produce more impact.
 
 todo: complment description
-
-<br>
-
-
-### Always list the benefits of the product or service you are offering.
-
-todo: description
-
-<br>
-
-
-### Always list the key features of the product or service you are offering.
-
-todo: description
 
 <br>
 
