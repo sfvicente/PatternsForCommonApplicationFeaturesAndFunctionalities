@@ -5,6 +5,22 @@ A homepage is the default or front page of web application or site. It is the fi
 <br>
 
 
+## Header Bar
+The header bar is a user interface element commonly created as the first section at the top of an application or site. It normally contains the company logo, navigation and a
+call-to-action button.
+<br>
+
+
+### Always separate the navigation list of links and the call-to-action links.
+
+It provides a logical separation in terms of areas and makes locating elements such as the call to action much efficiently.
+
+todo: complement description
+todo: add examples
+
+<br>
+
+
 ## Offering
 <br>
 
