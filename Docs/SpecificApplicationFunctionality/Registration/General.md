@@ -2,9 +2,17 @@
 <br>
 
 
-### Communicate the value proposition on registration.
+## Offering
+<br>
 
-TODO: Add description.
+
+### Always display the offering and the customer benefits on registration.
+
+Similar to the homepage/landing page, the registration should also communicate the value proposition.
+
+When the user is signing up, there should succint information of the offering and the customer benefits. These need to be displayed in a compelling design or structure.
+
+TODO: complement description.
 
 <br>
 
