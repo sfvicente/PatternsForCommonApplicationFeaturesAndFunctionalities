@@ -108,6 +108,10 @@ todo: description
 <br>
 
 
+## Product Categories
+<br>
+
+
 ### Display the product categories on the homepage and ensure they clearly visible.
 
 todo: description
