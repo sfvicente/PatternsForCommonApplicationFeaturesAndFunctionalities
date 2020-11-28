@@ -2,6 +2,18 @@
 <br>
 
 
+### Always provide a concise page title that accurately describes the page’s content and purpose.
+
+The contents of a page title are not only important for search engine optimization (SEO). 
+
+When defining the title for a page, verify that the it describes the page's purpose and content.
+
+TODO: Description
+todo: add examples
+
+<br>
+
+
 ### Do not add more than one <h1> on a page.
 
 TODO: Description
