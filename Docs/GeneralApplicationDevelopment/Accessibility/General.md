@@ -14,6 +14,16 @@ todo: add examples
 <br>
 
 
+### Always ensure page titles are unique across the current application.
+
+Ensure that the title element is unique within all the site's pages.
+
+TODO: complement description
+todo: add examples
+
+<br>
+
+
 ### Do not add more than one <h1> on a page.
 
 TODO: Description
