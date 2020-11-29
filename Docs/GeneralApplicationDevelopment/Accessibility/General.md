@@ -52,3 +52,15 @@ The aria prefix means Accessible Rich Internet Applications.
 
 Additional Tags: CSS
 <br>
+
+
+### Do not rely exclusivly on colour for communication or interaction with the user.
+
+While colour is a good mechanism for communicating with the user, color blindess affects a portion of the population.
+
+For these users, there needs to be another complement to ensure the communication.
+
+TODO: complement description
+todo: add examples
+
+<br>
