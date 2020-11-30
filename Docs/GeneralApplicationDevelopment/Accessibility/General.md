@@ -66,6 +66,16 @@ todo: add examples
 <br>
 
 
+### Always design interfaces with font sizes that do not diminsh the user ability to control zoom web page content and enlarge text.
+
+Users with reduced visual acuity might have diffiulty reading smaller fonts.
+
+TODO: complement description
+todo: add examples
+
+<br>
+
+
 ### Always warn users before opening links in new windows
 
 Opening links in new browser windows can be confusing and frustrating for users on screen readers or users who are cognitive impaired.
