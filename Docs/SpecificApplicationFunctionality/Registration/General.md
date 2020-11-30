@@ -22,6 +22,7 @@ TODO: complement description.
 The Guest Checkout is an application feature that allows a visitor to purchase without logging into or creating an account.
 <br>
 
+
 ### Consider not forcing people to register but having a guest checkout option.
 
 TODO: Add description.
