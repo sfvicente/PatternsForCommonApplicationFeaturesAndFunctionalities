@@ -12,6 +12,17 @@ TODO: Add description.
 <br>
 
 
+### Consider asking for information progressively at different steps on points in time.
+
+Instead of asking all the information useful to the application at registration, ask for the data only when necessary. The objective should be to complete
+the sign up. If data can be added afterwards, request it at a later point in time.
+
+TODO: complement description.
+TODO: Add examples.
+
+<br>
+
+
 ### Always provide a reasonable justification to the user when asking for personal details or sensitive information.
 
 TODO: Add description.
