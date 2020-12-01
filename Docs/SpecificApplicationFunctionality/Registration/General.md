@@ -12,6 +12,13 @@ TODO: Add description.
 <br>
 
 
+### Always provide a reasonable justification to the user when asking for personal details or sensitive information.
+
+TODO: Add description.
+TODO: Add examples.
+
+<br>
+
 
 ### Display the password strength to the user to encourage better security.
 
