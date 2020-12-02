@@ -56,9 +56,9 @@ Additional Tags: CSS
 
 ### Do not rely exclusivly on colour for communication or interaction with the user.
 
-While colour is a good mechanism for communicating with the user, color blindess affects a portion of the population.
+While colour is a good mechanism for communicating with the user, a portion of the population has partial sight, limited color vision or color blindness.
 
-For these users, there needs to be another complement to ensure the communication.
+Do not use only color only to indicate or communicate important information. The application should combine color with text and graphics.
 
 TODO: complement description
 todo: add examples
