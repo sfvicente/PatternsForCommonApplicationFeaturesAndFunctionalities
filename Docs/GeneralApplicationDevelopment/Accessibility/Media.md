@@ -26,3 +26,13 @@ TODO: complement description
 todo: add examples
 
 <br>
+
+
+### Avoid setting `alt` text for decorative images.
+
+When integrating decorative images, set the alternative text as blank or empty.
+
+TODO: complement description
+todo: add examples
+
+<br>
