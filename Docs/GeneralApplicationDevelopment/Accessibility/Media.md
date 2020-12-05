@@ -36,3 +36,13 @@ TODO: complement description
 todo: add examples
 
 <br>
+
+
+### Avoid using the `title` attribute as a replacement of the `alt` text
+
+The title might not be seen by mobile users or users using only keyboards.
+
+TODO: complement description
+todo: add examples
+
+<br>
