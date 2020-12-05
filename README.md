@@ -6,6 +6,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Accessibility**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Accessibility/General.md)
+- [Content](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Accessibility/Content.md)
 - [Links](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Accessibility/Links.md)
 - [Media](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Accessibility/Media.md)
 
