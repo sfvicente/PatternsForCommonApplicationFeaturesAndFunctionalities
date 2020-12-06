@@ -23,3 +23,14 @@ todo: complement description
 todo: add examples
 
 <br>
+
+
+### Always move data that only needs to be retained for compliance to a separate storage.
+
+Moving compliance information to another store or an offline medium makes the database less susceptible to attacks.
+
+todo: complement description
+todo: add examples
+
+<br>
+
