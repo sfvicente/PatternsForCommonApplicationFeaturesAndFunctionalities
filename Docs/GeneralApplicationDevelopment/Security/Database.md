@@ -12,3 +12,14 @@ If information is not required for correct applications functioning, do not stor
 todo: complement description
 
 <br>
+
+
+### Always actively manage database content to delete any data that is no longer needed.
+
+Any data that is no longer relevant or necessary should be archived or deleted. Removing or moving the data out of the store will decrease the value of the information
+on the database and optimize space.
+
+todo: complement description
+todo: add examples
+
+<br>
