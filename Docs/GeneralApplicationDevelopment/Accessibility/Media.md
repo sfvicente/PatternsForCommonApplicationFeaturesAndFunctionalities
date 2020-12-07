@@ -46,6 +46,17 @@ todo: add examples
 <br>
 
 
+### Always hide decorative images from assistive technlogies.
+
+Decorative images are user interface elements that do not contain information and possess no function for the application.
+
+TODO: complement description
+todo: add examples
+
+Do not allow these images to be displayed to assistive technologies.
+<br>
+
+
 ### Avoid setting `alt` text for decorative images.
 
 When integrating decorative images, set the alternative text as blank or empty.
