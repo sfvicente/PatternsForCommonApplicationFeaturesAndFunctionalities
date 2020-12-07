@@ -6,6 +6,24 @@
 <br>
 
 
+### Always include an `alt` attribute for all the `img` declarations.
+
+It is possible that a screen reader may use another property of an image if the `alt` attribute isn't present, such as the `src` or the `title`. To prevent this behavior
+set and image `alt` attribute.
+
+When the alternate text doesn't exist or doesn't make sense for a specific image, set a null or empty `alt` atribute: 
+
+```html
+<img alt ... />
+```
+
+or
+
+```html
+<img alt="" ... />
+```
+
+
 ### Avoid setting `alt` text greater than 250 characters.
 
 Alternative text needs to be brief.
