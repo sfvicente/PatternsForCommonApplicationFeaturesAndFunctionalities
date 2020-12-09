@@ -26,3 +26,17 @@ todo: complement description
 todo: add examples
 
 <br>
+
+
+## Workflows
+<br>
+
+
+### Always display a progress indicator in tooltips that are used in workflow guidance.
+
+This allows the user to understand what is the length of the flow, where they are currently at and how many stages remain for completion.
+
+todo: complement description
+todo: add examples
+
+<br>
