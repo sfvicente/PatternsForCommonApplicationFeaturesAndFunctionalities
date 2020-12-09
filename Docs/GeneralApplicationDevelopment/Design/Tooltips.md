@@ -16,3 +16,13 @@ todo: add examples
 
 Additional Tags: Accessibility
 <br>
+
+
+### Always display one tooltip at a time.
+
+If more than one tooltip is shown at a time, it can be distracting, confusing or annoying.
+
+todo: complement description
+todo: add examples
+
+<br>
