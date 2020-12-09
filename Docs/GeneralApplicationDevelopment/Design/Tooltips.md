@@ -3,7 +3,7 @@
 Tooltips are small and informative text labels that are normally displayed when a user hovers over an element. They can also be displayed when focus is set on an
 element or when the user interacts with it.
 
-Tooltips are used to explain features, provide additional context on functionality or guide a suser through a workflow.
+Tooltips are used to explain features, provide additional context on functionality or guide a user through a workflow.
 <br>
 
 
