@@ -7,6 +7,20 @@ Tooltips are used to explain features, provide additional context on functionali
 <br>
 
 
+### Avoid adding tooltips to non-interactive elements and elements whose focus cannot be set with the keyboard 
+
+Non-interactive HTML elements can pose a problem to users with assistive technologies. Depending on the mechanism used, it is possible that the system is unable to
+trigger or announce the content of a tooltip.
+
+Tooltips should be added to interactive elements or elements that can receive focus through keyboard such as form controls.
+
+todo: complement description
+todo: add examples
+
+Additional Tags: Accessibility
+<br>
+
+
 ### Avoid relying solely on hover as the trigger for displaying tooltip
 
 When tooltips are only shown by hovering over an element, it creates a problem for keyboard users that won't be able to trigger them.
