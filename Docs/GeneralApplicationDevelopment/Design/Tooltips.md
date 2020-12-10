@@ -54,3 +54,13 @@ todo: complement description
 todo: add examples
 
 <br>
+
+
+### Always give an option to go back in tooltips that are used in workflow guidance.
+
+Users might want to go through parts of the workflow again to clarify, confirm or consolidate their understanding.
+
+todo: complement description
+todo: add examples
+
+<br>
