@@ -64,3 +64,13 @@ todo: complement description
 todo: add examples
 
 <br>
+
+
+### Always give an option in tooltips that are used in workflow guidance to allow the user to skip to the end.
+
+At any moment, users should be given the chance to skip the tutorial.
+
+todo: complement description
+todo: add examples
+
+<br>
