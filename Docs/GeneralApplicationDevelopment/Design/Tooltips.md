@@ -52,6 +52,20 @@ todo: add examples
 <br>
 
 
+## Design
+<br>
+
+
+### Consider using rich or contrast colors for tooltip elements.
+
+Using rich colors will highlight the tooltip and contrast colors with distinguish it from backgrounds and other elements.
+
+todo: complement description
+todo: add examples
+
+<br>
+
+
 ## Workflows
 <br>
 
