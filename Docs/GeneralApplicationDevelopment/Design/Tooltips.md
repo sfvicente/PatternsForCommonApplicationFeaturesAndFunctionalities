@@ -32,6 +32,17 @@ Additional Tags: Accessibility
 <br>
 
 
+### Do not cover important parts of the page when displaying tooltips.
+
+When incorporating tooltips, consider their placement in regards to the remaining UI functionality. If a tooltip ends up convering relevant parts of the application, it
+can create friction and seen as annoying or invasive.
+
+todo: complement description
+todo: add examples
+
+<br>
+
+
 ### Avoid including more than one primary action on a tooltip.
 
 Including more than one primary action can confuse users. 
