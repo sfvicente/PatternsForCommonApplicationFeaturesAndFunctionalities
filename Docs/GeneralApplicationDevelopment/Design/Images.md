@@ -17,3 +17,13 @@ todo: add examples
 Additional Tags: Accessibility
 <br>
 
+
+### Always include the `<title>` and `<desc>` tags when implementing SVG images using the `<svg>` element.
+
+todo: add description
+todo: add examples
+
+Additional Tags: Accessibility
+<br>
+
+
