@@ -47,3 +47,16 @@ Additional Tags: Accessibility
 <br>
 
 
+## Image Performance
+<br>
+
+
+### Consider placing frequently used images into image sprites to reduce the number of HTTP requests
+
+todo: add description
+todo: add examples
+
+Additional Tags: Performance
+<br>
+
+
