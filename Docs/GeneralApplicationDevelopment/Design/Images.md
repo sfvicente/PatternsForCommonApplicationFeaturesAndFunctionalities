@@ -2,6 +2,18 @@
 <br>
 
 
+## General
+<br>
+
+
+### Always use relative sizes for images to prevent overflowing the container.
+
+todo: add description
+todo: add examples
+
+<br>
+
+
 ## Scalable Vector Graphics (SVGs)
 
 A scalable vector graphic, commonly refered to as SVG is an XML-based vector graphic file format used to display images. SVGs are normally used in Web applications as
