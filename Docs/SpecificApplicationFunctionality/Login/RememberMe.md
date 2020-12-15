@@ -15,3 +15,12 @@ Additional Tags: Security, Cookies
 <br>
 
 
+### Do not send credentials in every request to the application but only during the log in phase.
+
+Persistent logins should not be implemented with a mechanism to send credentials on every request to the application.
+
+todo: add description
+todo: add examples
+
+Additional Tags: Security
+<br>
