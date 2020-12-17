@@ -13,3 +13,14 @@ todo: add code examples
 Additional Tags: Security, Logging
 <br>
 
+
+### Always remove or expire session cookies at logout.
+
+When managing sessions, if an application performs a logout process, session cookies should be deleted or expired.
+
+todo: complement description
+todo: add code examples
+
+Additional Tags: Security, Cookies
+<br>
+
