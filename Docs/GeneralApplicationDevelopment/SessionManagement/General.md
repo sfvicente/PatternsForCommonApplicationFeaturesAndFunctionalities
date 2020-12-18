@@ -1,6 +1,18 @@
 # Session Management | General
 <br>
 
+## Session ID
+<br>
+
+
+### Do not use use names for session IDs that describe or detail the purpose and meaning of the identifier.
+
+todo: add description
+todo: add code examples
+
+Additional Tags: Security
+<br>
+
 
 ### Consider performing loggging of all session activities.
 
