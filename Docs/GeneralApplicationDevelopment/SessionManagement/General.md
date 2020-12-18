@@ -14,6 +14,17 @@ Additional Tags: Security
 <br>
 
 
+### Always change the default session ID name provided by any web development framework used in the application development.
+
+The name should be changed to a generic name, such as id.
+
+todo: complement description
+todo: add code examples
+
+Additional Tags: Security
+<br>
+
+
 ### Consider performing loggging of all session activities.
 
 Similar to error logging, session logging consists of recording of major session activities. Examples of events that should be saved are the creation and discard of user
