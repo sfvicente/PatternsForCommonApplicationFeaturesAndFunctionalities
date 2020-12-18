@@ -24,3 +24,15 @@ todo: add code examples
 Additional Tags: Security, Cookies
 <br>
 
+
+### Do not switch a given session from HTTP to HTTPS, or vice-versa.
+
+When a session is swiched from HTTP to HTTPS, it will allow the session ID to be captured in the network.
+
+todo: complement description
+todo: add code examples
+
+Additional Tags: Security, HTTP Communication, HTTPS
+<br>
+
+
