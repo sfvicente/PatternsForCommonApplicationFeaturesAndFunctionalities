@@ -56,6 +56,17 @@ todo: complement description
 Additional Tags: Security, Authentication
 <br>
 
+
+### Consider using mutual authentication with client-side certificates to provide an extra layer of protection for critical services/operations.
+
+Mutual authentication, also referred to as two-way authentication is the operation of two parties authenticating each other simultaneously using an authentication protocol.
+
+todo: complement description
+
+Additional Tags: Security
+<br>
+
+
 ## Security Headers
 <br>
 
