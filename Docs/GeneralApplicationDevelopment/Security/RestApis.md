@@ -43,6 +43,19 @@ Examples of internal technical details are an operation callstack or an exceptio
 <br>
 
 
+## HTTPS
+<br>
+
+
+### Always use HTTPS endpoints for secure REST services and their operations.
+
+Using HTTPS provides protection to the authentication process and transmitted data. It prevents confidentialiy for the credentials and integrity of the information.
+
+todo: complement description
+
+Additional Tags: Security, Authentication
+<br>
+
 ## Security Headers
 <br>
 
