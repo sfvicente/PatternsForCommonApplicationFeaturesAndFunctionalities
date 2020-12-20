@@ -48,5 +48,9 @@ TODO: Add examples
 <br>
 
 
+### Prefer the usage of signatures over MACs for integrity protection of JWTs.
 
+TODO: Add description
+TODO: Add examples
 
+<br>
