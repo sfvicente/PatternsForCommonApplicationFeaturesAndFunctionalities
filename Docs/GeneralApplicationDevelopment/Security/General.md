@@ -48,6 +48,14 @@ TODO: Add examples
 <br>
 
 
+### Do not allow the unsecured JWTs: `{"alg":"none"}`.
+
+TODO: Add description
+TODO: Add examples
+
+<br>
+
+
 ### Prefer the usage of signatures over MACs for integrity protection of JWTs.
 
 TODO: Add description
