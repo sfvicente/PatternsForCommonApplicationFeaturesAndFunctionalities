@@ -55,6 +55,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Session Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/SessionManagement/General.md)
+- [Cookies](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/SessionManagement/Cookies.md)
 
 **Structure**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Structure/General.md)
