@@ -70,13 +70,14 @@ TODO: description
 
 ### Do not send a confirmation email after removing a the user from an email list.
 
-It is important to send email notification on important operations and security events. However, when a user unsubuscribes from a mailing list, they expect the operation
-to be executed.
+It is important to send email notifications on important operations and security events pertaining to the account and the user. However, when a user unsubscribes from a mailing
+list, they expect the operation to be executed. In this case, users will neither care or appreciate a confirmation.
 
-Users either don't care or won't appreciate a confirmation. Sending a confirmation email after a user requests a cancelation so they don't receive anymore emails is not recommended.
+Sending an email after a user requests a cancelation of a subscription when they don't want to receive anymore emails is not recommended.
 
 TODO: description
 
+Additional Tags: Email
 <br>
 
 
