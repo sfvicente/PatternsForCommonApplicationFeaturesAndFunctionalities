@@ -2,6 +2,9 @@
 <br>
 
 
+## Process
+<br>
+
 ### Consider having a 1-click unsubscribe process.
 
 From a user's point of view, unscribing from a mailing list should be quick, easy and frictionless.
@@ -13,6 +16,10 @@ By not including mutiple steps, requests for feedback or different options, it m
 
 TODO: description
 
+<br>
+
+
+## Unsubscribe Action
 <br>
 
 
@@ -39,6 +46,10 @@ TODO: description
 <br>
 
 
+## Feedback
+<br>
+
+
 ### After unsubscribing the user, ask for the reason or feedback.
 
 Possible options are:
@@ -50,6 +61,10 @@ Possible options are:
 
 TODO: description
 
+<br>
+
+
+## Communication
 <br>
 
 
