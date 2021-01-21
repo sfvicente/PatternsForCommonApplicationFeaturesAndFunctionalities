@@ -2,6 +2,16 @@
 <br>
 
 
+## Structure & Design
+<br>
+
+### Always optimize the content for the preview pane.
+
+TODO: Description
+
+<br>
+
+
 ### Optimize emails for mobile devices.
 
 TODO: Description
