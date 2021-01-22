@@ -40,12 +40,6 @@ TODO: complement description.
 
 <br>
 
-### Do not make it difficult for the user to unsubscribe.
-
-TODO: Description
-
-<br>
-
 
 ### Consider segmenting your list and sending different content to each segment to better target your customers.
 
