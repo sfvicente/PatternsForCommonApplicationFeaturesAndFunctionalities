@@ -26,6 +26,20 @@ TODO: Description
 <br>
 
 
+## Content
+<br>
+
+
+### Consider using a table of contents
+
+To allow users to efficiently scan the content of the newsletter, consider inserting a table of contents at the top of the email.
+
+One way to construct a table of contents would be to set the titles of each article or section with anchors to link to the appropriate location.
+
+TODO: complement description.
+
+<br>
+
 ### Do not make it difficult for the user to unsubscribe.
 
 TODO: Description
