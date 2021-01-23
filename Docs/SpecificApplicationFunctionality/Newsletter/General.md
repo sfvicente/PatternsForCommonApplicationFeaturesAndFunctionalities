@@ -41,6 +41,17 @@ TODO: complement description.
 <br>
 
 
+### Consider including only partial articles and link back to the application for the full content.
+
+Newsletters can include articles that are available in the associated web site. In this case, consider keeping the newsletter short by only displaying part of each article and
+linking back to the web site. 
+
+In case the articles are short, the full content can be included.
+
+TODO: complement description.
+<br>
+
+
 ## Targeting
 <br>
 
