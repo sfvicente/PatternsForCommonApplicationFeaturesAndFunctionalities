@@ -2,6 +2,21 @@
 <br>
 
 
+## Process
+<br>
+
+
+### Consider sending the email newsletters consistently.
+
+This allows for your audience to grow anticipation and increase the open/viewing rate of the email.
+
+For example, if you have a weekly email newsletter, consider sending it to the subscribers on the exact same day and time every week. 
+
+TODO: complement description
+
+<br>
+
+
 ## Structure & Design
 <br>
 
