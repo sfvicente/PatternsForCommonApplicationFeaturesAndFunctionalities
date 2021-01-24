@@ -27,10 +27,14 @@ TODO: Description
 <br>
 
 
-### Optimize emails for mobile devices.
+### Always optimize emails for viewing in mobile devices.
 
-TODO: Description
+Acording the Litmus study on July 2019, Mobile clients account for 41.9% of email opens during Q1 2019, followed by webmail opens at 39,9% and desktop opens at 18,2%.
 
+TODO: complement description.
+
+[1] The 2019 Email Client Market Share - Litmus, July 2019
+https://www.litmus.com/blog/infographic-the-2019-email-client-market-share/
 <br>
 
 
