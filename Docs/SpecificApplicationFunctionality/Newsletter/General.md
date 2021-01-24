@@ -49,6 +49,15 @@ TODO: Description
 <br>
 
 
+### Consider delivering personalized content to segments of the email list.
+
+Segmentation can be performed based on user behavior, demographics, geographical location, interests and purchase history.
+
+TODO: complement description.
+
+<br>
+
+
 ### Consider using a table of contents
 
 To allow users to efficiently scan the content of the newsletter, consider inserting a table of contents at the top of the email.
