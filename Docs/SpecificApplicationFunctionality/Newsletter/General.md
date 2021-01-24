@@ -91,6 +91,20 @@ TODO: Description
 <br>
 
 
+## Incentives
+<br>
+
+
+### Consider offering exclusive discounts and deals for newsletter subscribers.
+
+People are reluctant to provide personal information such as their email address. Providing exclusive discounts and deals via newsletters can incentivize users to subscribe. It
+is a simple and effective way to offer incentives in exchange for information.
+
+TODO: complement description.
+
+<br>
+
+
 ## Call to Action
 <br>
 
