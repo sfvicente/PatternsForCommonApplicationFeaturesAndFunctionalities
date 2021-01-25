@@ -49,6 +49,14 @@ TODO: Description
 <br>
 
 
+### Always include a contact mailing address in the newsletter footer.
+
+A contact email allows for subscribers to communicate with the company.
+
+TODO: complement description.
+<br>
+
+
 ### Consider delivering personalized content to segments of the email list.
 
 Segmentation can be performed based on user behavior, demographics, geographical location, interests and purchase history.
