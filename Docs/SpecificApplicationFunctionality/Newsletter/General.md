@@ -124,3 +124,15 @@ TODO: Description
 <br>
 
 
+## Testing
+<br>
+
+
+### Always review email statistics frequently.
+
+The statistical data associated with the newsletter should be reviewed constantly.
+
+TODO: complement description.
+
+<br>
+
