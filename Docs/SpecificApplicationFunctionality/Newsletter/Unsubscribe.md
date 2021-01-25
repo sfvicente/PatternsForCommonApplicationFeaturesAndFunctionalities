@@ -5,6 +5,14 @@
 ## Process
 <br>
 
+
+### Always provide subscribers with an accessible and easy to identify option to unsubscribe.
+
+TODO: Description
+
+<br>
+
+
 ### Consider having a 1-click unsubscribe process.
 
 From a user's point of view, unscribing from a mailing list should be quick, easy and frictionless.
