@@ -13,3 +13,13 @@ when the program is complex or has a difficult learning curve. Some products use
 // Todo: Complement description
 
 <br>
+
+
+### Always define limitations for free trials that give users an opportunity to experience a useful portion of the value being offered by the product.
+
+Any limitations set for a free trial should allow the user to still be able to enjoy part of the value of the product. However, the entire value of the product should 
+not be given away for free.
+
+// Todo: Complement description
+
+<br>
