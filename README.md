@@ -145,6 +145,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Pricing Plans**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/PricingPlans/General.md)
+- [Free Trials](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/PricingPlans/FreeTrials.md)
 
 **Privacy Policy**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/ProductListing/General.md)
