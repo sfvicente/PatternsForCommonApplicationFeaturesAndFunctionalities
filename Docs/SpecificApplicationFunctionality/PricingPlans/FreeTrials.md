@@ -2,6 +2,17 @@
 <br>
 
 
+### Consider using an opt-in free trial if the company, product or service is new or less established.
+
+Users are less include to purchase product or service when the company or the offer is recent or less established. 
+
+You can use opt-in free trials to convince more users to sign up for it.
+
+// Todo: Complement description
+
+<br>
+
+
 ### Consider using a free trial length of 14 days.
 
 The trial length should be directly related to the complexity of the product. It should be defined taking into account both the time a user needs to setup in order to use it and
