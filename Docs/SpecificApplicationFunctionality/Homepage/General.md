@@ -9,6 +9,14 @@ A homepage is the default or front page of web application or site. It is the fi
 <br>
 
 
+### Consider including an element that begins above the fold and continues below to encourage the user to scroll down for more content or information.
+
+todo: complement description
+todo: add examples
+
+<br>
+
+
 ### Consider adding an explicit pointer to allow the user to scroll down for more content or information.
 
 todo: complement description
