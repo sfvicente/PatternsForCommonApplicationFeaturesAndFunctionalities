@@ -92,6 +92,17 @@ todo: description
 <br>
 
 
+### Consider using explanatory videos for the product or service being offered.
+
+Videos are more easily absorved and faster processed than text. Consider using videos explaining what product or service is, how it benefits the user and how it
+can be used. The objective is to increase or accelerate conversion.
+
+todo: complement description
+todo: add examples
+
+<br>
+
+
 ## Call-to-Action
 <br>
 
