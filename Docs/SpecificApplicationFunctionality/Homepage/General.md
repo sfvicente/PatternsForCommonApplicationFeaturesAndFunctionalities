@@ -118,9 +118,14 @@ todo: add examples
 
 ### Always have at least one primary call-to-action in the homepage.
 
-The objective of call-to-actions should be drive visitors to the next phases of your sales funnel.
+A call-to-action or CTA is an element in the application designed to call or request a user to perform an action. The objective of call-to-actions
+should be drive visitors to the next phases of your sales funnel.
 
-todo: description
+The call-to-action should be designed so that the user instinctly understands it as something that needs to be acted upon. Users should also expect
+that using it takes then to the next obvious step in the process.
+
+todo: add examples
+todo: complement description
 
 <br>
 
