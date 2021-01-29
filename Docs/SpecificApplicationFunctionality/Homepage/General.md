@@ -57,6 +57,15 @@ todo: add examples
 
 You should always assume that people don't know what is being offered. Visitors need to understand what is the offering before they can be persuaded to buy.
 
+On the fold, your application needs to present a message that specifies either what the business does, or what the product or services offers. This message is
+called _value proposition_.
+
+// TODO Examples
+
+A _value proposition_ is a statement summarizing why a visitor should purchase the products or use the services. It should explain in a succinct and clear way how
+the product or services satisfies a need. It also communicates details about its added benefits while positioning itself superior to existing products or services. Ideally
+it should appeal to the customers most pressing needs or biggest factor that could influence the purchase.
+
 todo: complement description
 
 <br>
