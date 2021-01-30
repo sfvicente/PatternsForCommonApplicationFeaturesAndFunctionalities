@@ -2,6 +2,30 @@
 <br>
 
 
+### Always design the offboarding process as part of the customer journey and as a positive experience.
+
+An offboarding process is part of the customer journey. It should be designed with the objective of leaving a great impression on a customer intending to leave
+the platform, product or service. The experience should be a positive and still provide an opportunity to try and retain a customer that is unsure about the 
+cancellation.
+
+A good experience when offboarding customers can contribute to them deciding on using the product again in the future. Previous customers are also more inclined
+to provide referrals and positive reviews when they had a positive offboarding process.
+
+todo: add examples
+todo: complement description.
+
+A decision to stop using a product or service can be a reflection of the product itself. It could have had a decrease in quality, no longer be satisfying a customer's
+needs or a competitor might have a better offer. However, there could be various reasons that lead a customer to discontinue the use of a service that are outside
+of the product scope. For example, a company could be suffering a financial impact and is cutting down its expenses.
+
+An Offboarding process can include a feedback mechanism as an opportunity to understand why customers are leaving. 
+
+todo: add examples
+todo: complement description.
+
+<br>
+
+
 ### Don’t hide the delete account option.
 
 TODO: description
