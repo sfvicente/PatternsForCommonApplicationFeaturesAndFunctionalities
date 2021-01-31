@@ -33,7 +33,9 @@ TODO: description
 <br>
 
 
-### Prevent accidental account deletion.
+### Consider adding mechanisms to prevent accidental account deletion.
+
+As an account deletion is normally a irreversible action, measures should be taken to prevent an accidental request.
 
 TODO: description
 
