@@ -129,6 +129,7 @@ A collection of notes and guidelines for common application features and functio
 
 **Offboarding**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Offboarding/General.md)
+- [Feedback](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Offboarding/Feedback.md)
 
 **Password Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/PasswordManagement/General.md)
