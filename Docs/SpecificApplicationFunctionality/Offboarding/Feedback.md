@@ -12,3 +12,22 @@ TODO: description
 <br>
 
 
+### Consider providing options for the user to choose from when asking for the reason users are cancelling/deleting their account.
+
+It is more convenient for a user to choose from a group of options than to manually specify the reason.
+
+todo: complement description
+
+The most common reasons for cancellation include:
+	- Cost
+	- Difficulty of use
+	- Missing features
+	- Preferring a competitor or similar product
+	- Lack of use
+	- No longer relevant
+
+todo: complement description
+todo: add examples
+<br>
+
+
