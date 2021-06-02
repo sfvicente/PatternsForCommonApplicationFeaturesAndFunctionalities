@@ -45,11 +45,16 @@ todo: description
 <br>
 
 
-### Use high-quality titles on the web pages.
-
-todo: description
-
+## Headings
+Headings are HTML tags used to define titles or subtitles to be displayed on the web page. HTML provides six different headings which are defined
+using the `<h1>` to `<h6>` tags. The `<h1>` is the largest heading tag and h6 is the smallest.
 <br>
+
+
+### Consider using your keyword phrase once in your `<h1>` tag
+
+TODO: add description
+<br><br>
 
 
 ### Use `robots.txt` to block unwanted crawling for non-sensitive information.
