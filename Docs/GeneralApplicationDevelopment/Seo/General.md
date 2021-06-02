@@ -3,6 +3,10 @@
 <br>
 
 
+## Meta Description
+A Meta description attribute or tag is an HTML element used to describe page content.
+<br>
+
 ### Include META descriptions in the site pages.
 
 todo: description
