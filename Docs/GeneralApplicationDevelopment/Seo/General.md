@@ -14,6 +14,12 @@ todo: description
 <br>
 
 
+### Always write compelling meta descriptions.
+
+TODO: add description
+<br><br>
+
+
 ### Add the main keyword early in the content.
 
 todo: description
