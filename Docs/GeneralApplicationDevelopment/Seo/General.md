@@ -20,6 +20,13 @@ TODO: add description
 <br><br>
 
 
+## `<title>` Element
+A `<title>` tag is an HTML element used to specify the title of a web page. The titles are displayed on the results of search engine as headlines
+that users can click to browse to the web sites. As such, these are important not only for SEO but also for usability, possible sharing of links
+and content in social media.
+<br>
+
+
 ### Add the main keyword early in the content.
 
 todo: description
