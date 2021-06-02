@@ -27,15 +27,14 @@ and content in social media.
 <br>
 
 
+## Content
+<br>
+
+
 ### Add the main keyword early in the content.
 
 todo: description
-
-<br>
-
-
-## Content
-<br>
+<br><br>
 
 
 ### Avoid duplicate content.
