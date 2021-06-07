@@ -8,9 +8,12 @@ TODO: description
 <br><br>
 
 
-### Allow users the possibility to see their password.
+### Consider allowing password unmasking.
+
+Password unmasking is a mechanism that allows users the possibility to see their password.
 
 TODO: description
+
 <br><br>
 
 
