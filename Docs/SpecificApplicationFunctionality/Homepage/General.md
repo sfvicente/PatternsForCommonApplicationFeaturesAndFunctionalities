@@ -148,7 +148,7 @@ todo: complment description
 
 ### Consider including testimonials as social proof to create trust with visitors and customers.
 
-Testimonials are an excellent way to build trust with visitiors.
+Testimonials are an excellent way to build trust with visitors. It allows a site or product to establish credibility.
 
 todo: description
 
