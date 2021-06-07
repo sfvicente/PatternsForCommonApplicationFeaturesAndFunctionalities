@@ -63,7 +63,9 @@ TODO: add description.
 
 TODO: add description.
 
-<br>
+
+Additional Tags: Security
+<br><br>
 
 
 ### Consider sending an email to the user to notify them of the password change.
@@ -71,5 +73,3 @@ TODO: add description.
 TODO: add description.
 
 <br>
-
-
