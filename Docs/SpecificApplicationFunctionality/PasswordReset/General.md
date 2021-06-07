@@ -5,13 +5,19 @@ user management systems.
 <br>
 
 
-### Never disclose if a user exists on the recovery page.
+### Never disclose if a user exists with the password recovery mechanism.
 
-When triggering a request to reset a password, always return a consistent message for both existent and non-existent user accounts. This prevents a malicious user to determine if
-an account exists in the system.
+When triggering a request to reset a password, always return a consistent message for both existent and non-existent user accounts. This prevents
+attackers to determine if an account exists in the system.
+
+TODO: add example
+
+
+The output of the operation, should never disclose that the account hasn't been found or that the user does not exist.
 
 TODO: Complement description.
-<br>
+
+<br><br>
 
 
 ### Always ensure that the time the system takes to respond to a password reset request is consistent.
