@@ -8,7 +8,9 @@ it easier to predict revenue levels and fulfillment needs.
 <br>
 
 
-### Communicate the subscription value to retain subscribers.
+### Subscription value should be communicated to help retaining subscribers.
+
+Users subscribe to products or services because they believe those add value to them or their activity. 
 
 TODO: description
 
