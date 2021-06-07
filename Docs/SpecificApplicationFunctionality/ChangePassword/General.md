@@ -9,11 +9,12 @@ TODO: add description.
 <br>
 
 
-### Explaining upfront what the password requirements are.
+### Consider explaining upfront what the password requirements are.
 
 TODO: add description.
 
-<br>
+
+<br><br>
 
 
 ### Always request the current password before replacing it with a new password.
