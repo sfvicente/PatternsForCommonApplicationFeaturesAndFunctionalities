@@ -80,7 +80,7 @@ todo: description
 <br>
 
 
-### Avoid the use if technical language or industry jargon in the offering text.
+### Avoid the use of technical language or industry jargon in the offering text.
 
 todo: description
 
