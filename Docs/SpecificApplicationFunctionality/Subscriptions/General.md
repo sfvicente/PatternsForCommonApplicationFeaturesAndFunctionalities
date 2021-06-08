@@ -17,7 +17,7 @@ TODO: description
 <br>
 
 
-### Do not lock in customers from the beggining.
+### Do not lock in customers from the beginning.
 
 TODO: description
 
