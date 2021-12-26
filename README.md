@@ -10,6 +10,9 @@ A collection of notes and guidelines for common application features and functio
 - [Links](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Accessibility/Links.md)
 - [Media](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Accessibility/Media.md)
 
+**Caching**
+- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Caching/General.md)
+
 **Content**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/GeneralApplicationDevelopment/Content/General.md)
 
