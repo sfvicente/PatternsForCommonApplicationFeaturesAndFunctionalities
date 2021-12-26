@@ -49,13 +49,6 @@ TODO: Add description
 <br>
 
 
-### Use browser and server caching to reduce latency and network traffic
-
-TODO: Add description
-
-<br>
-
-
 ### Use domain name prefetching to resolve domain names before users follow links.
 
 TODO: Add description
