@@ -48,7 +48,7 @@ TODO: description
 <br>
 
 
-### Display an option to allow user to recover their forgotten password.
+### Always display an option to allow user to recover their forgotten password.
 
 TODO: description
 
