@@ -34,7 +34,7 @@ TODO: description
 <br>
 
 
-### Allow users the option to remain logged in
+### Consider allowing users the option to remain logged in.
 
 TODO: description
 
