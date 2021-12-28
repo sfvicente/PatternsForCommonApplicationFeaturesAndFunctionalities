@@ -23,7 +23,7 @@ TODO: description
 <br><br>
 
 
-### Prefer email addresses to usernames for the login credentials.
+### Always prefer using email addresses to usernames for the login credentials.
 
 TODO: description
 <br>
