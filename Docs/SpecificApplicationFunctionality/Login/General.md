@@ -17,7 +17,7 @@ TODO: description
 <br><br>
 
 
-### Maintain users logged in whenever possible.
+### Consider maintaining users logged in whenever possible.
 
 TODO: description
 <br><br>
