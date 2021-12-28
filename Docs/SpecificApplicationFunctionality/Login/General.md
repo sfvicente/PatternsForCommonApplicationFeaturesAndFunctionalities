@@ -2,7 +2,7 @@
 <br>
 
 
-### Let users know if Caps Lock is turned on.
+### Consider letting users know if Caps Lock is turned on.
 
 TODO: description
 <br><br>
