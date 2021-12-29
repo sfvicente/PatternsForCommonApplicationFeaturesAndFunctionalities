@@ -41,7 +41,7 @@ TODO: description
 <br>
 
 
-### Warn users before locking their account
+### Consider warning users before locking their account.
 
 TODO: description
 
