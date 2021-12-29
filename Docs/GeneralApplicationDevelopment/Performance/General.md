@@ -63,7 +63,7 @@ TODO: Add description
 <br>
 
 
-### Adopt HTTP/2.
+### Consider adopting HTTP/2.
 
 TODO: Add description
 
