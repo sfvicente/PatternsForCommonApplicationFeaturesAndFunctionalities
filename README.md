@@ -177,8 +177,14 @@ A collection of notes and guidelines for common application features and functio
 **Session Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SessionManagement/General.md)
 
+	**Login**
+	- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SessionManagement/Login/General.md)
+	- [Authentication](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SessionManagement/Login/Authentication.md)
+	- [RememberMe](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SessionManagement/Login/RememberMe.md)
+	- [Security](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SessionManagement/Login/Security.md)
+
 	**Logout**
-		- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SessionManagement/Logout/General.md)
+	- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/SessionManagement/Logout/General.md)
 
 **Shopping Cart**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/ShoppingCart/General.md)
