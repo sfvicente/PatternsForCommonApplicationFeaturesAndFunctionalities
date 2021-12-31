@@ -19,7 +19,10 @@ TODO: Add description
 <br>
 
 
-### Do not store passwords using a reversible encryption mechanism under any circumstances.
+### Never store passwords using reversible encryption mechanisms.
+
+Under any circumstances should reversible encryption mechanism be used to store passwords in a system. Instead, cryptographically strong hashes of the passwords should be
+generated and stored.
 
 TODO: Add description
 <br>
