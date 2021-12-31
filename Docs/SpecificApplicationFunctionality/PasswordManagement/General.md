@@ -4,7 +4,11 @@ Password management is a set of principles and practices that provide guidance t
 to help ensure the implementation of proper password security and prevent unauthorized access.
 <br>
 
-### Do not store plaintext passwords under any circumstances. Instead store a cryptographically strong hash of the password that cannot be reversed.
+### Never store plaintext passwords. Instead, store cryptographically strong hashes of passwords.
+
+Under any circumstances should passwords be stored in a system as plaintext.
+
+By storing cryptographically strong hashes of passwords, it garantees that those passwords cannot be reversed.
 
 TODO: Add description
 <br>
