@@ -11,11 +11,15 @@ Under any circumstances should passwords be stored in a system as plaintext.
 By storing cryptographically strong hashes of passwords, it garantees that those passwords cannot be reversed.
 
 TODO: Add description
+
+Additional Tags: Security
 <br>
 
 ### Never use deprecated hashing algorithms such as MD5 and SHA1.
 
 TODO: Add description
+
+Additional Tags: Security
 <br>
 
 
@@ -25,6 +29,8 @@ Under any circumstances should reversible encryption mechanism be used to store 
 generated and stored.
 
 TODO: Add description
+
+Additional Tags: Security
 <br>
 
 
