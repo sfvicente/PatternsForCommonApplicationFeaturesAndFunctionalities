@@ -28,9 +28,14 @@ TODO: Add description
 <br>
 
 
-### Do not store passwords using a custom-developed hashing mechanism under any circumstances.
+### Never store passwords using custom-developed hashing mechanisms.
+
+Under any circumstances should hashes of passwords obtained from custom-developed mechanisms be stored in a system. Instead, use cryptographically strong and proven hashing
+mechanisms to generate hashes that cannot be attacked and reversed.
 
 TODO: Add description
+
+Additional Tags: Security, Hashing
 <br>
 
 
