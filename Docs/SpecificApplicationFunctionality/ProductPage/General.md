@@ -2,7 +2,7 @@
 <br>
 
 
-### Use high quality product images.
+### Consider use high quality images for products.
 
 TODO: Description
 
