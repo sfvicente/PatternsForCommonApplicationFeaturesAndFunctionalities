@@ -9,7 +9,7 @@ TODO: Description
 <br>
 
 
-### Make the purchase or add-to-cart button stand out from the rest of the page elements.
+### Consider making the purchase or add-to-cart button stand out from the rest of the page elements.
 
 TODO: Description
 
