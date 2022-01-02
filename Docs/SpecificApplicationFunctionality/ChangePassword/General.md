@@ -2,7 +2,7 @@
 <br>
 
 
-### Offers dedicated form for changing a user's account password.
+### Always offer a dedicated form for changing a user's account password.
 
 TODO: add description.
 
