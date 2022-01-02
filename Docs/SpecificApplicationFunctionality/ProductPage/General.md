@@ -45,10 +45,9 @@ TODO: Description
 <br>
 
 
-### Allow users to purchase temporarily ‘Out of Stock’ products.
+### Consider allowing users to purchase temporarily ‘Out of Stock’ products.
 
 TODO: Description
 
 <br>
-
 
