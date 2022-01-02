@@ -30,7 +30,7 @@ generated and stored.
 
 TODO: Add description
 
-Additional Tags: Security
+Additional Tags: Security, Encryption
 <br>
 
 
