@@ -81,6 +81,11 @@ A collection of notes and guidelines for common application features and functio
 **Account Management**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/AccountManagement/General.md)
 
+	**Registration**
+	- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/AccountManagement/Registration/General.md)
+	- [Design](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/AccountManagement/Registration/Design.md)
+	- [Terms & Privacy Policy](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/AccountManagement/Registration/TermsAndPolicy.md)
+
 **Checkout**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Checkout/General.md)
 - [Promotion Codes](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Checkout/PromotionCodes.md)
@@ -162,11 +167,6 @@ A collection of notes and guidelines for common application features and functio
 
 **Product Reviews**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/ProductReviews/General.md)
-
-**Registration**
-- [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Registration/General.md)
-- [Design](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Registration/Design.md)
-- [Terms & Privacy Policy](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/Registration/TermsAndPolicy.md)
 
 **Report a Problem**
 - [General](https://github.com/sfvicente/PatternsForCommonApplicationFeaturesAndFunctionalities/blob/master/Docs/SpecificApplicationFunctionality/ReportProblem/General.md)
