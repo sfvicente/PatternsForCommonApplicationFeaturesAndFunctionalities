@@ -44,9 +44,11 @@ TODO: Example
 <br>
 
 
-### Display the password policy to allow users to create the right password the first time.
+### Consider displaying the password policy to allow users to create the right password the first time.
 
-TODO: Add description.
+As the user is not aware of the rules and restrictions, the user will receive an error. This 
+
+TODO: complement description.
 
 <br>
 
