@@ -31,11 +31,12 @@ TODO: Add examples.
 <br>
 
 
-### Display the password strength to the user to encourage better security.
+### Consider displaying the password strength to the user to encourage better security.
 
-When users register their account, the aplication should encourage the creation of a strong password.
+When users are registering their account, the aplication should encourage the creation of a strong password.
 
-Consider displaying the password strength as the user enters the password. This enables the user to view how strong their password is and change it accordingly.
+Consider displaying the password strength as users set their password. This enables users to view how strong their password is and encourages
+them to change it accordingly.
 
 
 TODO: Example
