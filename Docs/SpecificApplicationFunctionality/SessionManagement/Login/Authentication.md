@@ -17,6 +17,7 @@ Examples of use cases for using 2FA include:
 
 TODO: complement.
 
+Additional Tags: Security
 <br>
 
 
@@ -29,6 +30,7 @@ Using SMS for 2FA is considered less secure then using an authentication applica
 
 TODO: complement.
 
+Additional Tags: Security
 <br>
 
 
@@ -38,6 +40,7 @@ Examples of secure authentication applications include Google Authenticator, Mic
 
 TODO: complement.
 
+Additional Tags: Security
 <br>
 
 
