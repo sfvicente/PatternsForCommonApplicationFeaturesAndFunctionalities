@@ -2,7 +2,7 @@
 <br>
 
 
-### Lock the user account after specific number of incorrect login attempts.
+### Consider locking a user account after specific number of incorrect login attempts.
 
 TODO: add description
 
