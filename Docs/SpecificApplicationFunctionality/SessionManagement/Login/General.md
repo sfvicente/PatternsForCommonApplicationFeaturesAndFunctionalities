@@ -29,8 +29,10 @@ TODO: description
 <br>
 
 
-### Remember user details when they return to the web site.
+### Consider remembering the user details when they return to the web site.
+
 TODO: description
+
 <br>
 
 
