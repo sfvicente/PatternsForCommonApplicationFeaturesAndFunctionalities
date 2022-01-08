@@ -21,3 +21,13 @@ The recommended length of a session ID is 128 bits.
 
 Additional Tags: Security
 <br>
+
+
+### Always ensure session IDs are randomly generated.
+
+When session IDs are generated randomly, it ensures that attackers are not able to guess the code/number using predictability analysis.
+
+// Complement description
+
+Additional Tags: Security
+<br>
