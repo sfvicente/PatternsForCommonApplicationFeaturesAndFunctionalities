@@ -31,3 +31,13 @@ When session IDs are generated randomly, it ensures that attackers are not able 
 
 Additional Tags: Security
 <br>
+
+
+### Always ensure that generated session ID do not contain sensitive data.
+
+No sensitive data should be added to session IDs. The identifier should be composed of random characters.
+
+// Complement description
+
+Additional Tags: Security
+<br>
