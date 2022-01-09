@@ -52,6 +52,7 @@ The cookie purpose, provider, expiry date, and type must be detailed in the priv
 
 TODO: Add description
 
+Additional Tags: Regulation
 <br>
 
 
