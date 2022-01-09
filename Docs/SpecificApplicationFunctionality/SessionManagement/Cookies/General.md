@@ -46,9 +46,9 @@ TODO: Add description
 <br>
 
 
-### Describe in detail each cookie, its provider, purpose, expiry date, and type in a privacy policy.
+### Always describe each cookie in detail in the privacy policy.
 
-This is required by EU regulation.
+The cookie purpose, provider, expiry date, and type must be detailed in the privacy policy. This is required by EU regulation.
 
 TODO: Add description
 
