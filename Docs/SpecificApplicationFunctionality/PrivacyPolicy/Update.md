@@ -4,6 +4,14 @@
 This section describes guidelines for managing and communicating updates to a privacy policy.
 
 
+### Always send an email notification to user when changes occur in the privacy policy.
+
+TODO: description.
+
+Additional Tags: Email Communication
+<br>
+
+
 ### Always explain what has changed and the reasons why it has been changed.
 
 TODO: description.
