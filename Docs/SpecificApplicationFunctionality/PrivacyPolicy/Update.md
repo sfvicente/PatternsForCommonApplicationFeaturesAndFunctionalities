@@ -11,7 +11,7 @@ TODO: description.
 <br>
 
 
-### Specify the date when the changes will come into effect.
+### Always specify the date when the changes will come into effect.
 
 TODO: description.
 
