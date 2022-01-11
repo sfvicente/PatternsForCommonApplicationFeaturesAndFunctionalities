@@ -25,7 +25,7 @@ TODO: description.
 <br>
 
 
-### Encourage the user to contact the company directly with any questions regarding the update or the privacy policy.
+### Consider encouraging the user to contact the company directly with any questions regarding the update or the privacy policy.
 
 TODO: description.
 
