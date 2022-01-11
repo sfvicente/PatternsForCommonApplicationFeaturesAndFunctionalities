@@ -4,7 +4,7 @@
 This section describes guidelines for managing and communicating updates to a privacy policy.
 
 
-### Explain what has changed and the reasons why it has been changed.
+### Always explain what has changed and the reasons why it has been changed.
 
 TODO: description.
 
