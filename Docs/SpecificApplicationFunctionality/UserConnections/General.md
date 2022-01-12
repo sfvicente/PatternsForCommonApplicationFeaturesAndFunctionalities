@@ -28,6 +28,15 @@ TODO: Description
 <br>
 
 
+### Consider allowing users to block an existing connection.
+
+The objective is to prevent interactions without removing the connection.
+
+TODO: Description
+
+<br>
+
+
 ### Always allow users to remove an existing connection.
 
 TODO: Description
