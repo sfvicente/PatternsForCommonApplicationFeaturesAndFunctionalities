@@ -48,7 +48,7 @@ TODO: Description
 <br>
 
 
-### Display the exact date of expected delivery of each cart item.
+### Consider displaying the expected delivery of each cart item.
 
 TODO: Description
 
