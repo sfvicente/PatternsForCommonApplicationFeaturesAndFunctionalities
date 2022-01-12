@@ -41,7 +41,7 @@ TODO: Description
 <br>
 
 
-### Make shipping costs obvious at checkout
+### Always make shipping costs obvious at checkout.
 
 TODO: Description
 
