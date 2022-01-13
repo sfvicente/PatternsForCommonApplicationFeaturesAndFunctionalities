@@ -16,7 +16,7 @@ TODO: description
 <br>
 
 
-### Distinguish reviews with verified purchases.
+### Always distinguish reviews with verified purchases.
 
 TODO: description
 
