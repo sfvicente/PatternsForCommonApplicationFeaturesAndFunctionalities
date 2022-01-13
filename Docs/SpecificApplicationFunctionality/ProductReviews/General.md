@@ -94,6 +94,7 @@ Customer requirements for a product may vary depending on their location. Also, 
 
 TODO: description
 
+Additional Tags: Location
 <br>
 
 
