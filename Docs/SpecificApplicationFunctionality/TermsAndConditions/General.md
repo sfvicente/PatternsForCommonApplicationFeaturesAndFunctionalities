@@ -81,7 +81,9 @@ TODO: Description
 <br>
 
 
-### Describe all the information that is collected from users, how it will used and managed.
+### Always describe all the information that is collected from users, how it will used and managed.
+
+Personal data is sensitive information.
 
 TODO: Description
 
