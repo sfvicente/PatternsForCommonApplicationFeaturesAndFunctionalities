@@ -9,7 +9,9 @@ Service and application providers can use the terms and conditions for making an
 <br>
 
 
-### Ensure the terms and conditions are not hidden or hard to access.
+### Always ensure the terms and conditions are not hidden, difficult to locate or hard to access.
+
+Accessing the terms and conditions should be easy and straightforward.
 
 TODO: Description
 
