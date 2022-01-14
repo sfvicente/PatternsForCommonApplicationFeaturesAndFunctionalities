@@ -88,8 +88,9 @@ TODO: Description
 <br>
 
 
-### Inform your customers on any changes to the terms and conditions.
+### Always inform your customers on any changes to the terms and conditions.
 
+It is critical that customers are notified of any changes.
 TODO: Description
 
 <br>
