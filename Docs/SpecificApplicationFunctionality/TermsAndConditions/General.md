@@ -64,6 +64,7 @@ and the intervals at which payments are processed.
 
 TODO: Description
 
+Additional Tags: Payments, Recurring Payments
 <br>
 
 
