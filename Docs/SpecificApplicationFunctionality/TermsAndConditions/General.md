@@ -57,7 +57,10 @@ TODO: Description
 <br>
 
 
-### Include all information on recurring payments, including associated dates.
+### Always include all information on recurring payments, including associated dates.
+
+In a recurring payment model, customers authorize the transfer of funds from their accounts automatically. It is critical for customers to understand the process
+and the intervals at which payments are processed.
 
 TODO: Description
 
