@@ -48,7 +48,9 @@ TODO: Description
 <br>
 
 
-### Include all information on accepted payment methods.
+### Always include all necessary information on accepted payment methods.
+
+The available payment methods can influence the decision of a customer tu purchase a product or service.
 
 TODO: Description
 
