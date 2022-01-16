@@ -54,6 +54,7 @@ The available payment methods can influence the decision of a customer tu purcha
 
 TODO: Description
 
+Additional Tags: Payments, Payment Methods
 <br>
 
 
