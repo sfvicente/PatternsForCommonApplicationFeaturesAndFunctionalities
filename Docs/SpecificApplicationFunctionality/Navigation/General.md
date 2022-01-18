@@ -57,6 +57,7 @@ Additional Tags: Footer
 
 todo: complement description
 
+Additional Tags: Responsive Design, Mobile
 <br>
 
 
