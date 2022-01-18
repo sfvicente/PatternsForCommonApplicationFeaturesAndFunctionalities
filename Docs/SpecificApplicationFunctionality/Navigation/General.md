@@ -41,6 +41,7 @@ Tags: Usability|Navigation
 
 todo: complement description
 
+Additional Tags: Footer
 <br>
 
 
@@ -48,6 +49,7 @@ todo: complement description
 
 todo: complement description
 
+Additional Tags: Footer
 <br>
 
 
